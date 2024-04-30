@@ -1,0 +1,1602 @@
+{
+    "/home/kdt46/720p_output/326.pcap": {
+        "udp connection": 373,
+        "quic connection": 373
+    },
+    "/home/kdt46/720p_output/391.pcap": {
+        "udp connection": 353,
+        "quic connection": 353
+    },
+    "/home/kdt46/720p_output/53.pcap": {
+        "udp connection": 533,
+        "quic connection": 533
+    },
+    "/home/kdt46/720p_output/282.pcap": {
+        "udp connection": 336,
+        "quic connection": 336
+    },
+    "/home/kdt46/720p_output/56.pcap": {
+        "udp connection": 298,
+        "quic connection": 298
+    },
+    "/home/kdt46/720p_output/379.pcap": {
+        "udp connection": 138,
+        "quic connection": 138
+    },
+    "/home/kdt46/720p_output/359.pcap": {
+        "udp connection": 330,
+        "quic connection": 330
+    },
+    "/home/kdt46/720p_output/233.pcap": {
+        "udp connection": 464,
+        "quic connection": 464
+    },
+    "/home/kdt46/720p_output/28.pcap": {
+        "udp connection": 128,
+        "quic connection": 128
+    },
+    "/home/kdt46/720p_output/207.pcap": {
+        "udp connection": 278,
+        "quic connection": 278
+    },
+    "/home/kdt46/720p_output/50.pcap": {
+        "udp connection": 909,
+        "quic connection": 909
+    },
+    "/home/kdt46/720p_output/6.pcap": {
+        "udp connection": 314,
+        "quic connection": 314
+    },
+    "/home/kdt46/720p_output/356.pcap": {
+        "udp connection": 495,
+        "quic connection": 495
+    },
+    "/home/kdt46/720p_output/103.pcap": {
+        "udp connection": 614,
+        "quic connection": 614
+    },
+    "/home/kdt46/720p_output/371.pcap": {
+        "udp connection": 32,
+        "quic connection": 32
+    },
+    "/home/kdt46/720p_output/329.pcap": {
+        "udp connection": 39,
+        "quic connection": 39
+    },
+    "/home/kdt46/720p_output/396.pcap": {
+        "udp connection": 269,
+        "quic connection": 269
+    },
+    "/home/kdt46/720p_output/35.pcap": {
+        "udp connection": 630,
+        "quic connection": 630
+    },
+    "/home/kdt46/720p_output/147.pcap": {
+        "udp connection": 469,
+        "quic connection": 469
+    },
+    "/home/kdt46/720p_output/353.pcap": {
+        "udp connection": 520,
+        "quic connection": 520
+    },
+    "/home/kdt46/720p_output/125.pcap": {
+        "udp connection": 174,
+        "quic connection": 174
+    },
+    "/home/kdt46/720p_output/307.pcap": {
+        "udp connection": 270,
+        "quic connection": 270
+    },
+    "/home/kdt46/720p_output/88.pcap": {
+        "udp connection": 573,
+        "quic connection": 573
+    },
+    "/home/kdt46/720p_output/41.pcap": {
+        "udp connection": 609,
+        "quic connection": 609
+    },
+    "/home/kdt46/720p_output/161.pcap": {
+        "udp connection": 119,
+        "quic connection": 119
+    },
+    "/home/kdt46/720p_output/1.pcap": {
+        "udp connection": 679,
+        "quic connection": 553
+    },
+    "/home/kdt46/720p_output/336.pcap": {
+        "udp connection": 365,
+        "quic connection": 365
+    },
+    "/home/kdt46/720p_output/20.pcap": {
+        "udp connection": 695,
+        "quic connection": 695
+    },
+    "/home/kdt46/720p_output/387.pcap": {
+        "udp connection": 688,
+        "quic connection": 688
+    },
+    "/home/kdt46/720p_output/278.pcap": {
+        "udp connection": 306,
+        "quic connection": 306
+    },
+    "/home/kdt46/720p_output/274.pcap": {
+        "udp connection": 556,
+        "quic connection": 556
+    },
+    "/home/kdt46/720p_output/188.pcap": {
+        "udp connection": 339,
+        "quic connection": 339
+    },
+    "/home/kdt46/720p_output/256.pcap": {
+        "udp connection": 319,
+        "quic connection": 319
+    },
+    "/home/kdt46/720p_output/121.pcap": {
+        "udp connection": 27,
+        "quic connection": 27
+    },
+    "/home/kdt46/720p_output/144.pcap": {
+        "udp connection": 271,
+        "quic connection": 271
+    },
+    "/home/kdt46/720p_output/384.pcap": {
+        "udp connection": 331,
+        "quic connection": 331
+    },
+    "/home/kdt46/720p_output/339.pcap": {
+        "udp connection": 365,
+        "quic connection": 365
+    },
+    "/home/kdt46/720p_output/284.pcap": {
+        "udp connection": 274,
+        "quic connection": 274
+    },
+    "/home/kdt46/720p_output/68.pcap": {
+        "udp connection": 611,
+        "quic connection": 611
+    },
+    "/home/kdt46/720p_output/219.pcap": {
+        "udp connection": 267,
+        "quic connection": 267
+    },
+    "/home/kdt46/720p_output/109.pcap": {
+        "udp connection": 380,
+        "quic connection": 380
+    },
+    "/home/kdt46/720p_output/71.pcap": {
+        "udp connection": 31,
+        "quic connection": 31
+    },
+    "/home/kdt46/720p_output/182.pcap": {
+        "udp connection": 306,
+        "quic connection": 306
+    },
+    "/home/kdt46/720p_output/206.pcap": {
+        "udp connection": 709,
+        "quic connection": 709
+    },
+    "/home/kdt46/720p_output/229.pcap": {
+        "udp connection": 324,
+        "quic connection": 324
+    },
+    "/home/kdt46/720p_output/294.pcap": {
+        "udp connection": 319,
+        "quic connection": 319
+    },
+    "/home/kdt46/720p_output/266.pcap": {
+        "udp connection": 394,
+        "quic connection": 394
+    },
+    "/home/kdt46/720p_output/13.pcap": {
+        "udp connection": 404,
+        "quic connection": 322
+    },
+    "/home/kdt46/720p_output/279.pcap": {
+        "udp connection": 295,
+        "quic connection": 295
+    },
+    "/home/kdt46/720p_output/227.pcap": {
+        "udp connection": 258,
+        "quic connection": 258
+    },
+    "/home/kdt46/720p_output/226.pcap": {
+        "udp connection": 367,
+        "quic connection": 367
+    },
+    "/home/kdt46/720p_output/120.pcap": {
+        "udp connection": 48,
+        "quic connection": 48
+    },
+    "/home/kdt46/720p_output/126.pcap": {
+        "udp connection": 277,
+        "quic connection": 277
+    },
+    "/home/kdt46/720p_output/264.pcap": {
+        "udp connection": 349,
+        "quic connection": 349
+    },
+    "/home/kdt46/720p_output/78.pcap": {
+        "udp connection": 322,
+        "quic connection": 322
+    },
+    "/home/kdt46/720p_output/189.pcap": {
+        "udp connection": 359,
+        "quic connection": 359
+    },
+    "/home/kdt46/720p_output/33.pcap": {
+        "udp connection": 407,
+        "quic connection": 407
+    },
+    "/home/kdt46/720p_output/397.pcap": {
+        "udp connection": 497,
+        "quic connection": 497
+    },
+    "/home/kdt46/720p_output/304.pcap": {
+        "udp connection": 284,
+        "quic connection": 284
+    },
+    "/home/kdt46/720p_output/223.pcap": {
+        "udp connection": 640,
+        "quic connection": 640
+    },
+    "/home/kdt46/720p_output/64.pcap": {
+        "udp connection": 872,
+        "quic connection": 872
+    },
+    "/home/kdt46/720p_output/150.pcap": {
+        "udp connection": 1097,
+        "quic connection": 1097
+    },
+    "/home/kdt46/720p_output/117.pcap": {
+        "udp connection": 289,
+        "quic connection": 289
+    },
+    "/home/kdt46/720p_output/166.pcap": {
+        "udp connection": 622,
+        "quic connection": 622
+    },
+    "/home/kdt46/720p_output/191.pcap": {
+        "udp connection": 926,
+        "quic connection": 926
+    },
+    "/home/kdt46/720p_output/366.pcap": {
+        "udp connection": 378,
+        "quic connection": 378
+    },
+    "/home/kdt46/720p_output/338.pcap": {
+        "udp connection": 264,
+        "quic connection": 264
+    },
+    "/home/kdt46/720p_output/369.pcap": {
+        "udp connection": 258,
+        "quic connection": 258
+    },
+    "/home/kdt46/720p_output/27.pcap": {
+        "udp connection": 152,
+        "quic connection": 152
+    },
+    "/home/kdt46/720p_output/370.pcap": {
+        "udp connection": 303,
+        "quic connection": 303
+    },
+    "/home/kdt46/720p_output/240.pcap": {
+        "udp connection": 303,
+        "quic connection": 303
+    },
+    "/home/kdt46/720p_output/277.pcap": {
+        "udp connection": 310,
+        "quic connection": 310
+    },
+    "/home/kdt46/720p_output/367.pcap": {
+        "udp connection": 292,
+        "quic connection": 292
+    },
+    "/home/kdt46/720p_output/313.pcap": {
+        "udp connection": 350,
+        "quic connection": 350
+    },
+    "/home/kdt46/720p_output/2.pcap": {
+        "udp connection": 589,
+        "quic connection": 589
+    },
+    "/home/kdt46/720p_output/243.pcap": {
+        "udp connection": 384,
+        "quic connection": 384
+    },
+    "/home/kdt46/720p_output/311.pcap": {
+        "udp connection": 255,
+        "quic connection": 255
+    },
+    "/home/kdt46/720p_output/263.pcap": {
+        "udp connection": 124,
+        "quic connection": 124
+    },
+    "/home/kdt46/720p_output/32.pcap": {
+        "udp connection": 342,
+        "quic connection": 342
+    },
+    "/home/kdt46/720p_output/115.pcap": {
+        "udp connection": 997,
+        "quic connection": 997
+    },
+    "/home/kdt46/720p_output/17.pcap": {
+        "udp connection": 257,
+        "quic connection": 257
+    },
+    "/home/kdt46/720p_output/365.pcap": {
+        "udp connection": 503,
+        "quic connection": 503
+    },
+    "/home/kdt46/720p_output/100.pcap": {
+        "udp connection": 1083,
+        "quic connection": 1083
+    },
+    "/home/kdt46/720p_output/334.pcap": {
+        "udp connection": 293,
+        "quic connection": 293
+    },
+    "/home/kdt46/720p_output/183.pcap": {
+        "udp connection": 402,
+        "quic connection": 402
+    },
+    "/home/kdt46/720p_output/280.pcap": {
+        "udp connection": 292,
+        "quic connection": 292
+    },
+    "/home/kdt46/720p_output/128.pcap": {
+        "udp connection": 396,
+        "quic connection": 396
+    },
+    "/home/kdt46/720p_output/69.pcap": {
+        "udp connection": 397,
+        "quic connection": 397
+    },
+    "/home/kdt46/720p_output/5.pcap": {
+        "udp connection": 872,
+        "quic connection": 872
+    },
+    "/home/kdt46/720p_output/392.pcap": {
+        "udp connection": 321,
+        "quic connection": 321
+    },
+    "/home/kdt46/720p_output/108.pcap": {
+        "udp connection": 94,
+        "quic connection": 94
+    },
+    "/home/kdt46/720p_output/221.pcap": {
+        "udp connection": 247,
+        "quic connection": 247
+    },
+    "/home/kdt46/720p_output/345.pcap": {
+        "udp connection": 132,
+        "quic connection": 132
+    },
+    "/home/kdt46/720p_output/374.pcap": {
+        "udp connection": 643,
+        "quic connection": 643
+    },
+    "/home/kdt46/720p_output/350.pcap": {
+        "udp connection": 564,
+        "quic connection": 564
+    },
+    "/home/kdt46/720p_output/258.pcap": {
+        "udp connection": 741,
+        "quic connection": 741
+    },
+    "/home/kdt46/720p_output/348.pcap": {
+        "udp connection": 338,
+        "quic connection": 338
+    },
+    "/home/kdt46/720p_output/143.pcap": {
+        "udp connection": 478,
+        "quic connection": 478
+    },
+    "/home/kdt46/720p_output/113.pcap": {
+        "udp connection": 389,
+        "quic connection": 389
+    },
+    "/home/kdt46/720p_output/67.pcap": {
+        "udp connection": 257,
+        "quic connection": 257
+    },
+    "/home/kdt46/720p_output/241.pcap": {
+        "udp connection": 278,
+        "quic connection": 278
+    },
+    "/home/kdt46/720p_output/160.pcap": {
+        "udp connection": 382,
+        "quic connection": 382
+    },
+    "/home/kdt46/720p_output/3.pcap": {
+        "udp connection": 605,
+        "quic connection": 605
+    },
+    "/home/kdt46/720p_output/399.pcap": {
+        "udp connection": 351,
+        "quic connection": 351
+    },
+    "/home/kdt46/720p_output/288.pcap": {
+        "udp connection": 490,
+        "quic connection": 490
+    },
+    "/home/kdt46/720p_output/146.pcap": {
+        "udp connection": 595,
+        "quic connection": 595
+    },
+    "/home/kdt46/720p_output/199.pcap": {
+        "udp connection": 335,
+        "quic connection": 335
+    },
+    "/home/kdt46/720p_output/118.pcap": {
+        "udp connection": 717,
+        "quic connection": 686
+    },
+    "/home/kdt46/720p_output/295.pcap": {
+        "udp connection": 125,
+        "quic connection": 125
+    },
+    "/home/kdt46/720p_output/4.pcap": {
+        "udp connection": 70,
+        "quic connection": 70
+    },
+    "/home/kdt46/720p_output/373.pcap": {
+        "udp connection": 342,
+        "quic connection": 342
+    },
+    "/home/kdt46/720p_output/358.pcap": {
+        "udp connection": 344,
+        "quic connection": 344
+    },
+    "/home/kdt46/720p_output/15.pcap": {
+        "udp connection": 965,
+        "quic connection": 959
+    },
+    "/home/kdt46/720p_output/242.pcap": {
+        "udp connection": 274,
+        "quic connection": 274
+    },
+    "/home/kdt46/720p_output/331.pcap": {
+        "udp connection": 544,
+        "quic connection": 544
+    },
+    "/home/kdt46/720p_output/11.pcap": {
+        "udp connection": 265,
+        "quic connection": 265
+    },
+    "/home/kdt46/720p_output/195.pcap": {
+        "udp connection": 122,
+        "quic connection": 122
+    },
+    "/home/kdt46/720p_output/333.pcap": {
+        "udp connection": 425,
+        "quic connection": 425
+    },
+    "/home/kdt46/720p_output/179.pcap": {
+        "udp connection": 328,
+        "quic connection": 328
+    },
+    "/home/kdt46/720p_output/119.pcap": {
+        "udp connection": 423,
+        "quic connection": 423
+    },
+    "/home/kdt46/720p_output/12.pcap": {
+        "udp connection": 123,
+        "quic connection": 123
+    },
+    "/home/kdt46/720p_output/216.pcap": {
+        "udp connection": 365,
+        "quic connection": 365
+    },
+    "/home/kdt46/720p_output/139.pcap": {
+        "udp connection": 606,
+        "quic connection": 606
+    },
+    "/home/kdt46/720p_output/130.pcap": {
+        "udp connection": 456,
+        "quic connection": 456
+    },
+    "/home/kdt46/720p_output/114.pcap": {
+        "udp connection": 638,
+        "quic connection": 638
+    },
+    "/home/kdt46/720p_output/122.pcap": {
+        "udp connection": 30,
+        "quic connection": 30
+    },
+    "/home/kdt46/720p_output/48.pcap": {
+        "udp connection": 312,
+        "quic connection": 312
+    },
+    "/home/kdt46/720p_output/342.pcap": {
+        "udp connection": 310,
+        "quic connection": 310
+    },
+    "/home/kdt46/720p_output/54.pcap": {
+        "udp connection": 277,
+        "quic connection": 277
+    },
+    "/home/kdt46/720p_output/340.pcap": {
+        "udp connection": 326,
+        "quic connection": 326
+    },
+    "/home/kdt46/720p_output/354.pcap": {
+        "udp connection": 335,
+        "quic connection": 335
+    },
+    "/home/kdt46/720p_output/381.pcap": {
+        "udp connection": 102,
+        "quic connection": 102
+    },
+    "/home/kdt46/720p_output/349.pcap": {
+        "udp connection": 353,
+        "quic connection": 353
+    },
+    "/home/kdt46/720p_output/299.pcap": {
+        "udp connection": 320,
+        "quic connection": 320
+    },
+    "/home/kdt46/720p_output/99.pcap": {
+        "udp connection": 347,
+        "quic connection": 347
+    },
+    "/home/kdt46/720p_output/298.pcap": {
+        "udp connection": 337,
+        "quic connection": 337
+    },
+    "/home/kdt46/720p_output/400.pcap": {
+        "udp connection": 661,
+        "quic connection": 661
+    },
+    "/home/kdt46/720p_output/74.pcap": {
+        "udp connection": 1076,
+        "quic connection": 1076
+    },
+    "/home/kdt46/720p_output/230.pcap": {
+        "udp connection": 449,
+        "quic connection": 449
+    },
+    "/home/kdt46/720p_output/10.pcap": {
+        "udp connection": 2124,
+        "quic connection": 894
+    },
+    "/home/kdt46/720p_output/158.pcap": {
+        "udp connection": 965,
+        "quic connection": 965
+    },
+    "/home/kdt46/720p_output/58.pcap": {
+        "udp connection": 1116,
+        "quic connection": 1116
+    },
+    "/home/kdt46/720p_output/225.pcap": {
+        "udp connection": 147,
+        "quic connection": 147
+    },
+    "/home/kdt46/720p_output/173.pcap": {
+        "udp connection": 710,
+        "quic connection": 710
+    },
+    "/home/kdt46/720p_output/127.pcap": {
+        "udp connection": 535,
+        "quic connection": 535
+    },
+    "/home/kdt46/720p_output/198.pcap": {
+        "udp connection": 322,
+        "quic connection": 322
+    },
+    "/home/kdt46/720p_output/23.pcap": {
+        "udp connection": 1098,
+        "quic connection": 1098
+    },
+    "/home/kdt46/720p_output/38.pcap": {
+        "udp connection": 590,
+        "quic connection": 590
+    },
+    "/home/kdt46/720p_output/211.pcap": {
+        "udp connection": 311,
+        "quic connection": 311
+    },
+    "/home/kdt46/720p_output/296.pcap": {
+        "udp connection": 550,
+        "quic connection": 550
+    },
+    "/home/kdt46/720p_output/192.pcap": {
+        "udp connection": 272,
+        "quic connection": 272
+    },
+    "/home/kdt46/720p_output/239.pcap": {
+        "udp connection": 365,
+        "quic connection": 365
+    },
+    "/home/kdt46/720p_output/151.pcap": {
+        "udp connection": 610,
+        "quic connection": 610
+    },
+    "/home/kdt46/720p_output/163.pcap": {
+        "udp connection": 341,
+        "quic connection": 341
+    },
+    "/home/kdt46/720p_output/375.pcap": {
+        "udp connection": 313,
+        "quic connection": 313
+    },
+    "/home/kdt46/720p_output/222.pcap": {
+        "udp connection": 281,
+        "quic connection": 281
+    },
+    "/home/kdt46/720p_output/305.pcap": {
+        "udp connection": 361,
+        "quic connection": 361
+    },
+    "/home/kdt46/720p_output/152.pcap": {
+        "udp connection": 345,
+        "quic connection": 345
+    },
+    "/home/kdt46/720p_output/205.pcap": {
+        "udp connection": 499,
+        "quic connection": 499
+    },
+    "/home/kdt46/720p_output/306.pcap": {
+        "udp connection": 624,
+        "quic connection": 624
+    },
+    "/home/kdt46/720p_output/343.pcap": {
+        "udp connection": 511,
+        "quic connection": 511
+    },
+    "/home/kdt46/720p_output/81.pcap": {
+        "udp connection": 336,
+        "quic connection": 336
+    },
+    "/home/kdt46/720p_output/59.pcap": {
+        "udp connection": 349,
+        "quic connection": 349
+    },
+    "/home/kdt46/720p_output/247.pcap": {
+        "udp connection": 389,
+        "quic connection": 389
+    },
+    "/home/kdt46/720p_output/22.pcap": {
+        "udp connection": 280,
+        "quic connection": 280
+    },
+    "/home/kdt46/720p_output/138.pcap": {
+        "udp connection": 580,
+        "quic connection": 580
+    },
+    "/home/kdt46/720p_output/145.pcap": {
+        "udp connection": 172,
+        "quic connection": 172
+    },
+    "/home/kdt46/720p_output/210.pcap": {
+        "udp connection": 821,
+        "quic connection": 821
+    },
+    "/home/kdt46/720p_output/285.pcap": {
+        "udp connection": 1043,
+        "quic connection": 1043
+    },
+    "/home/kdt46/720p_output/325.pcap": {
+        "udp connection": 117,
+        "quic connection": 117
+    },
+    "/home/kdt46/720p_output/364.pcap": {
+        "udp connection": 287,
+        "quic connection": 287
+    },
+    "/home/kdt46/720p_output/29.pcap": {
+        "udp connection": 933,
+        "quic connection": 933
+    },
+    "/home/kdt46/720p_output/362.pcap": {
+        "udp connection": 262,
+        "quic connection": 262
+    },
+    "/home/kdt46/720p_output/330.pcap": {
+        "udp connection": 245,
+        "quic connection": 245
+    },
+    "/home/kdt46/720p_output/24.pcap": {
+        "udp connection": 735,
+        "quic connection": 735
+    },
+    "/home/kdt46/720p_output/190.pcap": {
+        "udp connection": 349,
+        "quic connection": 349
+    },
+    "/home/kdt46/720p_output/140.pcap": {
+        "udp connection": 348,
+        "quic connection": 348
+    },
+    "/home/kdt46/720p_output/322.pcap": {
+        "udp connection": 275,
+        "quic connection": 275
+    },
+    "/home/kdt46/720p_output/383.pcap": {
+        "udp connection": 434,
+        "quic connection": 434
+    },
+    "/home/kdt46/720p_output/328.pcap": {
+        "udp connection": 445,
+        "quic connection": 445
+    },
+    "/home/kdt46/720p_output/320.pcap": {
+        "udp connection": 296,
+        "quic connection": 296
+    },
+    "/home/kdt46/720p_output/332.pcap": {
+        "udp connection": 273,
+        "quic connection": 273
+    },
+    "/home/kdt46/720p_output/283.pcap": {
+        "udp connection": 385,
+        "quic connection": 385
+    },
+    "/home/kdt46/720p_output/360.pcap": {
+        "udp connection": 388,
+        "quic connection": 388
+    },
+    "/home/kdt46/720p_output/66.pcap": {
+        "udp connection": 680,
+        "quic connection": 680
+    },
+    "/home/kdt46/720p_output/346.pcap": {
+        "udp connection": 331,
+        "quic connection": 331
+    },
+    "/home/kdt46/720p_output/252.pcap": {
+        "udp connection": 408,
+        "quic connection": 408
+    },
+    "/home/kdt46/720p_output/385.pcap": {
+        "udp connection": 361,
+        "quic connection": 361
+    },
+    "/home/kdt46/720p_output/267.pcap": {
+        "udp connection": 270,
+        "quic connection": 270
+    },
+    "/home/kdt46/720p_output/376.pcap": {
+        "udp connection": 383,
+        "quic connection": 383
+    },
+    "/home/kdt46/720p_output/168.pcap": {
+        "udp connection": 615,
+        "quic connection": 615
+    },
+    "/home/kdt46/720p_output/102.pcap": {
+        "udp connection": 328,
+        "quic connection": 328
+    },
+    "/home/kdt46/720p_output/259.pcap": {
+        "udp connection": 328,
+        "quic connection": 328
+    },
+    "/home/kdt46/720p_output/96.pcap": {
+        "udp connection": 789,
+        "quic connection": 789
+    },
+    "/home/kdt46/720p_output/129.pcap": {
+        "udp connection": 903,
+        "quic connection": 903
+    },
+    "/home/kdt46/720p_output/165.pcap": {
+        "udp connection": 1076,
+        "quic connection": 1076
+    },
+    "/home/kdt46/720p_output/341.pcap": {
+        "udp connection": 604,
+        "quic connection": 604
+    },
+    "/home/kdt46/720p_output/352.pcap": {
+        "udp connection": 430,
+        "quic connection": 430
+    },
+    "/home/kdt46/720p_output/65.pcap": {
+        "udp connection": 913,
+        "quic connection": 913
+    },
+    "/home/kdt46/720p_output/57.pcap": {
+        "udp connection": 271,
+        "quic connection": 271
+    },
+    "/home/kdt46/720p_output/86.pcap": {
+        "udp connection": 982,
+        "quic connection": 982
+    },
+    "/home/kdt46/720p_output/308.pcap": {
+        "udp connection": 499,
+        "quic connection": 499
+    },
+    "/home/kdt46/720p_output/170.pcap": {
+        "udp connection": 543,
+        "quic connection": 543
+    },
+    "/home/kdt46/720p_output/30.pcap": {
+        "udp connection": 537,
+        "quic connection": 537
+    },
+    "/home/kdt46/720p_output/368.pcap": {
+        "udp connection": 474,
+        "quic connection": 474
+    },
+    "/home/kdt46/720p_output/45.pcap": {
+        "udp connection": 164,
+        "quic connection": 164
+    },
+    "/home/kdt46/720p_output/49.pcap": {
+        "udp connection": 309,
+        "quic connection": 309
+    },
+    "/home/kdt46/720p_output/297.pcap": {
+        "udp connection": 461,
+        "quic connection": 461
+    },
+    "/home/kdt46/720p_output/61.pcap": {
+        "udp connection": 228,
+        "quic connection": 228
+    },
+    "/home/kdt46/720p_output/169.pcap": {
+        "udp connection": 266,
+        "quic connection": 266
+    },
+    "/home/kdt46/720p_output/149.pcap": {
+        "udp connection": 385,
+        "quic connection": 385
+    },
+    "/home/kdt46/720p_output/361.pcap": {
+        "udp connection": 316,
+        "quic connection": 316
+    },
+    "/home/kdt46/720p_output/36.pcap": {
+        "udp connection": 285,
+        "quic connection": 285
+    },
+    "/home/kdt46/720p_output/197.pcap": {
+        "udp connection": 265,
+        "quic connection": 265
+    },
+    "/home/kdt46/720p_output/316.pcap": {
+        "udp connection": 546,
+        "quic connection": 546
+    },
+    "/home/kdt46/720p_output/7.pcap": {
+        "udp connection": 270,
+        "quic connection": 270
+    },
+    "/home/kdt46/720p_output/26.pcap": {
+        "udp connection": 639,
+        "quic connection": 639
+    },
+    "/home/kdt46/720p_output/398.pcap": {
+        "udp connection": 291,
+        "quic connection": 291
+    },
+    "/home/kdt46/720p_output/314.pcap": {
+        "udp connection": 518,
+        "quic connection": 518
+    },
+    "/home/kdt46/720p_output/104.pcap": {
+        "udp connection": 316,
+        "quic connection": 316
+    },
+    "/home/kdt46/720p_output/394.pcap": {
+        "udp connection": 286,
+        "quic connection": 286
+    },
+    "/home/kdt46/720p_output/21.pcap": {
+        "udp connection": 217,
+        "quic connection": 217
+    },
+    "/home/kdt46/720p_output/73.pcap": {
+        "udp connection": 812,
+        "quic connection": 812
+    },
+    "/home/kdt46/720p_output/25.pcap": {
+        "udp connection": 126,
+        "quic connection": 126
+    },
+    "/home/kdt46/720p_output/87.pcap": {
+        "udp connection": 351,
+        "quic connection": 351
+    },
+    "/home/kdt46/720p_output/156.pcap": {
+        "udp connection": 324,
+        "quic connection": 324
+    },
+    "/home/kdt46/720p_output/16.pcap": {
+        "udp connection": 658,
+        "quic connection": 658
+    },
+    "/home/kdt46/720p_output/244.pcap": {
+        "udp connection": 138,
+        "quic connection": 138
+    },
+    "/home/kdt46/720p_output/382.pcap": {
+        "udp connection": 325,
+        "quic connection": 325
+    },
+    "/home/kdt46/720p_output/91.pcap": {
+        "udp connection": 655,
+        "quic connection": 655
+    },
+    "/home/kdt46/720p_output/272.pcap": {
+        "udp connection": 284,
+        "quic connection": 284
+    },
+    "/home/kdt46/720p_output/63.pcap": {
+        "udp connection": 378,
+        "quic connection": 378
+    },
+    "/home/kdt46/720p_output/133.pcap": {
+        "udp connection": 399,
+        "quic connection": 399
+    },
+    "/home/kdt46/720p_output/101.pcap": {
+        "udp connection": 741,
+        "quic connection": 741
+    },
+    "/home/kdt46/720p_output/363.pcap": {
+        "udp connection": 324,
+        "quic connection": 324
+    },
+    "/home/kdt46/720p_output/276.pcap": {
+        "udp connection": 351,
+        "quic connection": 351
+    },
+    "/home/kdt46/720p_output/208.pcap": {
+        "udp connection": 937,
+        "quic connection": 937
+    },
+    "/home/kdt46/720p_output/180.pcap": {
+        "udp connection": 507,
+        "quic connection": 507
+    },
+    "/home/kdt46/720p_output/185.pcap": {
+        "udp connection": 667,
+        "quic connection": 667
+    },
+    "/home/kdt46/720p_output/209.pcap": {
+        "udp connection": 367,
+        "quic connection": 367
+    },
+    "/home/kdt46/720p_output/72.pcap": {
+        "udp connection": 246,
+        "quic connection": 246
+    },
+    "/home/kdt46/720p_output/157.pcap": {
+        "udp connection": 269,
+        "quic connection": 269
+    },
+    "/home/kdt46/720p_output/196.pcap": {
+        "udp connection": 1194,
+        "quic connection": 1194
+    },
+    "/home/kdt46/720p_output/380.pcap": {
+        "udp connection": 433,
+        "quic connection": 433
+    },
+    "/home/kdt46/720p_output/355.pcap": {
+        "udp connection": 312,
+        "quic connection": 312
+    },
+    "/home/kdt46/720p_output/289.pcap": {
+        "udp connection": 524,
+        "quic connection": 524
+    },
+    "/home/kdt46/720p_output/111.pcap": {
+        "udp connection": 213,
+        "quic connection": 213
+    },
+    "/home/kdt46/720p_output/79.pcap": {
+        "udp connection": 803,
+        "quic connection": 803
+    },
+    "/home/kdt46/720p_output/171.pcap": {
+        "udp connection": 262,
+        "quic connection": 262
+    },
+    "/home/kdt46/720p_output/234.pcap": {
+        "udp connection": 342,
+        "quic connection": 342
+    },
+    "/home/kdt46/720p_output/193.pcap": {
+        "udp connection": 477,
+        "quic connection": 477
+    },
+    "/home/kdt46/720p_output/94.pcap": {
+        "udp connection": 309,
+        "quic connection": 309
+    },
+    "/home/kdt46/720p_output/260.pcap": {
+        "udp connection": 818,
+        "quic connection": 818
+    },
+    "/home/kdt46/720p_output/257.pcap": {
+        "udp connection": 295,
+        "quic connection": 295
+    },
+    "/home/kdt46/720p_output/378.pcap": {
+        "udp connection": 362,
+        "quic connection": 362
+    },
+    "/home/kdt46/720p_output/388.pcap": {
+        "udp connection": 376,
+        "quic connection": 376
+    },
+    "/home/kdt46/720p_output/84.pcap": {
+        "udp connection": 704,
+        "quic connection": 704
+    },
+    "/home/kdt46/720p_output/224.pcap": {
+        "udp connection": 909,
+        "quic connection": 909
+    },
+    "/home/kdt46/720p_output/327.pcap": {
+        "udp connection": 181,
+        "quic connection": 181
+    },
+    "/home/kdt46/720p_output/85.pcap": {
+        "udp connection": 320,
+        "quic connection": 320
+    },
+    "/home/kdt46/720p_output/62.pcap": {
+        "udp connection": 487,
+        "quic connection": 487
+    },
+    "/home/kdt46/720p_output/237.pcap": {
+        "udp connection": 914,
+        "quic connection": 914
+    },
+    "/home/kdt46/720p_output/70.pcap": {
+        "udp connection": 770,
+        "quic connection": 770
+    },
+    "/home/kdt46/720p_output/80.pcap": {
+        "udp connection": 272,
+        "quic connection": 272
+    },
+    "/home/kdt46/720p_output/248.pcap": {
+        "udp connection": 300,
+        "quic connection": 300
+    },
+    "/home/kdt46/720p_output/302.pcap": {
+        "udp connection": 480,
+        "quic connection": 480
+    },
+    "/home/kdt46/720p_output/132.pcap": {
+        "udp connection": 336,
+        "quic connection": 336
+    },
+    "/home/kdt46/720p_output/254.pcap": {
+        "udp connection": 311,
+        "quic connection": 311
+    },
+    "/home/kdt46/720p_output/335.pcap": {
+        "udp connection": 389,
+        "quic connection": 389
+    },
+    "/home/kdt46/720p_output/52.pcap": {
+        "udp connection": 600,
+        "quic connection": 600
+    },
+    "/home/kdt46/720p_output/77.pcap": {
+        "udp connection": 121,
+        "quic connection": 121
+    },
+    "/home/kdt46/720p_output/75.pcap": {
+        "udp connection": 127,
+        "quic connection": 127
+    },
+    "/home/kdt46/720p_output/174.pcap": {
+        "udp connection": 617,
+        "quic connection": 617
+    },
+    "/home/kdt46/720p_output/9.pcap": {
+        "udp connection": 335,
+        "quic connection": 335
+    },
+    "/home/kdt46/720p_output/93.pcap": {
+        "udp connection": 766,
+        "quic connection": 766
+    },
+    "/home/kdt46/720p_output/228.pcap": {
+        "udp connection": 288,
+        "quic connection": 288
+    },
+    "/home/kdt46/720p_output/105.pcap": {
+        "udp connection": 637,
+        "quic connection": 637
+    },
+    "/home/kdt46/720p_output/202.pcap": {
+        "udp connection": 439,
+        "quic connection": 439
+    },
+    "/home/kdt46/720p_output/194.pcap": {
+        "udp connection": 309,
+        "quic connection": 309
+    },
+    "/home/kdt46/720p_output/76.pcap": {
+        "udp connection": 573,
+        "quic connection": 573
+    },
+    "/home/kdt46/720p_output/245.pcap": {
+        "udp connection": 117,
+        "quic connection": 117
+    },
+    "/home/kdt46/720p_output/246.pcap": {
+        "udp connection": 333,
+        "quic connection": 333
+    },
+    "/home/kdt46/720p_output/232.pcap": {
+        "udp connection": 319,
+        "quic connection": 319
+    },
+    "/home/kdt46/720p_output/18.pcap": {
+        "udp connection": 1107,
+        "quic connection": 1107
+    },
+    "/home/kdt46/720p_output/268.pcap": {
+        "udp connection": 1272,
+        "quic connection": 1272
+    },
+    "/home/kdt46/720p_output/116.pcap": {
+        "udp connection": 332,
+        "quic connection": 332
+    },
+    "/home/kdt46/720p_output/178.pcap": {
+        "udp connection": 845,
+        "quic connection": 845
+    },
+    "/home/kdt46/720p_output/347.pcap": {
+        "udp connection": 274,
+        "quic connection": 274
+    },
+    "/home/kdt46/720p_output/389.pcap": {
+        "udp connection": 535,
+        "quic connection": 535
+    },
+    "/home/kdt46/720p_output/250.pcap": {
+        "udp connection": 715,
+        "quic connection": 715
+    },
+    "/home/kdt46/720p_output/393.pcap": {
+        "udp connection": 467,
+        "quic connection": 467
+    },
+    "/home/kdt46/720p_output/292.pcap": {
+        "udp connection": 289,
+        "quic connection": 289
+    },
+    "/home/kdt46/720p_output/112.pcap": {
+        "udp connection": 515,
+        "quic connection": 515
+    },
+    "/home/kdt46/720p_output/323.pcap": {
+        "udp connection": 307,
+        "quic connection": 307
+    },
+    "/home/kdt46/720p_output/287.pcap": {
+        "udp connection": 645,
+        "quic connection": 645
+    },
+    "/home/kdt46/720p_output/262.pcap": {
+        "udp connection": 322,
+        "quic connection": 322
+    },
+    "/home/kdt46/720p_output/34.pcap": {
+        "udp connection": 790,
+        "quic connection": 790
+    },
+    "/home/kdt46/720p_output/217.pcap": {
+        "udp connection": 230,
+        "quic connection": 230
+    },
+    "/home/kdt46/720p_output/275.pcap": {
+        "udp connection": 324,
+        "quic connection": 324
+    },
+    "/home/kdt46/720p_output/40.pcap": {
+        "udp connection": 311,
+        "quic connection": 311
+    },
+    "/home/kdt46/720p_output/142.pcap": {
+        "udp connection": 282,
+        "quic connection": 282
+    },
+    "/home/kdt46/720p_output/377.pcap": {
+        "udp connection": 180,
+        "quic connection": 180
+    },
+    "/home/kdt46/720p_output/136.pcap": {
+        "udp connection": 596,
+        "quic connection": 596
+    },
+    "/home/kdt46/720p_output/255.pcap": {
+        "udp connection": 566,
+        "quic connection": 566
+    },
+    "/home/kdt46/720p_output/231.pcap": {
+        "udp connection": 315,
+        "quic connection": 315
+    },
+    "/home/kdt46/720p_output/83.pcap": {
+        "udp connection": 420,
+        "quic connection": 420
+    },
+    "/home/kdt46/720p_output/261.pcap": {
+        "udp connection": 283,
+        "quic connection": 283
+    },
+    "/home/kdt46/720p_output/286.pcap": {
+        "udp connection": 296,
+        "quic connection": 296
+    },
+    "/home/kdt46/720p_output/46.pcap": {
+        "udp connection": 715,
+        "quic connection": 715
+    },
+    "/home/kdt46/720p_output/318.pcap": {
+        "udp connection": 369,
+        "quic connection": 369
+    },
+    "/home/kdt46/720p_output/300.pcap": {
+        "udp connection": 697,
+        "quic connection": 697
+    },
+    "/home/kdt46/720p_output/95.pcap": {
+        "udp connection": 117,
+        "quic connection": 117
+    },
+    "/home/kdt46/720p_output/291.pcap": {
+        "udp connection": 674,
+        "quic connection": 674
+    },
+    "/home/kdt46/720p_output/213.pcap": {
+        "udp connection": 322,
+        "quic connection": 322
+    },
+    "/home/kdt46/720p_output/200.pcap": {
+        "udp connection": 1034,
+        "quic connection": 1034
+    },
+    "/home/kdt46/720p_output/215.pcap": {
+        "udp connection": 881,
+        "quic connection": 881
+    },
+    "/home/kdt46/720p_output/273.pcap": {
+        "udp connection": 411,
+        "quic connection": 411
+    },
+    "/home/kdt46/720p_output/153.pcap": {
+        "udp connection": 568,
+        "quic connection": 568
+    },
+    "/home/kdt46/720p_output/14.pcap": {
+        "udp connection": 762,
+        "quic connection": 718
+    },
+    "/home/kdt46/720p_output/90.pcap": {
+        "udp connection": 284,
+        "quic connection": 284
+    },
+    "/home/kdt46/720p_output/167.pcap": {
+        "udp connection": 249,
+        "quic connection": 249
+    },
+    "/home/kdt46/720p_output/176.pcap": {
+        "udp connection": 301,
+        "quic connection": 301
+    },
+    "/home/kdt46/720p_output/98.pcap": {
+        "udp connection": 348,
+        "quic connection": 348
+    },
+    "/home/kdt46/720p_output/214.pcap": {
+        "udp connection": 718,
+        "quic connection": 718
+    },
+    "/home/kdt46/720p_output/55.pcap": {
+        "udp connection": 774,
+        "quic connection": 774
+    },
+    "/home/kdt46/720p_output/181.pcap": {
+        "udp connection": 522,
+        "quic connection": 522
+    },
+    "/home/kdt46/720p_output/106.pcap": {
+        "udp connection": 532,
+        "quic connection": 532
+    },
+    "/home/kdt46/720p_output/110.pcap": {
+        "udp connection": 753,
+        "quic connection": 753
+    },
+    "/home/kdt46/720p_output/164.pcap": {
+        "udp connection": 641,
+        "quic connection": 641
+    },
+    "/home/kdt46/720p_output/123.pcap": {
+        "udp connection": 659,
+        "quic connection": 659
+    },
+    "/home/kdt46/720p_output/175.pcap": {
+        "udp connection": 186,
+        "quic connection": 186
+    },
+    "/home/kdt46/720p_output/303.pcap": {
+        "udp connection": 525,
+        "quic connection": 525
+    },
+    "/home/kdt46/720p_output/159.pcap": {
+        "udp connection": 161,
+        "quic connection": 161
+    },
+    "/home/kdt46/720p_output/309.pcap": {
+        "udp connection": 345,
+        "quic connection": 345
+    },
+    "/home/kdt46/720p_output/253.pcap": {
+        "udp connection": 603,
+        "quic connection": 603
+    },
+    "/home/kdt46/720p_output/317.pcap": {
+        "udp connection": 212,
+        "quic connection": 212
+    },
+    "/home/kdt46/720p_output/357.pcap": {
+        "udp connection": 271,
+        "quic connection": 271
+    },
+    "/home/kdt46/720p_output/238.pcap": {
+        "udp connection": 310,
+        "quic connection": 310
+    },
+    "/home/kdt46/720p_output/251.pcap": {
+        "udp connection": 578,
+        "quic connection": 578
+    },
+    "/home/kdt46/720p_output/187.pcap": {
+        "udp connection": 1131,
+        "quic connection": 1131
+    },
+    "/home/kdt46/720p_output/148.pcap": {
+        "udp connection": 374,
+        "quic connection": 374
+    },
+    "/home/kdt46/720p_output/39.pcap": {
+        "udp connection": 314,
+        "quic connection": 314
+    },
+    "/home/kdt46/720p_output/212.pcap": {
+        "udp connection": 512,
+        "quic connection": 512
+    },
+    "/home/kdt46/720p_output/319.pcap": {
+        "udp connection": 407,
+        "quic connection": 407
+    },
+    "/home/kdt46/720p_output/201.pcap": {
+        "udp connection": 1400,
+        "quic connection": 1400
+    },
+    "/home/kdt46/720p_output/271.pcap": {
+        "udp connection": 224,
+        "quic connection": 224
+    },
+    "/home/kdt46/720p_output/235.pcap": {
+        "udp connection": 527,
+        "quic connection": 527
+    },
+    "/home/kdt46/720p_output/236.pcap": {
+        "udp connection": 1307,
+        "quic connection": 1307
+    },
+    "/home/kdt46/720p_output/89.pcap": {
+        "udp connection": 340,
+        "quic connection": 340
+    },
+    "/home/kdt46/720p_output/315.pcap": {
+        "udp connection": 602,
+        "quic connection": 602
+    },
+    "/home/kdt46/720p_output/281.pcap": {
+        "udp connection": 641,
+        "quic connection": 641
+    },
+    "/home/kdt46/720p_output/386.pcap": {
+        "udp connection": 581,
+        "quic connection": 581
+    },
+    "/home/kdt46/720p_output/37.pcap": {
+        "udp connection": 588,
+        "quic connection": 588
+    },
+    "/home/kdt46/720p_output/269.pcap": {
+        "udp connection": 401,
+        "quic connection": 401
+    },
+    "/home/kdt46/720p_output/312.pcap": {
+        "udp connection": 328,
+        "quic connection": 328
+    },
+    "/home/kdt46/720p_output/107.pcap": {
+        "udp connection": 291,
+        "quic connection": 291
+    },
+    "/home/kdt46/720p_output/395.pcap": {
+        "udp connection": 110,
+        "quic connection": 110
+    },
+    "/home/kdt46/720p_output/162.pcap": {
+        "udp connection": 653,
+        "quic connection": 653
+    },
+    "/home/kdt46/720p_output/135.pcap": {
+        "udp connection": 416,
+        "quic connection": 416
+    },
+    "/home/kdt46/720p_output/321.pcap": {
+        "udp connection": 232,
+        "quic connection": 232
+    },
+    "/home/kdt46/720p_output/301.pcap": {
+        "udp connection": 431,
+        "quic connection": 431
+    },
+    "/home/kdt46/720p_output/220.pcap": {
+        "udp connection": 268,
+        "quic connection": 268
+    },
+    "/home/kdt46/720p_output/131.pcap": {
+        "udp connection": 539,
+        "quic connection": 539
+    },
+    "/home/kdt46/720p_output/47.pcap": {
+        "udp connection": 263,
+        "quic connection": 263
+    },
+    "/home/kdt46/720p_output/203.pcap": {
+        "udp connection": 601,
+        "quic connection": 601
+    },
+    "/home/kdt46/720p_output/51.pcap": {
+        "udp connection": 944,
+        "quic connection": 944
+    },
+    "/home/kdt46/720p_output/290.pcap": {
+        "udp connection": 332,
+        "quic connection": 332
+    },
+    "/home/kdt46/720p_output/82.pcap": {
+        "udp connection": 295,
+        "quic connection": 295
+    },
+    "/home/kdt46/720p_output/172.pcap": {
+        "udp connection": 278,
+        "quic connection": 278
+    },
+    "/home/kdt46/720p_output/351.pcap": {
+        "udp connection": 583,
+        "quic connection": 583
+    },
+    "/home/kdt46/720p_output/337.pcap": {
+        "udp connection": 500,
+        "quic connection": 500
+    },
+    "/home/kdt46/720p_output/186.pcap": {
+        "udp connection": 344,
+        "quic connection": 344
+    },
+    "/home/kdt46/720p_output/324.pcap": {
+        "udp connection": 816,
+        "quic connection": 816
+    },
+    "/home/kdt46/720p_output/372.pcap": {
+        "udp connection": 115,
+        "quic connection": 115
+    },
+    "/home/kdt46/720p_output/8.pcap": {
+        "udp connection": 795,
+        "quic connection": 795
+    },
+    "/home/kdt46/720p_output/293.pcap": {
+        "udp connection": 482,
+        "quic connection": 482
+    },
+    "/home/kdt46/720p_output/19.pcap": {
+        "udp connection": 228,
+        "quic connection": 228
+    },
+    "/home/kdt46/720p_output/249.pcap": {
+        "udp connection": 363,
+        "quic connection": 363
+    },
+    "/home/kdt46/720p_output/344.pcap": {
+        "udp connection": 305,
+        "quic connection": 305
+    },
+    "/home/kdt46/720p_output/92.pcap": {
+        "udp connection": 104,
+        "quic connection": 104
+    },
+    "/home/kdt46/720p_output/184.pcap": {
+        "udp connection": 795,
+        "quic connection": 795
+    },
+    "/home/kdt46/720p_output/42.pcap": {
+        "udp connection": 333,
+        "quic connection": 333
+    },
+    "/home/kdt46/720p_output/60.pcap": {
+        "udp connection": 819,
+        "quic connection": 819
+    },
+    "/home/kdt46/720p_output/204.pcap": {
+        "udp connection": 283,
+        "quic connection": 283
+    },
+    "/home/kdt46/720p_output/31.pcap": {
+        "udp connection": 756,
+        "quic connection": 756
+    },
+    "/home/kdt46/720p_output/137.pcap": {
+        "udp connection": 591,
+        "quic connection": 591
+    },
+    "/home/kdt46/720p_output/124.pcap": {
+        "udp connection": 497,
+        "quic connection": 497
+    },
+    "/home/kdt46/720p_output/155.pcap": {
+        "udp connection": 583,
+        "quic connection": 583
+    },
+    "/home/kdt46/720p_output/310.pcap": {
+        "udp connection": 334,
+        "quic connection": 334
+    },
+    "/home/kdt46/720p_output/177.pcap": {
+        "udp connection": 573,
+        "quic connection": 573
+    },
+    "/home/kdt46/720p_output/43.pcap": {
+        "udp connection": 392,
+        "quic connection": 392
+    },
+    "/home/kdt46/720p_output/97.pcap": {
+        "udp connection": 256,
+        "quic connection": 256
+    },
+    "/home/kdt46/720p_output/44.pcap": {
+        "udp connection": 127,
+        "quic connection": 127
+    },
+    "/home/kdt46/720p_output/141.pcap": {
+        "udp connection": 662,
+        "quic connection": 662
+    },
+    "/home/kdt46/720p_output/154.pcap": {
+        "udp connection": 339,
+        "quic connection": 339
+    },
+    "/home/kdt46/720p_output/134.pcap": {
+        "udp connection": 785,
+        "quic connection": 785
+    },
+    "/home/kdt46/720p_output/270.pcap": {
+        "udp connection": 342,
+        "quic connection": 342
+    },
+    "/home/kdt46/720p_output/265.pcap": {
+        "udp connection": 850,
+        "quic connection": 850
+    },
+    "/home/kdt46/720p_output/218.pcap": {
+        "udp connection": 832,
+        "quic connection": 832
+    },
+    "/home/kdt46/720p_output/390.pcap": {
+        "udp connection": 357,
+        "quic connection": 357
+    }
+}

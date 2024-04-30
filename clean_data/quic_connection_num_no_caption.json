@@ -1,0 +1,2252 @@
+{
+    "326.pcap": {
+        "udp connection": 520,
+        "quic connection secure": 520,
+        "quic connection none secure": 0
+    },
+    "391.pcap": {
+        "udp connection": 774,
+        "quic connection secure": 774,
+        "quic connection none secure": 0
+    },
+    "436.pcap": {
+        "udp connection": 8,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "53.pcap": {
+        "udp connection": 1467,
+        "quic connection secure": 1443,
+        "quic connection none secure": 0
+    },
+    "282.pcap": {
+        "udp connection": 293,
+        "quic connection secure": 293,
+        "quic connection none secure": 0
+    },
+    "56.pcap": {
+        "udp connection": 319,
+        "quic connection secure": 319,
+        "quic connection none secure": 0
+    },
+    "379.pcap": {
+        "udp connection": 357,
+        "quic connection secure": 357,
+        "quic connection none secure": 0
+    },
+    "359.pcap": {
+        "udp connection": 348,
+        "quic connection secure": 348,
+        "quic connection none secure": 0
+    },
+    "233.pcap": {
+        "udp connection": 528,
+        "quic connection secure": 524,
+        "quic connection none secure": 0
+    },
+    "28.pcap": {
+        "udp connection": 851,
+        "quic connection secure": 851,
+        "quic connection none secure": 0
+    },
+    "207.pcap": {
+        "udp connection": 279,
+        "quic connection secure": 273,
+        "quic connection none secure": 0
+    },
+    "50.pcap": {
+        "udp connection": 1357,
+        "quic connection secure": 1326,
+        "quic connection none secure": 0
+    },
+    "6.pcap": {
+        "udp connection": 777,
+        "quic connection secure": 771,
+        "quic connection none secure": 0
+    },
+    "356.pcap": {
+        "udp connection": 370,
+        "quic connection secure": 333,
+        "quic connection none secure": 0
+    },
+    "103.pcap": {
+        "udp connection": 665,
+        "quic connection secure": 665,
+        "quic connection none secure": 0
+    },
+    "371.pcap": {
+        "udp connection": 235,
+        "quic connection secure": 235,
+        "quic connection none secure": 0
+    },
+    "329.pcap": {
+        "udp connection": 546,
+        "quic connection secure": 546,
+        "quic connection none secure": 0
+    },
+    "396.pcap": {
+        "udp connection": 689,
+        "quic connection secure": 681,
+        "quic connection none secure": 0
+    },
+    "35.pcap": {
+        "udp connection": 333,
+        "quic connection secure": 333,
+        "quic connection none secure": 0
+    },
+    "147.pcap": {
+        "udp connection": 436,
+        "quic connection secure": 436,
+        "quic connection none secure": 0
+    },
+    "353.pcap": {
+        "udp connection": 546,
+        "quic connection secure": 546,
+        "quic connection none secure": 0
+    },
+    "442.pcap": {
+        "udp connection": 319,
+        "quic connection secure": 319,
+        "quic connection none secure": 0
+    },
+    "447.pcap": {
+        "udp connection": 274,
+        "quic connection secure": 274,
+        "quic connection none secure": 0
+    },
+    "408.pcap": {
+        "udp connection": 399,
+        "quic connection secure": 399,
+        "quic connection none secure": 0
+    },
+    "125.pcap": {
+        "udp connection": 625,
+        "quic connection secure": 625,
+        "quic connection none secure": 0
+    },
+    "307.pcap": {
+        "udp connection": 257,
+        "quic connection secure": 257,
+        "quic connection none secure": 0
+    },
+    "421.pcap": {
+        "udp connection": 282,
+        "quic connection secure": 278,
+        "quic connection none secure": 0
+    },
+    "88.pcap": {
+        "udp connection": 326,
+        "quic connection secure": 326,
+        "quic connection none secure": 0
+    },
+    "426.pcap": {
+        "udp connection": 863,
+        "quic connection secure": 863,
+        "quic connection none secure": 0
+    },
+    "41.pcap": {
+        "udp connection": 899,
+        "quic connection secure": 878,
+        "quic connection none secure": 0
+    },
+    "161.pcap": {
+        "udp connection": 273,
+        "quic connection secure": 273,
+        "quic connection none secure": 0
+    },
+    "1.pcap": {
+        "udp connection": 1332,
+        "quic connection secure": 1229,
+        "quic connection none secure": 0
+    },
+    "336.pcap": {
+        "udp connection": 755,
+        "quic connection secure": 723,
+        "quic connection none secure": 0
+    },
+    "20.pcap": {
+        "udp connection": 325,
+        "quic connection secure": 325,
+        "quic connection none secure": 0
+    },
+    "387.pcap": {
+        "udp connection": 763,
+        "quic connection secure": 763,
+        "quic connection none secure": 0
+    },
+    "278.pcap": {
+        "udp connection": 327,
+        "quic connection secure": 294,
+        "quic connection none secure": 0
+    },
+    "274.pcap": {
+        "udp connection": 958,
+        "quic connection secure": 958,
+        "quic connection none secure": 0
+    },
+    "188.pcap": {
+        "udp connection": 336,
+        "quic connection secure": 336,
+        "quic connection none secure": 0
+    },
+    "256.pcap": {
+        "udp connection": 323,
+        "quic connection secure": 323,
+        "quic connection none secure": 0
+    },
+    "121.pcap": {
+        "udp connection": 241,
+        "quic connection secure": 241,
+        "quic connection none secure": 0
+    },
+    "441.pcap": {
+        "udp connection": 826,
+        "quic connection secure": 826,
+        "quic connection none secure": 0
+    },
+    "144.pcap": {
+        "udp connection": 323,
+        "quic connection secure": 323,
+        "quic connection none secure": 0
+    },
+    "384.pcap": {
+        "udp connection": 380,
+        "quic connection secure": 349,
+        "quic connection none secure": 0
+    },
+    "339.pcap": {
+        "udp connection": 344,
+        "quic connection secure": 334,
+        "quic connection none secure": 0
+    },
+    "284.pcap": {
+        "udp connection": 274,
+        "quic connection secure": 274,
+        "quic connection none secure": 0
+    },
+    "68.pcap": {
+        "udp connection": 1088,
+        "quic connection secure": 1088,
+        "quic connection none secure": 0
+    },
+    "219.pcap": {
+        "udp connection": 479,
+        "quic connection secure": 479,
+        "quic connection none secure": 0
+    },
+    "109.pcap": {
+        "udp connection": 349,
+        "quic connection secure": 349,
+        "quic connection none secure": 0
+    },
+    "71.pcap": {
+        "udp connection": 248,
+        "quic connection secure": 248,
+        "quic connection none secure": 0
+    },
+    "182.pcap": {
+        "udp connection": 309,
+        "quic connection secure": 309,
+        "quic connection none secure": 0
+    },
+    "206.pcap": {
+        "udp connection": 323,
+        "quic connection secure": 297,
+        "quic connection none secure": 0
+    },
+    "438.pcap": {
+        "udp connection": 310,
+        "quic connection secure": 310,
+        "quic connection none secure": 0
+    },
+    "229.pcap": {
+        "udp connection": 330,
+        "quic connection secure": 330,
+        "quic connection none secure": 0
+    },
+    "294.pcap": {
+        "udp connection": 271,
+        "quic connection secure": 271,
+        "quic connection none secure": 0
+    },
+    "266.pcap": {
+        "udp connection": 328,
+        "quic connection secure": 328,
+        "quic connection none secure": 0
+    },
+    "13.pcap": {
+        "udp connection": 412,
+        "quic connection secure": 329,
+        "quic connection none secure": 0
+    },
+    "279.pcap": {
+        "udp connection": 1524,
+        "quic connection secure": 1512,
+        "quic connection none secure": 0
+    },
+    "227.pcap": {
+        "udp connection": 901,
+        "quic connection secure": 901,
+        "quic connection none secure": 0
+    },
+    "226.pcap": {
+        "udp connection": 840,
+        "quic connection secure": 840,
+        "quic connection none secure": 0
+    },
+    "120.pcap": {
+        "udp connection": 549,
+        "quic connection secure": 549,
+        "quic connection none secure": 0
+    },
+    "126.pcap": {
+        "udp connection": 356,
+        "quic connection secure": 356,
+        "quic connection none secure": 0
+    },
+    "264.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "410.pcap": {
+        "udp connection": 480,
+        "quic connection secure": 445,
+        "quic connection none secure": 0
+    },
+    "78.pcap": {
+        "udp connection": 1662,
+        "quic connection secure": 1662,
+        "quic connection none secure": 0
+    },
+    "189.pcap": {
+        "udp connection": 566,
+        "quic connection secure": 566,
+        "quic connection none secure": 0
+    },
+    "33.pcap": {
+        "udp connection": 447,
+        "quic connection secure": 445,
+        "quic connection none secure": 0
+    },
+    "397.pcap": {
+        "udp connection": 456,
+        "quic connection secure": 456,
+        "quic connection none secure": 0
+    },
+    "304.pcap": {
+        "udp connection": 302,
+        "quic connection secure": 302,
+        "quic connection none secure": 0
+    },
+    "223.pcap": {
+        "udp connection": 847,
+        "quic connection secure": 847,
+        "quic connection none secure": 0
+    },
+    "64.pcap": {
+        "udp connection": 1071,
+        "quic connection secure": 1063,
+        "quic connection none secure": 0
+    },
+    "150.pcap": {
+        "udp connection": 1242,
+        "quic connection secure": 1242,
+        "quic connection none secure": 0
+    },
+    "117.pcap": {
+        "udp connection": 276,
+        "quic connection secure": 276,
+        "quic connection none secure": 0
+    },
+    "166.pcap": {
+        "udp connection": 377,
+        "quic connection secure": 377,
+        "quic connection none secure": 0
+    },
+    "191.pcap": {
+        "udp connection": 818,
+        "quic connection secure": 818,
+        "quic connection none secure": 0
+    },
+    "366.pcap": {
+        "udp connection": 111,
+        "quic connection secure": 103,
+        "quic connection none secure": 0
+    },
+    "338.pcap": {
+        "udp connection": 311,
+        "quic connection secure": 301,
+        "quic connection none secure": 0
+    },
+    "369.pcap": {
+        "udp connection": 487,
+        "quic connection secure": 487,
+        "quic connection none secure": 0
+    },
+    "432.pcap": {
+        "udp connection": 330,
+        "quic connection secure": 330,
+        "quic connection none secure": 0
+    },
+    "27.pcap": {
+        "udp connection": 379,
+        "quic connection secure": 361,
+        "quic connection none secure": 0
+    },
+    "370.pcap": {
+        "udp connection": 313,
+        "quic connection secure": 313,
+        "quic connection none secure": 0
+    },
+    "240.pcap": {
+        "udp connection": 328,
+        "quic connection secure": 328,
+        "quic connection none secure": 0
+    },
+    "277.pcap": {
+        "udp connection": 573,
+        "quic connection secure": 573,
+        "quic connection none secure": 0
+    },
+    "367.pcap": {
+        "udp connection": 277,
+        "quic connection secure": 277,
+        "quic connection none secure": 0
+    },
+    "313.pcap": {
+        "udp connection": 317,
+        "quic connection secure": 317,
+        "quic connection none secure": 0
+    },
+    "2.pcap": {
+        "udp connection": 780,
+        "quic connection secure": 733,
+        "quic connection none secure": 0
+    },
+    "243.pcap": {
+        "udp connection": 555,
+        "quic connection secure": 547,
+        "quic connection none secure": 0
+    },
+    "311.pcap": {
+        "udp connection": 258,
+        "quic connection secure": 229,
+        "quic connection none secure": 0
+    },
+    "263.pcap": {
+        "udp connection": 328,
+        "quic connection secure": 328,
+        "quic connection none secure": 0
+    },
+    "32.pcap": {
+        "udp connection": 335,
+        "quic connection secure": 297,
+        "quic connection none secure": 0
+    },
+    "115.pcap": {
+        "udp connection": 407,
+        "quic connection secure": 407,
+        "quic connection none secure": 0
+    },
+    "17.pcap": {
+        "udp connection": 298,
+        "quic connection secure": 298,
+        "quic connection none secure": 0
+    },
+    "365.pcap": {
+        "udp connection": 483,
+        "quic connection secure": 454,
+        "quic connection none secure": 0
+    },
+    "100.pcap": {
+        "udp connection": 1180,
+        "quic connection secure": 1172,
+        "quic connection none secure": 0
+    },
+    "334.pcap": {
+        "udp connection": 291,
+        "quic connection secure": 291,
+        "quic connection none secure": 0
+    },
+    "183.pcap": {
+        "udp connection": 524,
+        "quic connection secure": 524,
+        "quic connection none secure": 0
+    },
+    "280.pcap": {
+        "udp connection": 337,
+        "quic connection secure": 337,
+        "quic connection none secure": 0
+    },
+    "128.pcap": {
+        "udp connection": 927,
+        "quic connection secure": 927,
+        "quic connection none secure": 0
+    },
+    "69.pcap": {
+        "udp connection": 240,
+        "quic connection secure": 240,
+        "quic connection none secure": 0
+    },
+    "5.pcap": {
+        "udp connection": 1081,
+        "quic connection secure": 1043,
+        "quic connection none secure": 0
+    },
+    "392.pcap": {
+        "udp connection": 307,
+        "quic connection secure": 307,
+        "quic connection none secure": 0
+    },
+    "108.pcap": {
+        "udp connection": 381,
+        "quic connection secure": 381,
+        "quic connection none secure": 0
+    },
+    "221.pcap": {
+        "udp connection": 222,
+        "quic connection secure": 222,
+        "quic connection none secure": 0
+    },
+    "446.pcap": {
+        "udp connection": 805,
+        "quic connection secure": 805,
+        "quic connection none secure": 0
+    },
+    "345.pcap": {
+        "udp connection": 315,
+        "quic connection secure": 315,
+        "quic connection none secure": 0
+    },
+    "374.pcap": {
+        "udp connection": 826,
+        "quic connection secure": 826,
+        "quic connection none secure": 0
+    },
+    "350.pcap": {
+        "udp connection": 1030,
+        "quic connection secure": 1022,
+        "quic connection none secure": 0
+    },
+    "258.pcap": {
+        "udp connection": 769,
+        "quic connection secure": 740,
+        "quic connection none secure": 0
+    },
+    "348.pcap": {
+        "udp connection": 339,
+        "quic connection secure": 339,
+        "quic connection none secure": 0
+    },
+    "143.pcap": {
+        "udp connection": 567,
+        "quic connection secure": 567,
+        "quic connection none secure": 0
+    },
+    "113.pcap": {
+        "udp connection": 332,
+        "quic connection secure": 332,
+        "quic connection none secure": 0
+    },
+    "67.pcap": {
+        "udp connection": 280,
+        "quic connection secure": 280,
+        "quic connection none secure": 0
+    },
+    "241.pcap": {
+        "udp connection": 408,
+        "quic connection secure": 384,
+        "quic connection none secure": 0
+    },
+    "160.pcap": {
+        "udp connection": 1282,
+        "quic connection secure": 1229,
+        "quic connection none secure": 0
+    },
+    "3.pcap": {
+        "udp connection": 577,
+        "quic connection secure": 551,
+        "quic connection none secure": 0
+    },
+    "399.pcap": {
+        "udp connection": 354,
+        "quic connection secure": 354,
+        "quic connection none secure": 0
+    },
+    "288.pcap": {
+        "udp connection": 290,
+        "quic connection secure": 290,
+        "quic connection none secure": 0
+    },
+    "146.pcap": {
+        "udp connection": 865,
+        "quic connection secure": 821,
+        "quic connection none secure": 0
+    },
+    "199.pcap": {
+        "udp connection": 343,
+        "quic connection secure": 343,
+        "quic connection none secure": 0
+    },
+    "118.pcap": {
+        "udp connection": 661,
+        "quic connection secure": 360,
+        "quic connection none secure": 0
+    },
+    "295.pcap": {
+        "udp connection": 313,
+        "quic connection secure": 313,
+        "quic connection none secure": 0
+    },
+    "4.pcap": {
+        "udp connection": 322,
+        "quic connection secure": 322,
+        "quic connection none secure": 0
+    },
+    "373.pcap": {
+        "udp connection": 383,
+        "quic connection secure": 383,
+        "quic connection none secure": 0
+    },
+    "448.pcap": {
+        "udp connection": 366,
+        "quic connection secure": 337,
+        "quic connection none secure": 0
+    },
+    "413.pcap": {
+        "udp connection": 350,
+        "quic connection secure": 350,
+        "quic connection none secure": 0
+    },
+    "358.pcap": {
+        "udp connection": 404,
+        "quic connection secure": 396,
+        "quic connection none secure": 0
+    },
+    "15.pcap": {
+        "udp connection": 1075,
+        "quic connection secure": 1057,
+        "quic connection none secure": 0
+    },
+    "242.pcap": {
+        "udp connection": 324,
+        "quic connection secure": 318,
+        "quic connection none secure": 0
+    },
+    "331.pcap": {
+        "udp connection": 754,
+        "quic connection secure": 742,
+        "quic connection none secure": 0
+    },
+    "11.pcap": {
+        "udp connection": 274,
+        "quic connection secure": 274,
+        "quic connection none secure": 0
+    },
+    "439.pcap": {
+        "udp connection": 1311,
+        "quic connection secure": 1265,
+        "quic connection none secure": 0
+    },
+    "419.pcap": {
+        "udp connection": 511,
+        "quic connection secure": 511,
+        "quic connection none secure": 0
+    },
+    "195.pcap": {
+        "udp connection": 336,
+        "quic connection secure": 336,
+        "quic connection none secure": 0
+    },
+    "333.pcap": {
+        "udp connection": 492,
+        "quic connection secure": 492,
+        "quic connection none secure": 0
+    },
+    "402.pcap": {
+        "udp connection": 301,
+        "quic connection secure": 301,
+        "quic connection none secure": 0
+    },
+    "179.pcap": {
+        "udp connection": 320,
+        "quic connection secure": 320,
+        "quic connection none secure": 0
+    },
+    "119.pcap": {
+        "udp connection": 255,
+        "quic connection secure": 255,
+        "quic connection none secure": 0
+    },
+    "12.pcap": {
+        "udp connection": 400,
+        "quic connection secure": 400,
+        "quic connection none secure": 0
+    },
+    "216.pcap": {
+        "udp connection": 836,
+        "quic connection secure": 836,
+        "quic connection none secure": 0
+    },
+    "139.pcap": {
+        "udp connection": 692,
+        "quic connection secure": 692,
+        "quic connection none secure": 0
+    },
+    "130.pcap": {
+        "udp connection": 472,
+        "quic connection secure": 472,
+        "quic connection none secure": 0
+    },
+    "114.pcap": {
+        "udp connection": 910,
+        "quic connection secure": 910,
+        "quic connection none secure": 0
+    },
+    "122.pcap": {
+        "udp connection": 305,
+        "quic connection secure": 305,
+        "quic connection none secure": 0
+    },
+    "48.pcap": {
+        "udp connection": 354,
+        "quic connection secure": 354,
+        "quic connection none secure": 0
+    },
+    "342.pcap": {
+        "udp connection": 326,
+        "quic connection secure": 326,
+        "quic connection none secure": 0
+    },
+    "54.pcap": {
+        "udp connection": 308,
+        "quic connection secure": 308,
+        "quic connection none secure": 0
+    },
+    "340.pcap": {
+        "udp connection": 238,
+        "quic connection secure": 238,
+        "quic connection none secure": 0
+    },
+    "354.pcap": {
+        "udp connection": 338,
+        "quic connection secure": 308,
+        "quic connection none secure": 0
+    },
+    "381.pcap": {
+        "udp connection": 331,
+        "quic connection secure": 331,
+        "quic connection none secure": 0
+    },
+    "349.pcap": {
+        "udp connection": 393,
+        "quic connection secure": 363,
+        "quic connection none secure": 0
+    },
+    "299.pcap": {
+        "udp connection": 315,
+        "quic connection secure": 315,
+        "quic connection none secure": 0
+    },
+    "99.pcap": {
+        "udp connection": 374,
+        "quic connection secure": 344,
+        "quic connection none secure": 0
+    },
+    "298.pcap": {
+        "udp connection": 332,
+        "quic connection secure": 332,
+        "quic connection none secure": 0
+    },
+    "400.pcap": {
+        "udp connection": 1051,
+        "quic connection secure": 1051,
+        "quic connection none secure": 0
+    },
+    "74.pcap": {
+        "udp connection": 1078,
+        "quic connection secure": 1078,
+        "quic connection none secure": 0
+    },
+    "230.pcap": {
+        "udp connection": 558,
+        "quic connection secure": 558,
+        "quic connection none secure": 0
+    },
+    "401.pcap": {
+        "udp connection": 1165,
+        "quic connection secure": 1127,
+        "quic connection none secure": 0
+    },
+    "10.pcap": {
+        "udp connection": 452,
+        "quic connection secure": 403,
+        "quic connection none secure": 0
+    },
+    "158.pcap": {
+        "udp connection": 1010,
+        "quic connection secure": 987,
+        "quic connection none secure": 0
+    },
+    "58.pcap": {
+        "udp connection": 1015,
+        "quic connection secure": 1015,
+        "quic connection none secure": 0
+    },
+    "225.pcap": {
+        "udp connection": 743,
+        "quic connection secure": 735,
+        "quic connection none secure": 0
+    },
+    "422.pcap": {
+        "udp connection": 325,
+        "quic connection secure": 315,
+        "quic connection none secure": 0
+    },
+    "173.pcap": {
+        "udp connection": 973,
+        "quic connection secure": 973,
+        "quic connection none secure": 0
+    },
+    "127.pcap": {
+        "udp connection": 1183,
+        "quic connection secure": 1144,
+        "quic connection none secure": 0
+    },
+    "198.pcap": {
+        "udp connection": 321,
+        "quic connection secure": 321,
+        "quic connection none secure": 0
+    },
+    "23.pcap": {
+        "udp connection": 1215,
+        "quic connection secure": 1215,
+        "quic connection none secure": 0
+    },
+    "38.pcap": {
+        "udp connection": 673,
+        "quic connection secure": 673,
+        "quic connection none secure": 0
+    },
+    "211.pcap": {
+        "udp connection": 290,
+        "quic connection secure": 290,
+        "quic connection none secure": 0
+    },
+    "296.pcap": {
+        "udp connection": 531,
+        "quic connection secure": 531,
+        "quic connection none secure": 0
+    },
+    "192.pcap": {
+        "udp connection": 342,
+        "quic connection secure": 316,
+        "quic connection none secure": 0
+    },
+    "239.pcap": {
+        "udp connection": 380,
+        "quic connection secure": 380,
+        "quic connection none secure": 0
+    },
+    "151.pcap": {
+        "udp connection": 1150,
+        "quic connection secure": 1150,
+        "quic connection none secure": 0
+    },
+    "163.pcap": {
+        "udp connection": 376,
+        "quic connection secure": 376,
+        "quic connection none secure": 0
+    },
+    "375.pcap": {
+        "udp connection": 757,
+        "quic connection secure": 732,
+        "quic connection none secure": 0
+    },
+    "222.pcap": {
+        "udp connection": 312,
+        "quic connection secure": 312,
+        "quic connection none secure": 0
+    },
+    "305.pcap": {
+        "udp connection": 493,
+        "quic connection secure": 493,
+        "quic connection none secure": 0
+    },
+    "152.pcap": {
+        "udp connection": 334,
+        "quic connection secure": 334,
+        "quic connection none secure": 0
+    },
+    "205.pcap": {
+        "udp connection": 577,
+        "quic connection secure": 577,
+        "quic connection none secure": 0
+    },
+    "404.pcap": {
+        "udp connection": 313,
+        "quic connection secure": 313,
+        "quic connection none secure": 0
+    },
+    "430.pcap": {
+        "udp connection": 298,
+        "quic connection secure": 292,
+        "quic connection none secure": 0
+    },
+    "306.pcap": {
+        "udp connection": 291,
+        "quic connection secure": 291,
+        "quic connection none secure": 0
+    },
+    "343.pcap": {
+        "udp connection": 594,
+        "quic connection secure": 594,
+        "quic connection none secure": 0
+    },
+    "81.pcap": {
+        "udp connection": 395,
+        "quic connection secure": 359,
+        "quic connection none secure": 0
+    },
+    "59.pcap": {
+        "udp connection": 407,
+        "quic connection secure": 407,
+        "quic connection none secure": 0
+    },
+    "247.pcap": {
+        "udp connection": 477,
+        "quic connection secure": 471,
+        "quic connection none secure": 0
+    },
+    "22.pcap": {
+        "udp connection": 302,
+        "quic connection secure": 302,
+        "quic connection none secure": 0
+    },
+    "138.pcap": {
+        "udp connection": 331,
+        "quic connection secure": 327,
+        "quic connection none secure": 0
+    },
+    "145.pcap": {
+        "udp connection": 341,
+        "quic connection secure": 341,
+        "quic connection none secure": 0
+    },
+    "210.pcap": {
+        "udp connection": 1048,
+        "quic connection secure": 1048,
+        "quic connection none secure": 0
+    },
+    "285.pcap": {
+        "udp connection": 1110,
+        "quic connection secure": 1110,
+        "quic connection none secure": 0
+    },
+    "428.pcap": {
+        "udp connection": 340,
+        "quic connection secure": 340,
+        "quic connection none secure": 0
+    },
+    "450.pcap": {
+        "udp connection": 425,
+        "quic connection secure": 425,
+        "quic connection none secure": 0
+    },
+    "325.pcap": {
+        "udp connection": 724,
+        "quic connection secure": 724,
+        "quic connection none secure": 0
+    },
+    "364.pcap": {
+        "udp connection": 779,
+        "quic connection secure": 779,
+        "quic connection none secure": 0
+    },
+    "29.pcap": {
+        "udp connection": 927,
+        "quic connection secure": 927,
+        "quic connection none secure": 0
+    },
+    "362.pcap": {
+        "udp connection": 793,
+        "quic connection secure": 793,
+        "quic connection none secure": 0
+    },
+    "330.pcap": {
+        "udp connection": 283,
+        "quic connection secure": 249,
+        "quic connection none secure": 0
+    },
+    "24.pcap": {
+        "udp connection": 468,
+        "quic connection secure": 437,
+        "quic connection none secure": 0
+    },
+    "190.pcap": {
+        "udp connection": 346,
+        "quic connection secure": 346,
+        "quic connection none secure": 0
+    },
+    "140.pcap": {
+        "udp connection": 332,
+        "quic connection secure": 332,
+        "quic connection none secure": 0
+    },
+    "420.pcap": {
+        "udp connection": 367,
+        "quic connection secure": 343,
+        "quic connection none secure": 0
+    },
+    "322.pcap": {
+        "udp connection": 284,
+        "quic connection secure": 257,
+        "quic connection none secure": 0
+    },
+    "383.pcap": {
+        "udp connection": 563,
+        "quic connection secure": 563,
+        "quic connection none secure": 0
+    },
+    "328.pcap": {
+        "udp connection": 299,
+        "quic connection secure": 299,
+        "quic connection none secure": 0
+    },
+    "431.pcap": {
+        "udp connection": 842,
+        "quic connection secure": 842,
+        "quic connection none secure": 0
+    },
+    "320.pcap": {
+        "udp connection": 301,
+        "quic connection secure": 301,
+        "quic connection none secure": 0
+    },
+    "332.pcap": {
+        "udp connection": 295,
+        "quic connection secure": 295,
+        "quic connection none secure": 0
+    },
+    "283.pcap": {
+        "udp connection": 556,
+        "quic connection secure": 556,
+        "quic connection none secure": 0
+    },
+    "360.pcap": {
+        "udp connection": 465,
+        "quic connection secure": 465,
+        "quic connection none secure": 0
+    },
+    "66.pcap": {
+        "udp connection": 360,
+        "quic connection secure": 360,
+        "quic connection none secure": 0
+    },
+    "346.pcap": {
+        "udp connection": 852,
+        "quic connection secure": 852,
+        "quic connection none secure": 0
+    },
+    "252.pcap": {
+        "udp connection": 730,
+        "quic connection secure": 730,
+        "quic connection none secure": 0
+    },
+    "385.pcap": {
+        "udp connection": 1039,
+        "quic connection secure": 1005,
+        "quic connection none secure": 0
+    },
+    "449.pcap": {
+        "udp connection": 366,
+        "quic connection secure": 358,
+        "quic connection none secure": 0
+    },
+    "267.pcap": {
+        "udp connection": 266,
+        "quic connection secure": 244,
+        "quic connection none secure": 0
+    },
+    "376.pcap": {
+        "udp connection": 401,
+        "quic connection secure": 389,
+        "quic connection none secure": 0
+    },
+    "168.pcap": {
+        "udp connection": 853,
+        "quic connection secure": 853,
+        "quic connection none secure": 0
+    },
+    "102.pcap": {
+        "udp connection": 318,
+        "quic connection secure": 318,
+        "quic connection none secure": 0
+    },
+    "443.pcap": {
+        "udp connection": 552,
+        "quic connection secure": 552,
+        "quic connection none secure": 0
+    },
+    "259.pcap": {
+        "udp connection": 434,
+        "quic connection secure": 426,
+        "quic connection none secure": 0
+    },
+    "416.pcap": {
+        "udp connection": 415,
+        "quic connection secure": 415,
+        "quic connection none secure": 0
+    },
+    "96.pcap": {
+        "udp connection": 423,
+        "quic connection secure": 423,
+        "quic connection none secure": 0
+    },
+    "129.pcap": {
+        "udp connection": 308,
+        "quic connection secure": 308,
+        "quic connection none secure": 0
+    },
+    "165.pcap": {
+        "udp connection": 1042,
+        "quic connection secure": 1006,
+        "quic connection none secure": 0
+    },
+    "341.pcap": {
+        "udp connection": 879,
+        "quic connection secure": 879,
+        "quic connection none secure": 0
+    },
+    "352.pcap": {
+        "udp connection": 542,
+        "quic connection secure": 542,
+        "quic connection none secure": 0
+    },
+    "65.pcap": {
+        "udp connection": 861,
+        "quic connection secure": 861,
+        "quic connection none secure": 0
+    },
+    "57.pcap": {
+        "udp connection": 271,
+        "quic connection secure": 271,
+        "quic connection none secure": 0
+    },
+    "86.pcap": {
+        "udp connection": 757,
+        "quic connection secure": 757,
+        "quic connection none secure": 0
+    },
+    "308.pcap": {
+        "udp connection": 739,
+        "quic connection secure": 739,
+        "quic connection none secure": 0
+    },
+    "170.pcap": {
+        "udp connection": 323,
+        "quic connection secure": 323,
+        "quic connection none secure": 0
+    },
+    "30.pcap": {
+        "udp connection": 487,
+        "quic connection secure": 487,
+        "quic connection none secure": 0
+    },
+    "368.pcap": {
+        "udp connection": 430,
+        "quic connection secure": 430,
+        "quic connection none secure": 0
+    },
+    "45.pcap": {
+        "udp connection": 344,
+        "quic connection secure": 344,
+        "quic connection none secure": 0
+    },
+    "49.pcap": {
+        "udp connection": 365,
+        "quic connection secure": 365,
+        "quic connection none secure": 0
+    },
+    "297.pcap": {
+        "udp connection": 853,
+        "quic connection secure": 548,
+        "quic connection none secure": 0
+    },
+    "61.pcap": {
+        "udp connection": 295,
+        "quic connection secure": 295,
+        "quic connection none secure": 0
+    },
+    "423.pcap": {
+        "udp connection": 801,
+        "quic connection secure": 801,
+        "quic connection none secure": 0
+    },
+    "412.pcap": {
+        "udp connection": 789,
+        "quic connection secure": 783,
+        "quic connection none secure": 0
+    },
+    "169.pcap": {
+        "udp connection": 459,
+        "quic connection secure": 459,
+        "quic connection none secure": 0
+    },
+    "149.pcap": {
+        "udp connection": 363,
+        "quic connection secure": 363,
+        "quic connection none secure": 0
+    },
+    "361.pcap": {
+        "udp connection": 285,
+        "quic connection secure": 285,
+        "quic connection none secure": 0
+    },
+    "36.pcap": {
+        "udp connection": 888,
+        "quic connection secure": 888,
+        "quic connection none secure": 0
+    },
+    "197.pcap": {
+        "udp connection": 469,
+        "quic connection secure": 469,
+        "quic connection none secure": 0
+    },
+    "316.pcap": {
+        "udp connection": 420,
+        "quic connection secure": 420,
+        "quic connection none secure": 0
+    },
+    "7.pcap": {
+        "udp connection": 282,
+        "quic connection secure": 282,
+        "quic connection none secure": 0
+    },
+    "26.pcap": {
+        "udp connection": 557,
+        "quic connection secure": 557,
+        "quic connection none secure": 0
+    },
+    "398.pcap": {
+        "udp connection": 295,
+        "quic connection secure": 295,
+        "quic connection none secure": 0
+    },
+    "314.pcap": {
+        "udp connection": 559,
+        "quic connection secure": 559,
+        "quic connection none secure": 0
+    },
+    "104.pcap": {
+        "udp connection": 352,
+        "quic connection secure": 322,
+        "quic connection none secure": 0
+    },
+    "394.pcap": {
+        "udp connection": 357,
+        "quic connection secure": 357,
+        "quic connection none secure": 0
+    },
+    "21.pcap": {
+        "udp connection": 268,
+        "quic connection secure": 268,
+        "quic connection none secure": 0
+    },
+    "73.pcap": {
+        "udp connection": 1028,
+        "quic connection secure": 1028,
+        "quic connection none secure": 0
+    },
+    "25.pcap": {
+        "udp connection": 966,
+        "quic connection secure": 960,
+        "quic connection none secure": 0
+    },
+    "87.pcap": {
+        "udp connection": 852,
+        "quic connection secure": 852,
+        "quic connection none secure": 0
+    },
+    "156.pcap": {
+        "udp connection": 347,
+        "quic connection secure": 347,
+        "quic connection none secure": 0
+    },
+    "16.pcap": {
+        "udp connection": 533,
+        "quic connection secure": 533,
+        "quic connection none secure": 0
+    },
+    "244.pcap": {
+        "udp connection": 342,
+        "quic connection secure": 342,
+        "quic connection none secure": 0
+    },
+    "382.pcap": {
+        "udp connection": 326,
+        "quic connection secure": 326,
+        "quic connection none secure": 0
+    },
+    "91.pcap": {
+        "udp connection": 1541,
+        "quic connection secure": 1504,
+        "quic connection none secure": 0
+    },
+    "272.pcap": {
+        "udp connection": 272,
+        "quic connection secure": 272,
+        "quic connection none secure": 0
+    },
+    "63.pcap": {
+        "udp connection": 335,
+        "quic connection secure": 335,
+        "quic connection none secure": 0
+    },
+    "437.pcap": {
+        "udp connection": 731,
+        "quic connection secure": 731,
+        "quic connection none secure": 0
+    },
+    "133.pcap": {
+        "udp connection": 534,
+        "quic connection secure": 534,
+        "quic connection none secure": 0
+    },
+    "101.pcap": {
+        "udp connection": 1087,
+        "quic connection secure": 1087,
+        "quic connection none secure": 0
+    },
+    "363.pcap": {
+        "udp connection": 312,
+        "quic connection secure": 312,
+        "quic connection none secure": 0
+    },
+    "276.pcap": {
+        "udp connection": 326,
+        "quic connection secure": 326,
+        "quic connection none secure": 0
+    },
+    "424.pcap": {
+        "udp connection": 394,
+        "quic connection secure": 394,
+        "quic connection none secure": 0
+    },
+    "208.pcap": {
+        "udp connection": 809,
+        "quic connection secure": 803,
+        "quic connection none secure": 0
+    },
+    "180.pcap": {
+        "udp connection": 522,
+        "quic connection secure": 522,
+        "quic connection none secure": 0
+    },
+    "185.pcap": {
+        "udp connection": 937,
+        "quic connection secure": 925,
+        "quic connection none secure": 0
+    },
+    "209.pcap": {
+        "udp connection": 341,
+        "quic connection secure": 341,
+        "quic connection none secure": 0
+    },
+    "417.pcap": {
+        "udp connection": 279,
+        "quic connection secure": 279,
+        "quic connection none secure": 0
+    },
+    "72.pcap": {
+        "udp connection": 324,
+        "quic connection secure": 295,
+        "quic connection none secure": 0
+    },
+    "157.pcap": {
+        "udp connection": 272,
+        "quic connection secure": 272,
+        "quic connection none secure": 0
+    },
+    "406.pcap": {
+        "udp connection": 369,
+        "quic connection secure": 369,
+        "quic connection none secure": 0
+    },
+    "425.pcap": {
+        "udp connection": 779,
+        "quic connection secure": 779,
+        "quic connection none secure": 0
+    },
+    "196.pcap": {
+        "udp connection": 1855,
+        "quic connection secure": 1855,
+        "quic connection none secure": 0
+    },
+    "380.pcap": {
+        "udp connection": 533,
+        "quic connection secure": 533,
+        "quic connection none secure": 0
+    },
+    "355.pcap": {
+        "udp connection": 530,
+        "quic connection secure": 520,
+        "quic connection none secure": 0
+    },
+    "289.pcap": {
+        "udp connection": 384,
+        "quic connection secure": 384,
+        "quic connection none secure": 0
+    },
+    "111.pcap": {
+        "udp connection": 281,
+        "quic connection secure": 277,
+        "quic connection none secure": 0
+    },
+    "79.pcap": {
+        "udp connection": 327,
+        "quic connection secure": 327,
+        "quic connection none secure": 0
+    },
+    "171.pcap": {
+        "udp connection": 254,
+        "quic connection secure": 254,
+        "quic connection none secure": 0
+    },
+    "234.pcap": {
+        "udp connection": 298,
+        "quic connection secure": 298,
+        "quic connection none secure": 0
+    },
+    "193.pcap": {
+        "udp connection": 1277,
+        "quic connection secure": 1271,
+        "quic connection none secure": 0
+    },
+    "94.pcap": {
+        "udp connection": 325,
+        "quic connection secure": 325,
+        "quic connection none secure": 0
+    },
+    "260.pcap": {
+        "udp connection": 586,
+        "quic connection secure": 586,
+        "quic connection none secure": 0
+    },
+    "257.pcap": {
+        "udp connection": 293,
+        "quic connection secure": 293,
+        "quic connection none secure": 0
+    },
+    "378.pcap": {
+        "udp connection": 354,
+        "quic connection secure": 354,
+        "quic connection none secure": 0
+    },
+    "445.pcap": {
+        "udp connection": 321,
+        "quic connection secure": 321,
+        "quic connection none secure": 0
+    },
+    "388.pcap": {
+        "udp connection": 327,
+        "quic connection secure": 327,
+        "quic connection none secure": 0
+    },
+    "84.pcap": {
+        "udp connection": 290,
+        "quic connection secure": 290,
+        "quic connection none secure": 0
+    },
+    "224.pcap": {
+        "udp connection": 808,
+        "quic connection secure": 770,
+        "quic connection none secure": 0
+    },
+    "327.pcap": {
+        "udp connection": 536,
+        "quic connection secure": 536,
+        "quic connection none secure": 0
+    },
+    "85.pcap": {
+        "udp connection": 411,
+        "quic connection secure": 411,
+        "quic connection none secure": 0
+    },
+    "62.pcap": {
+        "udp connection": 400,
+        "quic connection secure": 400,
+        "quic connection none secure": 0
+    },
+    "440.pcap": {
+        "udp connection": 296,
+        "quic connection secure": 296,
+        "quic connection none secure": 0
+    },
+    "237.pcap": {
+        "udp connection": 523,
+        "quic connection secure": 523,
+        "quic connection none secure": 0
+    },
+    "70.pcap": {
+        "udp connection": 960,
+        "quic connection secure": 913,
+        "quic connection none secure": 0
+    },
+    "80.pcap": {
+        "udp connection": 500,
+        "quic connection secure": 500,
+        "quic connection none secure": 0
+    },
+    "248.pcap": {
+        "udp connection": 309,
+        "quic connection secure": 309,
+        "quic connection none secure": 0
+    },
+    "302.pcap": {
+        "udp connection": 516,
+        "quic connection secure": 516,
+        "quic connection none secure": 0
+    },
+    "132.pcap": {
+        "udp connection": 347,
+        "quic connection secure": 347,
+        "quic connection none secure": 0
+    },
+    "254.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "335.pcap": {
+        "udp connection": 805,
+        "quic connection secure": 805,
+        "quic connection none secure": 0
+    },
+    "52.pcap": {
+        "udp connection": 968,
+        "quic connection secure": 968,
+        "quic connection none secure": 0
+    },
+    "77.pcap": {
+        "udp connection": 361,
+        "quic connection secure": 361,
+        "quic connection none secure": 0
+    },
+    "75.pcap": {
+        "udp connection": 377,
+        "quic connection secure": 377,
+        "quic connection none secure": 0
+    },
+    "174.pcap": {
+        "udp connection": 1053,
+        "quic connection secure": 1018,
+        "quic connection none secure": 0
+    },
+    "9.pcap": {
+        "udp connection": 352,
+        "quic connection secure": 328,
+        "quic connection none secure": 0
+    },
+    "93.pcap": {
+        "udp connection": 557,
+        "quic connection secure": 557,
+        "quic connection none secure": 0
+    },
+    "228.pcap": {
+        "udp connection": 95,
+        "quic connection secure": 95,
+        "quic connection none secure": 0
+    },
+    "415.pcap": {
+        "udp connection": 816,
+        "quic connection secure": 786,
+        "quic connection none secure": 0
+    },
+    "105.pcap": {
+        "udp connection": 904,
+        "quic connection secure": 904,
+        "quic connection none secure": 0
+    },
+    "202.pcap": {
+        "udp connection": 322,
+        "quic connection secure": 322,
+        "quic connection none secure": 0
+    },
+    "194.pcap": {
+        "udp connection": 322,
+        "quic connection secure": 316,
+        "quic connection none secure": 0
+    },
+    "76.pcap": {
+        "udp connection": 1092,
+        "quic connection secure": 1092,
+        "quic connection none secure": 0
+    },
+    "245.pcap": {
+        "udp connection": 394,
+        "quic connection secure": 363,
+        "quic connection none secure": 0
+    },
+    "246.pcap": {
+        "udp connection": 781,
+        "quic connection secure": 773,
+        "quic connection none secure": 0
+    },
+    "232.pcap": {
+        "udp connection": 372,
+        "quic connection secure": 362,
+        "quic connection none secure": 0
+    },
+    "18.pcap": {
+        "udp connection": 376,
+        "quic connection secure": 376,
+        "quic connection none secure": 0
+    },
+    "268.pcap": {
+        "udp connection": 415,
+        "quic connection secure": 401,
+        "quic connection none secure": 0
+    },
+    "116.pcap": {
+        "udp connection": 778,
+        "quic connection secure": 778,
+        "quic connection none secure": 0
+    },
+    "178.pcap": {
+        "udp connection": 733,
+        "quic connection secure": 733,
+        "quic connection none secure": 0
+    },
+    "347.pcap": {
+        "udp connection": 274,
+        "quic connection secure": 274,
+        "quic connection none secure": 0
+    },
+    "389.pcap": {
+        "udp connection": 396,
+        "quic connection secure": 396,
+        "quic connection none secure": 0
+    },
+    "250.pcap": {
+        "udp connection": 991,
+        "quic connection secure": 991,
+        "quic connection none secure": 0
+    },
+    "393.pcap": {
+        "udp connection": 624,
+        "quic connection secure": 624,
+        "quic connection none secure": 0
+    },
+    "429.pcap": {
+        "udp connection": 948,
+        "quic connection secure": 917,
+        "quic connection none secure": 0
+    },
+    "292.pcap": {
+        "udp connection": 314,
+        "quic connection secure": 314,
+        "quic connection none secure": 0
+    },
+    "112.pcap": {
+        "udp connection": 1184,
+        "quic connection secure": 1174,
+        "quic connection none secure": 0
+    },
+    "323.pcap": {
+        "udp connection": 555,
+        "quic connection secure": 545,
+        "quic connection none secure": 0
+    },
+    "287.pcap": {
+        "udp connection": 520,
+        "quic connection secure": 520,
+        "quic connection none secure": 0
+    },
+    "262.pcap": {
+        "udp connection": 876,
+        "quic connection secure": 876,
+        "quic connection none secure": 0
+    },
+    "34.pcap": {
+        "udp connection": 285,
+        "quic connection secure": 279,
+        "quic connection none secure": 0
+    },
+    "217.pcap": {
+        "udp connection": 276,
+        "quic connection secure": 276,
+        "quic connection none secure": 0
+    },
+    "275.pcap": {
+        "udp connection": 513,
+        "quic connection secure": 513,
+        "quic connection none secure": 0
+    },
+    "40.pcap": {
+        "udp connection": 337,
+        "quic connection secure": 337,
+        "quic connection none secure": 0
+    },
+    "142.pcap": {
+        "udp connection": 312,
+        "quic connection secure": 312,
+        "quic connection none secure": 0
+    },
+    "377.pcap": {
+        "udp connection": 395,
+        "quic connection secure": 395,
+        "quic connection none secure": 0
+    },
+    "136.pcap": {
+        "udp connection": 298,
+        "quic connection secure": 298,
+        "quic connection none secure": 0
+    },
+    "255.pcap": {
+        "udp connection": 520,
+        "quic connection secure": 520,
+        "quic connection none secure": 0
+    },
+    "231.pcap": {
+        "udp connection": 332,
+        "quic connection secure": 310,
+        "quic connection none secure": 0
+    },
+    "83.pcap": {
+        "udp connection": 465,
+        "quic connection secure": 465,
+        "quic connection none secure": 0
+    },
+    "261.pcap": {
+        "udp connection": 277,
+        "quic connection secure": 277,
+        "quic connection none secure": 0
+    },
+    "286.pcap": {
+        "udp connection": 809,
+        "quic connection secure": 809,
+        "quic connection none secure": 0
+    },
+    "46.pcap": {
+        "udp connection": 844,
+        "quic connection secure": 844,
+        "quic connection none secure": 0
+    },
+    "318.pcap": {
+        "udp connection": 383,
+        "quic connection secure": 383,
+        "quic connection none secure": 0
+    },
+    "300.pcap": {
+        "udp connection": 580,
+        "quic connection secure": 580,
+        "quic connection none secure": 0
+    },
+    "95.pcap": {
+        "udp connection": 335,
+        "quic connection secure": 335,
+        "quic connection none secure": 0
+    },
+    "291.pcap": {
+        "udp connection": 546,
+        "quic connection secure": 546,
+        "quic connection none secure": 0
+    },
+    "213.pcap": {
+        "udp connection": 336,
+        "quic connection secure": 336,
+        "quic connection none secure": 0
+    },
+    "200.pcap": {
+        "udp connection": 1224,
+        "quic connection secure": 1189,
+        "quic connection none secure": 0
+    },
+    "215.pcap": {
+        "udp connection": 812,
+        "quic connection secure": 802,
+        "quic connection none secure": 0
+    },
+    "273.pcap": {
+        "udp connection": 355,
+        "quic connection secure": 355,
+        "quic connection none secure": 0
+    },
+    "153.pcap": {
+        "udp connection": 567,
+        "quic connection secure": 567,
+        "quic connection none secure": 0
+    },
+    "14.pcap": {
+        "udp connection": 1971,
+        "quic connection secure": 1463,
+        "quic connection none secure": 0
+    },
+    "90.pcap": {
+        "udp connection": 338,
+        "quic connection secure": 338,
+        "quic connection none secure": 0
+    },
+    "167.pcap": {
+        "udp connection": 271,
+        "quic connection secure": 271,
+        "quic connection none secure": 0
+    },
+    "176.pcap": {
+        "udp connection": 354,
+        "quic connection secure": 354,
+        "quic connection none secure": 0
+    },
+    "98.pcap": {
+        "udp connection": 346,
+        "quic connection secure": 346,
+        "quic connection none secure": 0
+    },
+    "214.pcap": {
+        "udp connection": 1019,
+        "quic connection secure": 992,
+        "quic connection none secure": 0
+    },
+    "427.pcap": {
+        "udp connection": 722,
+        "quic connection secure": 722,
+        "quic connection none secure": 0
+    },
+    "55.pcap": {
+        "udp connection": 935,
+        "quic connection secure": 895,
+        "quic connection none secure": 0
+    },
+    "181.pcap": {
+        "udp connection": 314,
+        "quic connection secure": 314,
+        "quic connection none secure": 0
+    },
+    "106.pcap": {
+        "udp connection": 773,
+        "quic connection secure": 773,
+        "quic connection none secure": 0
+    },
+    "110.pcap": {
+        "udp connection": 458,
+        "quic connection secure": 436,
+        "quic connection none secure": 0
+    },
+    "164.pcap": {
+        "udp connection": 814,
+        "quic connection secure": 814,
+        "quic connection none secure": 0
+    },
+    "434.pcap": {
+        "udp connection": 326,
+        "quic connection secure": 326,
+        "quic connection none secure": 0
+    },
+    "407.pcap": {
+        "udp connection": 270,
+        "quic connection secure": 270,
+        "quic connection none secure": 0
+    },
+    "123.pcap": {
+        "udp connection": 824,
+        "quic connection secure": 824,
+        "quic connection none secure": 0
+    },
+    "175.pcap": {
+        "udp connection": 628,
+        "quic connection secure": 618,
+        "quic connection none secure": 0
+    },
+    "303.pcap": {
+        "udp connection": 536,
+        "quic connection secure": 536,
+        "quic connection none secure": 0
+    },
+    "159.pcap": {
+        "udp connection": 353,
+        "quic connection secure": 345,
+        "quic connection none secure": 0
+    },
+    "309.pcap": {
+        "udp connection": 372,
+        "quic connection secure": 372,
+        "quic connection none secure": 0
+    },
+    "409.pcap": {
+        "udp connection": 347,
+        "quic connection secure": 347,
+        "quic connection none secure": 0
+    },
+    "253.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "317.pcap": {
+        "udp connection": 249,
+        "quic connection secure": 249,
+        "quic connection none secure": 0
+    },
+    "357.pcap": {
+        "udp connection": 281,
+        "quic connection secure": 275,
+        "quic connection none secure": 0
+    },
+    "238.pcap": {
+        "udp connection": 302,
+        "quic connection secure": 302,
+        "quic connection none secure": 0
+    },
+    "251.pcap": {
+        "udp connection": 600,
+        "quic connection secure": 592,
+        "quic connection none secure": 0
+    },
+    "187.pcap": {
+        "udp connection": 748,
+        "quic connection secure": 748,
+        "quic connection none secure": 0
+    },
+    "148.pcap": {
+        "udp connection": 323,
+        "quic connection secure": 323,
+        "quic connection none secure": 0
+    },
+    "39.pcap": {
+        "udp connection": 413,
+        "quic connection secure": 413,
+        "quic connection none secure": 0
+    },
+    "411.pcap": {
+        "udp connection": 292,
+        "quic connection secure": 288,
+        "quic connection none secure": 0
+    },
+    "212.pcap": {
+        "udp connection": 801,
+        "quic connection secure": 801,
+        "quic connection none secure": 0
+    },
+    "418.pcap": {
+        "udp connection": 411,
+        "quic connection secure": 411,
+        "quic connection none secure": 0
+    },
+    "319.pcap": {
+        "udp connection": 443,
+        "quic connection secure": 443,
+        "quic connection none secure": 0
+    },
+    "201.pcap": {
+        "udp connection": 1188,
+        "quic connection secure": 1188,
+        "quic connection none secure": 0
+    },
+    "271.pcap": {
+        "udp connection": 215,
+        "quic connection secure": 215,
+        "quic connection none secure": 0
+    },
+    "235.pcap": {
+        "udp connection": 1015,
+        "quic connection secure": 1015,
+        "quic connection none secure": 0
+    },
+    "405.pcap": {
+        "udp connection": 571,
+        "quic connection secure": 571,
+        "quic connection none secure": 0
+    },
+    "236.pcap": {
+        "udp connection": 564,
+        "quic connection secure": 564,
+        "quic connection none secure": 0
+    },
+    "89.pcap": {
+        "udp connection": 358,
+        "quic connection secure": 358,
+        "quic connection none secure": 0
+    },
+    "315.pcap": {
+        "udp connection": 761,
+        "quic connection secure": 761,
+        "quic connection none secure": 0
+    },
+    "281.pcap": {
+        "udp connection": 749,
+        "quic connection secure": 749,
+        "quic connection none secure": 0
+    },
+    "386.pcap": {
+        "udp connection": 1765,
+        "quic connection secure": 1753,
+        "quic connection none secure": 0
+    },
+    "37.pcap": {
+        "udp connection": 199,
+        "quic connection secure": 199,
+        "quic connection none secure": 0
+    },
+    "269.pcap": {
+        "udp connection": 458,
+        "quic connection secure": 458,
+        "quic connection none secure": 0
+    },
+    "403.pcap": {
+        "udp connection": 522,
+        "quic connection secure": 522,
+        "quic connection none secure": 0
+    },
+    "444.pcap": {
+        "udp connection": 301,
+        "quic connection secure": 301,
+        "quic connection none secure": 0
+    },
+    "312.pcap": {
+        "udp connection": 1072,
+        "quic connection secure": 1072,
+        "quic connection none secure": 0
+    },
+    "107.pcap": {
+        "udp connection": 256,
+        "quic connection secure": 256,
+        "quic connection none secure": 0
+    },
+    "395.pcap": {
+        "udp connection": 340,
+        "quic connection secure": 311,
+        "quic connection none secure": 0
+    },
+    "162.pcap": {
+        "udp connection": 1152,
+        "quic connection secure": 1152,
+        "quic connection none secure": 0
+    },
+    "135.pcap": {
+        "udp connection": 580,
+        "quic connection secure": 580,
+        "quic connection none secure": 0
+    },
+    "321.pcap": {
+        "udp connection": 213,
+        "quic connection secure": 213,
+        "quic connection none secure": 0
+    },
+    "301.pcap": {
+        "udp connection": 1021,
+        "quic connection secure": 1021,
+        "quic connection none secure": 0
+    },
+    "220.pcap": {
+        "udp connection": 328,
+        "quic connection secure": 328,
+        "quic connection none secure": 0
+    },
+    "131.pcap": {
+        "udp connection": 323,
+        "quic connection secure": 323,
+        "quic connection none secure": 0
+    },
+    "47.pcap": {
+        "udp connection": 616,
+        "quic connection secure": 616,
+        "quic connection none secure": 0
+    },
+    "203.pcap": {
+        "udp connection": 581,
+        "quic connection secure": 581,
+        "quic connection none secure": 0
+    },
+    "51.pcap": {
+        "udp connection": 414,
+        "quic connection secure": 414,
+        "quic connection none secure": 0
+    },
+    "290.pcap": {
+        "udp connection": 303,
+        "quic connection secure": 303,
+        "quic connection none secure": 0
+    },
+    "82.pcap": {
+        "udp connection": 325,
+        "quic connection secure": 315,
+        "quic connection none secure": 0
+    },
+    "172.pcap": {
+        "udp connection": 313,
+        "quic connection secure": 313,
+        "quic connection none secure": 0
+    },
+    "351.pcap": {
+        "udp connection": 870,
+        "quic connection secure": 870,
+        "quic connection none secure": 0
+    },
+    "337.pcap": {
+        "udp connection": 483,
+        "quic connection secure": 441,
+        "quic connection none secure": 0
+    },
+    "186.pcap": {
+        "udp connection": 798,
+        "quic connection secure": 798,
+        "quic connection none secure": 0
+    },
+    "324.pcap": {
+        "udp connection": 532,
+        "quic connection secure": 532,
+        "quic connection none secure": 0
+    },
+    "372.pcap": {
+        "udp connection": 295,
+        "quic connection secure": 295,
+        "quic connection none secure": 0
+    },
+    "8.pcap": {
+        "udp connection": 1040,
+        "quic connection secure": 811,
+        "quic connection none secure": 0
+    },
+    "293.pcap": {
+        "udp connection": 622,
+        "quic connection secure": 622,
+        "quic connection none secure": 0
+    },
+    "19.pcap": {
+        "udp connection": 499,
+        "quic connection secure": 499,
+        "quic connection none secure": 0
+    },
+    "249.pcap": {
+        "udp connection": 330,
+        "quic connection secure": 330,
+        "quic connection none secure": 0
+    },
+    "344.pcap": {
+        "udp connection": 392,
+        "quic connection secure": 392,
+        "quic connection none secure": 0
+    },
+    "92.pcap": {
+        "udp connection": 313,
+        "quic connection secure": 313,
+        "quic connection none secure": 0
+    },
+    "414.pcap": {
+        "udp connection": 798,
+        "quic connection secure": 798,
+        "quic connection none secure": 0
+    },
+    "184.pcap": {
+        "udp connection": 348,
+        "quic connection secure": 323,
+        "quic connection none secure": 0
+    },
+    "42.pcap": {
+        "udp connection": 353,
+        "quic connection secure": 345,
+        "quic connection none secure": 0
+    },
+    "60.pcap": {
+        "udp connection": 430,
+        "quic connection secure": 430,
+        "quic connection none secure": 0
+    },
+    "204.pcap": {
+        "udp connection": 315,
+        "quic connection secure": 315,
+        "quic connection none secure": 0
+    },
+    "31.pcap": {
+        "udp connection": 852,
+        "quic connection secure": 852,
+        "quic connection none secure": 0
+    },
+    "137.pcap": {
+        "udp connection": 951,
+        "quic connection secure": 919,
+        "quic connection none secure": 0
+    },
+    "124.pcap": {
+        "udp connection": 1200,
+        "quic connection secure": 1200,
+        "quic connection none secure": 0
+    },
+    "155.pcap": {
+        "udp connection": 501,
+        "quic connection secure": 501,
+        "quic connection none secure": 0
+    },
+    "435.pcap": {
+        "udp connection": 679,
+        "quic connection secure": 641,
+        "quic connection none secure": 0
+    },
+    "433.pcap": {
+        "udp connection": 574,
+        "quic connection secure": 574,
+        "quic connection none secure": 0
+    },
+    "310.pcap": {
+        "udp connection": 573,
+        "quic connection secure": 573,
+        "quic connection none secure": 0
+    },
+    "177.pcap": {
+        "udp connection": 759,
+        "quic connection secure": 759,
+        "quic connection none secure": 0
+    },
+    "43.pcap": {
+        "udp connection": 425,
+        "quic connection secure": 419,
+        "quic connection none secure": 0
+    },
+    "97.pcap": {
+        "udp connection": 847,
+        "quic connection secure": 847,
+        "quic connection none secure": 0
+    },
+    "44.pcap": {
+        "udp connection": 315,
+        "quic connection secure": 315,
+        "quic connection none secure": 0
+    },
+    "141.pcap": {
+        "udp connection": 854,
+        "quic connection secure": 854,
+        "quic connection none secure": 0
+    },
+    "154.pcap": {
+        "udp connection": 308,
+        "quic connection secure": 308,
+        "quic connection none secure": 0
+    },
+    "134.pcap": {
+        "udp connection": 4311,
+        "quic connection secure": 4311,
+        "quic connection none secure": 0
+    },
+    "270.pcap": {
+        "udp connection": 297,
+        "quic connection secure": 297,
+        "quic connection none secure": 0
+    },
+    "265.pcap": {
+        "udp connection": 283,
+        "quic connection secure": 283,
+        "quic connection none secure": 0
+    },
+    "218.pcap": {
+        "udp connection": 812,
+        "quic connection secure": 812,
+        "quic connection none secure": 0
+    },
+    "390.pcap": {
+        "udp connection": 346,
+        "quic connection secure": 346,
+        "quic connection none secure": 0
+    }
+}

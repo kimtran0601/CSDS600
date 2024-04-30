@@ -1,0 +1,4802 @@
+{
+    "/home/kdt46/output/326.pcap": {
+        "udp connection": 807,
+        "quic connection secure": 807,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/391.pcap": {
+        "udp connection": 170,
+        "quic connection secure": 170,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/436.pcap": {
+        "udp connection": 588,
+        "quic connection secure": 588,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/53.pcap": {
+        "udp connection": 253,
+        "quic connection secure": 253,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/616.pcap": {
+        "udp connection": 274,
+        "quic connection secure": 274,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/654.pcap": {
+        "udp connection": 537,
+        "quic connection secure": 537,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/556.pcap": {
+        "udp connection": 223,
+        "quic connection secure": 223,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/717.pcap": {
+        "udp connection": 514,
+        "quic connection secure": 480,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/282.pcap": {
+        "udp connection": 173,
+        "quic connection secure": 173,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/56.pcap": {
+        "udp connection": 492,
+        "quic connection secure": 492,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/565.pcap": {
+        "udp connection": 75,
+        "quic connection secure": 75,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/642.pcap": {
+        "udp connection": 501,
+        "quic connection secure": 501,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/621.pcap": {
+        "udp connection": 700,
+        "quic connection secure": 700,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/379.pcap": {
+        "udp connection": 333,
+        "quic connection secure": 333,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/359.pcap": {
+        "udp connection": 272,
+        "quic connection secure": 272,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/233.pcap": {
+        "udp connection": 245,
+        "quic connection secure": 245,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/28.pcap": {
+        "udp connection": 223,
+        "quic connection secure": 223,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/207.pcap": {
+        "udp connection": 232,
+        "quic connection secure": 232,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/885.pcap": {
+        "udp connection": 1004,
+        "quic connection secure": 1004,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/50.pcap": {
+        "udp connection": 218,
+        "quic connection secure": 218,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/6.pcap": {
+        "udp connection": 210,
+        "quic connection secure": 210,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/688.pcap": {
+        "udp connection": 213,
+        "quic connection secure": 213,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/356.pcap": {
+        "udp connection": 127,
+        "quic connection secure": 127,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/763.pcap": {
+        "udp connection": 159,
+        "quic connection secure": 159,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/611.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/602.pcap": {
+        "udp connection": 177,
+        "quic connection secure": 177,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/532.pcap": {
+        "udp connection": 970,
+        "quic connection secure": 970,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/103.pcap": {
+        "udp connection": 163,
+        "quic connection secure": 163,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/607.pcap": {
+        "udp connection": 254,
+        "quic connection secure": 254,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/371.pcap": {
+        "udp connection": 65,
+        "quic connection secure": 65,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/747.pcap": {
+        "udp connection": 317,
+        "quic connection secure": 317,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/329.pcap": {
+        "udp connection": 33,
+        "quic connection secure": 33,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/699.pcap": {
+        "udp connection": 249,
+        "quic connection secure": 249,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/873.pcap": {
+        "udp connection": 598,
+        "quic connection secure": 598,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/396.pcap": {
+        "udp connection": 157,
+        "quic connection secure": 157,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/952.pcap": {
+        "udp connection": 241,
+        "quic connection secure": 241,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/501.pcap": {
+        "udp connection": 1057,
+        "quic connection secure": 1057,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/35.pcap": {
+        "udp connection": 310,
+        "quic connection secure": 310,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/147.pcap": {
+        "udp connection": 265,
+        "quic connection secure": 265,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/878.pcap": {
+        "udp connection": 210,
+        "quic connection secure": 210,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/353.pcap": {
+        "udp connection": 177,
+        "quic connection secure": 177,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/442.pcap": {
+        "udp connection": 167,
+        "quic connection secure": 167,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/857.pcap": {
+        "udp connection": 233,
+        "quic connection secure": 233,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/734.pcap": {
+        "udp connection": 389,
+        "quic connection secure": 389,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/447.pcap": {
+        "udp connection": 169,
+        "quic connection secure": 169,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/408.pcap": {
+        "udp connection": 153,
+        "quic connection secure": 153,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/671.pcap": {
+        "udp connection": 192,
+        "quic connection secure": 192,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/125.pcap": {
+        "udp connection": 443,
+        "quic connection secure": 443,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/480.pcap": {
+        "udp connection": 182,
+        "quic connection secure": 182,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/883.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/488.pcap": {
+        "udp connection": 491,
+        "quic connection secure": 491,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/648.pcap": {
+        "udp connection": 224,
+        "quic connection secure": 224,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/307.pcap": {
+        "udp connection": 152,
+        "quic connection secure": 152,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/583.pcap": {
+        "udp connection": 148,
+        "quic connection secure": 148,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/421.pcap": {
+        "udp connection": 221,
+        "quic connection secure": 221,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/905.pcap": {
+        "udp connection": 199,
+        "quic connection secure": 199,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/88.pcap": {
+        "udp connection": 283,
+        "quic connection secure": 283,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/426.pcap": {
+        "udp connection": 129,
+        "quic connection secure": 129,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/460.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/41.pcap": {
+        "udp connection": 249,
+        "quic connection secure": 249,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/161.pcap": {
+        "udp connection": 203,
+        "quic connection secure": 203,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/673.pcap": {
+        "udp connection": 242,
+        "quic connection secure": 242,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/1.pcap": {
+        "udp connection": 2723,
+        "quic connection secure": 2658,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/336.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/20.pcap": {
+        "udp connection": 258,
+        "quic connection secure": 258,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/597.pcap": {
+        "udp connection": 1227,
+        "quic connection secure": 1227,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/835.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/495.pcap": {
+        "udp connection": 190,
+        "quic connection secure": 190,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/812.pcap": {
+        "udp connection": 606,
+        "quic connection secure": 606,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/387.pcap": {
+        "udp connection": 247,
+        "quic connection secure": 247,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/278.pcap": {
+        "udp connection": 905,
+        "quic connection secure": 905,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/274.pcap": {
+        "udp connection": 100,
+        "quic connection secure": 100,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/523.pcap": {
+        "udp connection": 101,
+        "quic connection secure": 101,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/604.pcap": {
+        "udp connection": 214,
+        "quic connection secure": 214,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/685.pcap": {
+        "udp connection": 228,
+        "quic connection secure": 228,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/188.pcap": {
+        "udp connection": 1640,
+        "quic connection secure": 1640,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/541.pcap": {
+        "udp connection": 171,
+        "quic connection secure": 171,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/256.pcap": {
+        "udp connection": 179,
+        "quic connection secure": 179,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/711.pcap": {
+        "udp connection": 276,
+        "quic connection secure": 276,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/518.pcap": {
+        "udp connection": 296,
+        "quic connection secure": 296,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/121.pcap": {
+        "udp connection": 80,
+        "quic connection secure": 80,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/441.pcap": {
+        "udp connection": 230,
+        "quic connection secure": 230,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/144.pcap": {
+        "udp connection": 188,
+        "quic connection secure": 188,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/932.pcap": {
+        "udp connection": 118,
+        "quic connection secure": 118,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/784.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/384.pcap": {
+        "udp connection": 183,
+        "quic connection secure": 183,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/701.pcap": {
+        "udp connection": 393,
+        "quic connection secure": 393,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/339.pcap": {
+        "udp connection": 263,
+        "quic connection secure": 263,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/719.pcap": {
+        "udp connection": 274,
+        "quic connection secure": 274,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/693.pcap": {
+        "udp connection": 889,
+        "quic connection secure": 889,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/592.pcap": {
+        "udp connection": 206,
+        "quic connection secure": 206,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/284.pcap": {
+        "udp connection": 305,
+        "quic connection secure": 305,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/513.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/816.pcap": {
+        "udp connection": 202,
+        "quic connection secure": 202,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/470.pcap": {
+        "udp connection": 759,
+        "quic connection secure": 759,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/68.pcap": {
+        "udp connection": 127,
+        "quic connection secure": 127,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/219.pcap": {
+        "udp connection": 262,
+        "quic connection secure": 262,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/109.pcap": {
+        "udp connection": 207,
+        "quic connection secure": 207,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/580.pcap": {
+        "udp connection": 742,
+        "quic connection secure": 742,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/71.pcap": {
+        "udp connection": 495,
+        "quic connection secure": 495,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/678.pcap": {
+        "udp connection": 225,
+        "quic connection secure": 225,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/182.pcap": {
+        "udp connection": 1040,
+        "quic connection secure": 1040,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/891.pcap": {
+        "udp connection": 264,
+        "quic connection secure": 264,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/206.pcap": {
+        "udp connection": 412,
+        "quic connection secure": 412,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/574.pcap": {
+        "udp connection": 291,
+        "quic connection secure": 291,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/548.pcap": {
+        "udp connection": 137,
+        "quic connection secure": 137,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/438.pcap": {
+        "udp connection": 164,
+        "quic connection secure": 164,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/636.pcap": {
+        "udp connection": 178,
+        "quic connection secure": 178,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/229.pcap": {
+        "udp connection": 272,
+        "quic connection secure": 272,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/294.pcap": {
+        "udp connection": 191,
+        "quic connection secure": 191,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/266.pcap": {
+        "udp connection": 184,
+        "quic connection secure": 184,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/718.pcap": {
+        "udp connection": 631,
+        "quic connection secure": 631,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/13.pcap": {
+        "udp connection": 243,
+        "quic connection secure": 243,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/279.pcap": {
+        "udp connection": 386,
+        "quic connection secure": 386,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/610.pcap": {
+        "udp connection": 161,
+        "quic connection secure": 161,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/227.pcap": {
+        "udp connection": 195,
+        "quic connection secure": 195,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/669.pcap": {
+        "udp connection": 484,
+        "quic connection secure": 484,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/226.pcap": {
+        "udp connection": 108,
+        "quic connection secure": 108,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/614.pcap": {
+        "udp connection": 770,
+        "quic connection secure": 770,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/120.pcap": {
+        "udp connection": 157,
+        "quic connection secure": 157,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/126.pcap": {
+        "udp connection": 619,
+        "quic connection secure": 619,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/821.pcap": {
+        "udp connection": 228,
+        "quic connection secure": 228,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/801.pcap": {
+        "udp connection": 79,
+        "quic connection secure": 79,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/805.pcap": {
+        "udp connection": 251,
+        "quic connection secure": 251,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/264.pcap": {
+        "udp connection": 160,
+        "quic connection secure": 160,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/622.pcap": {
+        "udp connection": 303,
+        "quic connection secure": 303,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/921.pcap": {
+        "udp connection": 389,
+        "quic connection secure": 389,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/772.pcap": {
+        "udp connection": 695,
+        "quic connection secure": 695,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/410.pcap": {
+        "udp connection": 177,
+        "quic connection secure": 177,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/825.pcap": {
+        "udp connection": 200,
+        "quic connection secure": 200,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/78.pcap": {
+        "udp connection": 604,
+        "quic connection secure": 604,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/765.pcap": {
+        "udp connection": 490,
+        "quic connection secure": 490,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/189.pcap": {
+        "udp connection": 798,
+        "quic connection secure": 798,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/505.pcap": {
+        "udp connection": 117,
+        "quic connection secure": 117,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/33.pcap": {
+        "udp connection": 83,
+        "quic connection secure": 83,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/588.pcap": {
+        "udp connection": 184,
+        "quic connection secure": 184,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/569.pcap": {
+        "udp connection": 244,
+        "quic connection secure": 244,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/941.pcap": {
+        "udp connection": 360,
+        "quic connection secure": 360,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/618.pcap": {
+        "udp connection": 143,
+        "quic connection secure": 143,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/692.pcap": {
+        "udp connection": 129,
+        "quic connection secure": 129,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/722.pcap": {
+        "udp connection": 280,
+        "quic connection secure": 280,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/397.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/655.pcap": {
+        "udp connection": 272,
+        "quic connection secure": 272,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/304.pcap": {
+        "udp connection": 213,
+        "quic connection secure": 213,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/223.pcap": {
+        "udp connection": 302,
+        "quic connection secure": 302,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/64.pcap": {
+        "udp connection": 206,
+        "quic connection secure": 206,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/150.pcap": {
+        "udp connection": 213,
+        "quic connection secure": 213,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/683.pcap": {
+        "udp connection": 361,
+        "quic connection secure": 361,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/633.pcap": {
+        "udp connection": 84,
+        "quic connection secure": 84,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/769.pcap": {
+        "udp connection": 413,
+        "quic connection secure": 413,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/117.pcap": {
+        "udp connection": 1092,
+        "quic connection secure": 1092,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/856.pcap": {
+        "udp connection": 314,
+        "quic connection secure": 314,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/951.pcap": {
+        "udp connection": 310,
+        "quic connection secure": 310,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/922.pcap": {
+        "udp connection": 163,
+        "quic connection secure": 163,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/166.pcap": {
+        "udp connection": 620,
+        "quic connection secure": 620,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/587.pcap": {
+        "udp connection": 1363,
+        "quic connection secure": 1363,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/191.pcap": {
+        "udp connection": 267,
+        "quic connection secure": 267,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/366.pcap": {
+        "udp connection": 494,
+        "quic connection secure": 494,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/338.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/369.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/476.pcap": {
+        "udp connection": 238,
+        "quic connection secure": 238,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/552.pcap": {
+        "udp connection": 207,
+        "quic connection secure": 207,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/735.pcap": {
+        "udp connection": 281,
+        "quic connection secure": 281,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/814.pcap": {
+        "udp connection": 328,
+        "quic connection secure": 328,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/799.pcap": {
+        "udp connection": 247,
+        "quic connection secure": 247,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/930.pcap": {
+        "udp connection": 423,
+        "quic connection secure": 423,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/525.pcap": {
+        "udp connection": 365,
+        "quic connection secure": 365,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/432.pcap": {
+        "udp connection": 193,
+        "quic connection secure": 193,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/589.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/575.pcap": {
+        "udp connection": 263,
+        "quic connection secure": 263,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/870.pcap": {
+        "udp connection": 216,
+        "quic connection secure": 216,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/947.pcap": {
+        "udp connection": 184,
+        "quic connection secure": 184,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/698.pcap": {
+        "udp connection": 192,
+        "quic connection secure": 192,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/653.pcap": {
+        "udp connection": 427,
+        "quic connection secure": 427,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/27.pcap": {
+        "udp connection": 271,
+        "quic connection secure": 271,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/768.pcap": {
+        "udp connection": 207,
+        "quic connection secure": 207,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/370.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/738.pcap": {
+        "udp connection": 423,
+        "quic connection secure": 423,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/781.pcap": {
+        "udp connection": 190,
+        "quic connection secure": 190,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/240.pcap": {
+        "udp connection": 188,
+        "quic connection secure": 188,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/581.pcap": {
+        "udp connection": 222,
+        "quic connection secure": 222,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/658.pcap": {
+        "udp connection": 139,
+        "quic connection secure": 139,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/546.pcap": {
+        "udp connection": 389,
+        "quic connection secure": 389,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/277.pcap": {
+        "udp connection": 226,
+        "quic connection secure": 226,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/367.pcap": {
+        "udp connection": 29,
+        "quic connection secure": 29,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/469.pcap": {
+        "udp connection": 236,
+        "quic connection secure": 236,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/859.pcap": {
+        "udp connection": 209,
+        "quic connection secure": 209,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/313.pcap": {
+        "udp connection": 90,
+        "quic connection secure": 90,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/656.pcap": {
+        "udp connection": 143,
+        "quic connection secure": 143,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/564.pcap": {
+        "udp connection": 58,
+        "quic connection secure": 58,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/2.pcap": {
+        "udp connection": 656,
+        "quic connection secure": 524,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/243.pcap": {
+        "udp connection": 219,
+        "quic connection secure": 219,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/530.pcap": {
+        "udp connection": 209,
+        "quic connection secure": 209,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/311.pcap": {
+        "udp connection": 266,
+        "quic connection secure": 266,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/645.pcap": {
+        "udp connection": 1398,
+        "quic connection secure": 1398,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/263.pcap": {
+        "udp connection": 504,
+        "quic connection secure": 504,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/32.pcap": {
+        "udp connection": 108,
+        "quic connection secure": 108,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/115.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/17.pcap": {
+        "udp connection": 349,
+        "quic connection secure": 349,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/365.pcap": {
+        "udp connection": 338,
+        "quic connection secure": 338,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/917.pcap": {
+        "udp connection": 234,
+        "quic connection secure": 234,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/555.pcap": {
+        "udp connection": 260,
+        "quic connection secure": 260,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/100.pcap": {
+        "udp connection": 780,
+        "quic connection secure": 780,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/928.pcap": {
+        "udp connection": 240,
+        "quic connection secure": 240,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/700.pcap": {
+        "udp connection": 212,
+        "quic connection secure": 212,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/894.pcap": {
+        "udp connection": 361,
+        "quic connection secure": 361,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/334.pcap": {
+        "udp connection": 582,
+        "quic connection secure": 582,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/733.pcap": {
+        "udp connection": 195,
+        "quic connection secure": 195,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/960.pcap": {
+        "udp connection": 233,
+        "quic connection secure": 233,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/183.pcap": {
+        "udp connection": 388,
+        "quic connection secure": 388,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/280.pcap": {
+        "udp connection": 301,
+        "quic connection secure": 301,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/128.pcap": {
+        "udp connection": 108,
+        "quic connection secure": 108,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/570.pcap": {
+        "udp connection": 160,
+        "quic connection secure": 160,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/466.pcap": {
+        "udp connection": 100,
+        "quic connection secure": 100,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/69.pcap": {
+        "udp connection": 1571,
+        "quic connection secure": 1571,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/831.pcap": {
+        "udp connection": 222,
+        "quic connection secure": 222,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/732.pcap": {
+        "udp connection": 163,
+        "quic connection secure": 163,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/5.pcap": {
+        "udp connection": 266,
+        "quic connection secure": 266,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/681.pcap": {
+        "udp connection": 456,
+        "quic connection secure": 456,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/855.pcap": {
+        "udp connection": 700,
+        "quic connection secure": 700,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/392.pcap": {
+        "udp connection": 946,
+        "quic connection secure": 946,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/108.pcap": {
+        "udp connection": 188,
+        "quic connection secure": 188,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/221.pcap": {
+        "udp connection": 409,
+        "quic connection secure": 409,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/446.pcap": {
+        "udp connection": 222,
+        "quic connection secure": 222,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/345.pcap": {
+        "udp connection": 243,
+        "quic connection secure": 243,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/374.pcap": {
+        "udp connection": 86,
+        "quic connection secure": 86,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/350.pcap": {
+        "udp connection": 1230,
+        "quic connection secure": 1230,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/258.pcap": {
+        "udp connection": 384,
+        "quic connection secure": 384,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/810.pcap": {
+        "udp connection": 149,
+        "quic connection secure": 149,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/662.pcap": {
+        "udp connection": 1582,
+        "quic connection secure": 1582,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/348.pcap": {
+        "udp connection": 178,
+        "quic connection secure": 178,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/143.pcap": {
+        "udp connection": 261,
+        "quic connection secure": 261,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/113.pcap": {
+        "udp connection": 256,
+        "quic connection secure": 256,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/897.pcap": {
+        "udp connection": 127,
+        "quic connection secure": 127,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/886.pcap": {
+        "udp connection": 310,
+        "quic connection secure": 310,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/67.pcap": {
+        "udp connection": 187,
+        "quic connection secure": 187,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/241.pcap": {
+        "udp connection": 199,
+        "quic connection secure": 199,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/680.pcap": {
+        "udp connection": 345,
+        "quic connection secure": 345,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/160.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/3.pcap": {
+        "udp connection": 645,
+        "quic connection secure": 625,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/481.pcap": {
+        "udp connection": 421,
+        "quic connection secure": 421,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/458.pcap": {
+        "udp connection": 264,
+        "quic connection secure": 264,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/627.pcap": {
+        "udp connection": 255,
+        "quic connection secure": 255,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/838.pcap": {
+        "udp connection": 796,
+        "quic connection secure": 796,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/399.pcap": {
+        "udp connection": 162,
+        "quic connection secure": 162,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/650.pcap": {
+        "udp connection": 169,
+        "quic connection secure": 169,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/529.pcap": {
+        "udp connection": 490,
+        "quic connection secure": 490,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/465.pcap": {
+        "udp connection": 83,
+        "quic connection secure": 83,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/288.pcap": {
+        "udp connection": 204,
+        "quic connection secure": 204,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/682.pcap": {
+        "udp connection": 174,
+        "quic connection secure": 174,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/585.pcap": {
+        "udp connection": 201,
+        "quic connection secure": 201,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/644.pcap": {
+        "udp connection": 161,
+        "quic connection secure": 161,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/684.pcap": {
+        "udp connection": 173,
+        "quic connection secure": 173,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/499.pcap": {
+        "udp connection": 222,
+        "quic connection secure": 222,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/948.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/146.pcap": {
+        "udp connection": 221,
+        "quic connection secure": 221,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/595.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/550.pcap": {
+        "udp connection": 316,
+        "quic connection secure": 316,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/199.pcap": {
+        "udp connection": 171,
+        "quic connection secure": 171,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/118.pcap": {
+        "udp connection": 353,
+        "quic connection secure": 353,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/860.pcap": {
+        "udp connection": 502,
+        "quic connection secure": 502,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/295.pcap": {
+        "udp connection": 154,
+        "quic connection secure": 154,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/919.pcap": {
+        "udp connection": 182,
+        "quic connection secure": 182,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/553.pcap": {
+        "udp connection": 89,
+        "quic connection secure": 89,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/770.pcap": {
+        "udp connection": 306,
+        "quic connection secure": 306,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/4.pcap": {
+        "udp connection": 1884,
+        "quic connection secure": 1753,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/789.pcap": {
+        "udp connection": 755,
+        "quic connection secure": 755,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/639.pcap": {
+        "udp connection": 271,
+        "quic connection secure": 271,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/487.pcap": {
+        "udp connection": 179,
+        "quic connection secure": 179,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/373.pcap": {
+        "udp connection": 77,
+        "quic connection secure": 77,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/448.pcap": {
+        "udp connection": 207,
+        "quic connection secure": 207,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/413.pcap": {
+        "udp connection": 685,
+        "quic connection secure": 685,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/484.pcap": {
+        "udp connection": 2382,
+        "quic connection secure": 2382,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/358.pcap": {
+        "udp connection": 291,
+        "quic connection secure": 291,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/869.pcap": {
+        "udp connection": 260,
+        "quic connection secure": 260,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/15.pcap": {
+        "udp connection": 203,
+        "quic connection secure": 203,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/848.pcap": {
+        "udp connection": 128,
+        "quic connection secure": 128,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/599.pcap": {
+        "udp connection": 583,
+        "quic connection secure": 583,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/640.pcap": {
+        "udp connection": 253,
+        "quic connection secure": 253,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/242.pcap": {
+        "udp connection": 221,
+        "quic connection secure": 221,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/331.pcap": {
+        "udp connection": 19,
+        "quic connection secure": 19,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/11.pcap": {
+        "udp connection": 2507,
+        "quic connection secure": 2088,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/567.pcap": {
+        "udp connection": 170,
+        "quic connection secure": 170,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/927.pcap": {
+        "udp connection": 254,
+        "quic connection secure": 254,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/893.pcap": {
+        "udp connection": 380,
+        "quic connection secure": 380,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/439.pcap": {
+        "udp connection": 147,
+        "quic connection secure": 147,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/708.pcap": {
+        "udp connection": 186,
+        "quic connection secure": 186,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/624.pcap": {
+        "udp connection": 197,
+        "quic connection secure": 197,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/464.pcap": {
+        "udp connection": 152,
+        "quic connection secure": 152,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/515.pcap": {
+        "udp connection": 64,
+        "quic connection secure": 64,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/419.pcap": {
+        "udp connection": 176,
+        "quic connection secure": 176,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/943.pcap": {
+        "udp connection": 218,
+        "quic connection secure": 218,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/942.pcap": {
+        "udp connection": 418,
+        "quic connection secure": 418,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/456.pcap": {
+        "udp connection": 140,
+        "quic connection secure": 140,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/195.pcap": {
+        "udp connection": 267,
+        "quic connection secure": 267,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/524.pcap": {
+        "udp connection": 34,
+        "quic connection secure": 34,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/333.pcap": {
+        "udp connection": 125,
+        "quic connection secure": 125,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/402.pcap": {
+        "udp connection": 389,
+        "quic connection secure": 389,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/647.pcap": {
+        "udp connection": 1754,
+        "quic connection secure": 1754,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/643.pcap": {
+        "udp connection": 155,
+        "quic connection secure": 155,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/179.pcap": {
+        "udp connection": 207,
+        "quic connection secure": 207,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/706.pcap": {
+        "udp connection": 139,
+        "quic connection secure": 139,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/615.pcap": {
+        "udp connection": 534,
+        "quic connection secure": 534,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/119.pcap": {
+        "udp connection": 658,
+        "quic connection secure": 658,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/12.pcap": {
+        "udp connection": 183,
+        "quic connection secure": 183,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/586.pcap": {
+        "udp connection": 162,
+        "quic connection secure": 162,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/216.pcap": {
+        "udp connection": 213,
+        "quic connection secure": 213,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/139.pcap": {
+        "udp connection": 172,
+        "quic connection secure": 172,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/130.pcap": {
+        "udp connection": 140,
+        "quic connection secure": 140,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/114.pcap": {
+        "udp connection": 565,
+        "quic connection secure": 565,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/122.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/48.pcap": {
+        "udp connection": 230,
+        "quic connection secure": 230,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/342.pcap": {
+        "udp connection": 201,
+        "quic connection secure": 201,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/468.pcap": {
+        "udp connection": 237,
+        "quic connection secure": 237,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/54.pcap": {
+        "udp connection": 219,
+        "quic connection secure": 219,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/840.pcap": {
+        "udp connection": 203,
+        "quic connection secure": 203,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/485.pcap": {
+        "udp connection": 204,
+        "quic connection secure": 204,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/340.pcap": {
+        "udp connection": 537,
+        "quic connection secure": 537,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/354.pcap": {
+        "udp connection": 395,
+        "quic connection secure": 395,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/849.pcap": {
+        "udp connection": 95,
+        "quic connection secure": 95,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/381.pcap": {
+        "udp connection": 395,
+        "quic connection secure": 395,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/349.pcap": {
+        "udp connection": 172,
+        "quic connection secure": 172,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/868.pcap": {
+        "udp connection": 1796,
+        "quic connection secure": 1796,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/670.pcap": {
+        "udp connection": 459,
+        "quic connection secure": 459,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/299.pcap": {
+        "udp connection": 814,
+        "quic connection secure": 814,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/99.pcap": {
+        "udp connection": 215,
+        "quic connection secure": 215,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/462.pcap": {
+        "udp connection": 351,
+        "quic connection secure": 351,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/454.pcap": {
+        "udp connection": 418,
+        "quic connection secure": 418,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/608.pcap": {
+        "udp connection": 107,
+        "quic connection secure": 107,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/783.pcap": {
+        "udp connection": 202,
+        "quic connection secure": 202,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/298.pcap": {
+        "udp connection": 167,
+        "quic connection secure": 167,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/400.pcap": {
+        "udp connection": 165,
+        "quic connection secure": 165,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/74.pcap": {
+        "udp connection": 176,
+        "quic connection secure": 176,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/230.pcap": {
+        "udp connection": 1409,
+        "quic connection secure": 1409,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/401.pcap": {
+        "udp connection": 156,
+        "quic connection secure": 156,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/865.pcap": {
+        "udp connection": 489,
+        "quic connection secure": 489,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/712.pcap": {
+        "udp connection": 206,
+        "quic connection secure": 206,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/10.pcap": {
+        "udp connection": 213,
+        "quic connection secure": 213,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/916.pcap": {
+        "udp connection": 1021,
+        "quic connection secure": 1021,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/158.pcap": {
+        "udp connection": 249,
+        "quic connection secure": 249,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/58.pcap": {
+        "udp connection": 168,
+        "quic connection secure": 168,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/702.pcap": {
+        "udp connection": 335,
+        "quic connection secure": 335,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/225.pcap": {
+        "udp connection": 139,
+        "quic connection secure": 139,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/925.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/422.pcap": {
+        "udp connection": 871,
+        "quic connection secure": 871,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/173.pcap": {
+        "udp connection": 624,
+        "quic connection secure": 624,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/127.pcap": {
+        "udp connection": 195,
+        "quic connection secure": 195,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/933.pcap": {
+        "udp connection": 867,
+        "quic connection secure": 849,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/198.pcap": {
+        "udp connection": 229,
+        "quic connection secure": 229,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/638.pcap": {
+        "udp connection": 693,
+        "quic connection secure": 693,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/23.pcap": {
+        "udp connection": 328,
+        "quic connection secure": 328,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/913.pcap": {
+        "udp connection": 171,
+        "quic connection secure": 171,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/918.pcap": {
+        "udp connection": 234,
+        "quic connection secure": 234,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/38.pcap": {
+        "udp connection": 1438,
+        "quic connection secure": 1424,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/478.pcap": {
+        "udp connection": 484,
+        "quic connection secure": 484,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/211.pcap": {
+        "udp connection": 156,
+        "quic connection secure": 156,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/562.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/802.pcap": {
+        "udp connection": 168,
+        "quic connection secure": 168,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/296.pcap": {
+        "udp connection": 488,
+        "quic connection secure": 488,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/192.pcap": {
+        "udp connection": 231,
+        "quic connection secure": 231,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/686.pcap": {
+        "udp connection": 592,
+        "quic connection secure": 592,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/239.pcap": {
+        "udp connection": 200,
+        "quic connection secure": 200,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/477.pcap": {
+        "udp connection": 444,
+        "quic connection secure": 444,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/904.pcap": {
+        "udp connection": 251,
+        "quic connection secure": 251,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/151.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/557.pcap": {
+        "udp connection": 437,
+        "quic connection secure": 437,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/163.pcap": {
+        "udp connection": 185,
+        "quic connection secure": 185,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/375.pcap": {
+        "udp connection": 377,
+        "quic connection secure": 377,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/222.pcap": {
+        "udp connection": 639,
+        "quic connection secure": 639,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/620.pcap": {
+        "udp connection": 234,
+        "quic connection secure": 234,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/305.pcap": {
+        "udp connection": 174,
+        "quic connection secure": 174,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/152.pcap": {
+        "udp connection": 510,
+        "quic connection secure": 510,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/578.pcap": {
+        "udp connection": 296,
+        "quic connection secure": 296,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/593.pcap": {
+        "udp connection": 206,
+        "quic connection secure": 206,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/205.pcap": {
+        "udp connection": 172,
+        "quic connection secure": 172,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/474.pcap": {
+        "udp connection": 133,
+        "quic connection secure": 133,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/404.pcap": {
+        "udp connection": 128,
+        "quic connection secure": 128,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/430.pcap": {
+        "udp connection": 425,
+        "quic connection secure": 425,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/811.pcap": {
+        "udp connection": 154,
+        "quic connection secure": 154,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/306.pcap": {
+        "udp connection": 349,
+        "quic connection secure": 349,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/538.pcap": {
+        "udp connection": 160,
+        "quic connection secure": 160,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/663.pcap": {
+        "udp connection": 331,
+        "quic connection secure": 331,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/343.pcap": {
+        "udp connection": 145,
+        "quic connection secure": 145,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/81.pcap": {
+        "udp connection": 95,
+        "quic connection secure": 95,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/59.pcap": {
+        "udp connection": 1176,
+        "quic connection secure": 1176,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/453.pcap": {
+        "udp connection": 1413,
+        "quic connection secure": 1413,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/512.pcap": {
+        "udp connection": 24,
+        "quic connection secure": 24,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/915.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/247.pcap": {
+        "udp connection": 157,
+        "quic connection secure": 157,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/707.pcap": {
+        "udp connection": 183,
+        "quic connection secure": 183,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/847.pcap": {
+        "udp connection": 225,
+        "quic connection secure": 225,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/755.pcap": {
+        "udp connection": 176,
+        "quic connection secure": 176,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/786.pcap": {
+        "udp connection": 489,
+        "quic connection secure": 489,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/22.pcap": {
+        "udp connection": 842,
+        "quic connection secure": 842,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/138.pcap": {
+        "udp connection": 148,
+        "quic connection secure": 148,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/877.pcap": {
+        "udp connection": 236,
+        "quic connection secure": 236,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/145.pcap": {
+        "udp connection": 520,
+        "quic connection secure": 520,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/210.pcap": {
+        "udp connection": 479,
+        "quic connection secure": 479,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/745.pcap": {
+        "udp connection": 95,
+        "quic connection secure": 95,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/285.pcap": {
+        "udp connection": 601,
+        "quic connection secure": 601,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/672.pcap": {
+        "udp connection": 143,
+        "quic connection secure": 143,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/571.pcap": {
+        "udp connection": 364,
+        "quic connection secure": 364,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/428.pcap": {
+        "udp connection": 387,
+        "quic connection secure": 387,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/450.pcap": {
+        "udp connection": 374,
+        "quic connection secure": 374,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/325.pcap": {
+        "udp connection": 232,
+        "quic connection secure": 232,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/726.pcap": {
+        "udp connection": 219,
+        "quic connection secure": 219,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/743.pcap": {
+        "udp connection": 320,
+        "quic connection secure": 320,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/364.pcap": {
+        "udp connection": 185,
+        "quic connection secure": 185,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/876.pcap": {
+        "udp connection": 212,
+        "quic connection secure": 212,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/841.pcap": {
+        "udp connection": 126,
+        "quic connection secure": 126,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/956.pcap": {
+        "udp connection": 534,
+        "quic connection secure": 534,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/826.pcap": {
+        "udp connection": 154,
+        "quic connection secure": 154,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/29.pcap": {
+        "udp connection": 553,
+        "quic connection secure": 553,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/705.pcap": {
+        "udp connection": 99,
+        "quic connection secure": 99,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/362.pcap": {
+        "udp connection": 183,
+        "quic connection secure": 183,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/330.pcap": {
+        "udp connection": 31,
+        "quic connection secure": 31,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/813.pcap": {
+        "udp connection": 668,
+        "quic connection secure": 668,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/540.pcap": {
+        "udp connection": 202,
+        "quic connection secure": 202,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/24.pcap": {
+        "udp connection": 186,
+        "quic connection secure": 186,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/923.pcap": {
+        "udp connection": 642,
+        "quic connection secure": 642,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/603.pcap": {
+        "udp connection": 252,
+        "quic connection secure": 252,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/190.pcap": {
+        "udp connection": 361,
+        "quic connection secure": 361,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/140.pcap": {
+        "udp connection": 494,
+        "quic connection secure": 494,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/560.pcap": {
+        "udp connection": 22,
+        "quic connection secure": 22,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/420.pcap": {
+        "udp connection": 180,
+        "quic connection secure": 180,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/322.pcap": {
+        "udp connection": 111,
+        "quic connection secure": 111,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/510.pcap": {
+        "udp connection": 631,
+        "quic connection secure": 631,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/827.pcap": {
+        "udp connection": 415,
+        "quic connection secure": 415,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/625.pcap": {
+        "udp connection": 221,
+        "quic connection secure": 221,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/890.pcap": {
+        "udp connection": 187,
+        "quic connection secure": 187,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/519.pcap": {
+        "udp connection": 341,
+        "quic connection secure": 341,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/383.pcap": {
+        "udp connection": 205,
+        "quic connection secure": 205,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/328.pcap": {
+        "udp connection": 33,
+        "quic connection secure": 33,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/431.pcap": {
+        "udp connection": 199,
+        "quic connection secure": 199,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/320.pcap": {
+        "udp connection": 86,
+        "quic connection secure": 86,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/332.pcap": {
+        "udp connection": 92,
+        "quic connection secure": 92,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/283.pcap": {
+        "udp connection": 389,
+        "quic connection secure": 389,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/584.pcap": {
+        "udp connection": 721,
+        "quic connection secure": 721,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/360.pcap": {
+        "udp connection": 183,
+        "quic connection secure": 183,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/66.pcap": {
+        "udp connection": 519,
+        "quic connection secure": 519,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/792.pcap": {
+        "udp connection": 182,
+        "quic connection secure": 182,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/703.pcap": {
+        "udp connection": 218,
+        "quic connection secure": 218,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/489.pcap": {
+        "udp connection": 245,
+        "quic connection secure": 245,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/346.pcap": {
+        "udp connection": 140,
+        "quic connection secure": 140,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/252.pcap": {
+        "udp connection": 152,
+        "quic connection secure": 152,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/385.pcap": {
+        "udp connection": 147,
+        "quic connection secure": 147,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/793.pcap": {
+        "udp connection": 88,
+        "quic connection secure": 88,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/449.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/267.pcap": {
+        "udp connection": 247,
+        "quic connection secure": 247,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/376.pcap": {
+        "udp connection": 220,
+        "quic connection secure": 220,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/629.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/832.pcap": {
+        "udp connection": 201,
+        "quic connection secure": 201,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/168.pcap": {
+        "udp connection": 163,
+        "quic connection secure": 163,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/929.pcap": {
+        "udp connection": 193,
+        "quic connection secure": 193,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/463.pcap": {
+        "udp connection": 214,
+        "quic connection secure": 214,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/102.pcap": {
+        "udp connection": 247,
+        "quic connection secure": 247,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/443.pcap": {
+        "udp connection": 682,
+        "quic connection secure": 682,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/483.pcap": {
+        "udp connection": 245,
+        "quic connection secure": 245,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/259.pcap": {
+        "udp connection": 171,
+        "quic connection secure": 171,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/511.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/613.pcap": {
+        "udp connection": 239,
+        "quic connection secure": 239,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/416.pcap": {
+        "udp connection": 106,
+        "quic connection secure": 106,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/576.pcap": {
+        "udp connection": 176,
+        "quic connection secure": 176,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/846.pcap": {
+        "udp connection": 309,
+        "quic connection secure": 309,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/756.pcap": {
+        "udp connection": 198,
+        "quic connection secure": 198,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/486.pcap": {
+        "udp connection": 224,
+        "quic connection secure": 224,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/630.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/96.pcap": {
+        "udp connection": 207,
+        "quic connection secure": 207,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/129.pcap": {
+        "udp connection": 87,
+        "quic connection secure": 87,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/751.pcap": {
+        "udp connection": 237,
+        "quic connection secure": 237,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/609.pcap": {
+        "udp connection": 155,
+        "quic connection secure": 155,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/165.pcap": {
+        "udp connection": 1050,
+        "quic connection secure": 1050,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/341.pcap": {
+        "udp connection": 226,
+        "quic connection secure": 226,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/872.pcap": {
+        "udp connection": 277,
+        "quic connection secure": 277,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/536.pcap": {
+        "udp connection": 480,
+        "quic connection secure": 480,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/795.pcap": {
+        "udp connection": 227,
+        "quic connection secure": 227,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/749.pcap": {
+        "udp connection": 358,
+        "quic connection secure": 358,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/695.pcap": {
+        "udp connection": 612,
+        "quic connection secure": 612,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/352.pcap": {
+        "udp connection": 174,
+        "quic connection secure": 174,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/65.pcap": {
+        "udp connection": 221,
+        "quic connection secure": 221,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/852.pcap": {
+        "udp connection": 219,
+        "quic connection secure": 219,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/57.pcap": {
+        "udp connection": 260,
+        "quic connection secure": 260,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/86.pcap": {
+        "udp connection": 1755,
+        "quic connection secure": 1755,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/308.pcap": {
+        "udp connection": 128,
+        "quic connection secure": 128,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/920.pcap": {
+        "udp connection": 267,
+        "quic connection secure": 267,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/646.pcap": {
+        "udp connection": 516,
+        "quic connection secure": 516,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/170.pcap": {
+        "udp connection": 187,
+        "quic connection secure": 187,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/888.pcap": {
+        "udp connection": 180,
+        "quic connection secure": 180,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/785.pcap": {
+        "udp connection": 205,
+        "quic connection secure": 205,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/30.pcap": {
+        "udp connection": 627,
+        "quic connection secure": 627,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/368.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/45.pcap": {
+        "udp connection": 1169,
+        "quic connection secure": 1169,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/667.pcap": {
+        "udp connection": 392,
+        "quic connection secure": 392,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/887.pcap": {
+        "udp connection": 469,
+        "quic connection secure": 469,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/617.pcap": {
+        "udp connection": 230,
+        "quic connection secure": 230,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/539.pcap": {
+        "udp connection": 974,
+        "quic connection secure": 974,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/884.pcap": {
+        "udp connection": 140,
+        "quic connection secure": 140,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/497.pcap": {
+        "udp connection": 181,
+        "quic connection secure": 181,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/573.pcap": {
+        "udp connection": 779,
+        "quic connection secure": 779,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/49.pcap": {
+        "udp connection": 429,
+        "quic connection secure": 429,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/297.pcap": {
+        "udp connection": 241,
+        "quic connection secure": 241,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/788.pcap": {
+        "udp connection": 139,
+        "quic connection secure": 139,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/61.pcap": {
+        "udp connection": 226,
+        "quic connection secure": 226,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/423.pcap": {
+        "udp connection": 319,
+        "quic connection secure": 319,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/412.pcap": {
+        "udp connection": 238,
+        "quic connection secure": 238,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/661.pcap": {
+        "udp connection": 257,
+        "quic connection secure": 257,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/169.pcap": {
+        "udp connection": 105,
+        "quic connection secure": 105,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/149.pcap": {
+        "udp connection": 251,
+        "quic connection secure": 251,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/723.pcap": {
+        "udp connection": 251,
+        "quic connection secure": 251,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/494.pcap": {
+        "udp connection": 211,
+        "quic connection secure": 211,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/361.pcap": {
+        "udp connection": 107,
+        "quic connection secure": 107,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/36.pcap": {
+        "udp connection": 347,
+        "quic connection secure": 337,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/197.pcap": {
+        "udp connection": 231,
+        "quic connection secure": 231,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/936.pcap": {
+        "udp connection": 154,
+        "quic connection secure": 154,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/316.pcap": {
+        "udp connection": 192,
+        "quic connection secure": 192,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/7.pcap": {
+        "udp connection": 156,
+        "quic connection secure": 156,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/533.pcap": {
+        "udp connection": 226,
+        "quic connection secure": 226,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/26.pcap": {
+        "udp connection": 265,
+        "quic connection secure": 265,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/398.pcap": {
+        "udp connection": 210,
+        "quic connection secure": 210,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/314.pcap": {
+        "udp connection": 186,
+        "quic connection secure": 186,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/104.pcap": {
+        "udp connection": 577,
+        "quic connection secure": 577,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/394.pcap": {
+        "udp connection": 149,
+        "quic connection secure": 149,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/601.pcap": {
+        "udp connection": 75,
+        "quic connection secure": 75,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/791.pcap": {
+        "udp connection": 275,
+        "quic connection secure": 275,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/879.pcap": {
+        "udp connection": 229,
+        "quic connection secure": 229,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/834.pcap": {
+        "udp connection": 428,
+        "quic connection secure": 428,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/635.pcap": {
+        "udp connection": 472,
+        "quic connection secure": 472,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/21.pcap": {
+        "udp connection": 1992,
+        "quic connection secure": 1992,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/73.pcap": {
+        "udp connection": 96,
+        "quic connection secure": 96,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/25.pcap": {
+        "udp connection": 261,
+        "quic connection secure": 261,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/87.pcap": {
+        "udp connection": 163,
+        "quic connection secure": 163,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/833.pcap": {
+        "udp connection": 249,
+        "quic connection secure": 249,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/156.pcap": {
+        "udp connection": 181,
+        "quic connection secure": 181,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/901.pcap": {
+        "udp connection": 216,
+        "quic connection secure": 216,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/16.pcap": {
+        "udp connection": 331,
+        "quic connection secure": 331,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/566.pcap": {
+        "udp connection": 1587,
+        "quic connection secure": 1587,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/244.pcap": {
+        "udp connection": 812,
+        "quic connection secure": 812,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/382.pcap": {
+        "udp connection": 499,
+        "quic connection secure": 499,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/91.pcap": {
+        "udp connection": 291,
+        "quic connection secure": 291,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/272.pcap": {
+        "udp connection": 106,
+        "quic connection secure": 106,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/63.pcap": {
+        "udp connection": 210,
+        "quic connection secure": 210,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/437.pcap": {
+        "udp connection": 212,
+        "quic connection secure": 212,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/596.pcap": {
+        "udp connection": 151,
+        "quic connection secure": 151,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/771.pcap": {
+        "udp connection": 202,
+        "quic connection secure": 202,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/542.pcap": {
+        "udp connection": 225,
+        "quic connection secure": 225,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/836.pcap": {
+        "udp connection": 152,
+        "quic connection secure": 152,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/598.pcap": {
+        "udp connection": 282,
+        "quic connection secure": 282,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/850.pcap": {
+        "udp connection": 170,
+        "quic connection secure": 170,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/133.pcap": {
+        "udp connection": 286,
+        "quic connection secure": 286,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/101.pcap": {
+        "udp connection": 250,
+        "quic connection secure": 250,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/363.pcap": {
+        "udp connection": 219,
+        "quic connection secure": 219,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/837.pcap": {
+        "udp connection": 723,
+        "quic connection secure": 723,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/547.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/276.pcap": {
+        "udp connection": 190,
+        "quic connection secure": 190,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/577.pcap": {
+        "udp connection": 497,
+        "quic connection secure": 497,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/424.pcap": {
+        "udp connection": 230,
+        "quic connection secure": 230,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/535.pcap": {
+        "udp connection": 180,
+        "quic connection secure": 180,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/208.pcap": {
+        "udp connection": 221,
+        "quic connection secure": 221,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/955.pcap": {
+        "udp connection": 171,
+        "quic connection secure": 171,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/843.pcap": {
+        "udp connection": 241,
+        "quic connection secure": 241,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/180.pcap": {
+        "udp connection": 221,
+        "quic connection secure": 221,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/185.pcap": {
+        "udp connection": 278,
+        "quic connection secure": 278,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/766.pcap": {
+        "udp connection": 490,
+        "quic connection secure": 490,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/504.pcap": {
+        "udp connection": 170,
+        "quic connection secure": 170,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/209.pcap": {
+        "udp connection": 167,
+        "quic connection secure": 167,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/871.pcap": {
+        "udp connection": 159,
+        "quic connection secure": 159,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/750.pcap": {
+        "udp connection": 343,
+        "quic connection secure": 343,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/554.pcap": {
+        "udp connection": 166,
+        "quic connection secure": 166,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/417.pcap": {
+        "udp connection": 125,
+        "quic connection secure": 125,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/509.pcap": {
+        "udp connection": 449,
+        "quic connection secure": 449,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/664.pcap": {
+        "udp connection": 310,
+        "quic connection secure": 310,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/72.pcap": {
+        "udp connection": 176,
+        "quic connection secure": 176,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/157.pcap": {
+        "udp connection": 218,
+        "quic connection secure": 218,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/889.pcap": {
+        "udp connection": 93,
+        "quic connection secure": 93,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/406.pcap": {
+        "udp connection": 322,
+        "quic connection secure": 322,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/425.pcap": {
+        "udp connection": 216,
+        "quic connection secure": 216,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/651.pcap": {
+        "udp connection": 297,
+        "quic connection secure": 297,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/724.pcap": {
+        "udp connection": 750,
+        "quic connection secure": 750,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/196.pcap": {
+        "udp connection": 1265,
+        "quic connection secure": 1265,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/744.pcap": {
+        "udp connection": 148,
+        "quic connection secure": 148,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/807.pcap": {
+        "udp connection": 385,
+        "quic connection secure": 385,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/380.pcap": {
+        "udp connection": 238,
+        "quic connection secure": 238,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/355.pcap": {
+        "udp connection": 164,
+        "quic connection secure": 164,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/668.pcap": {
+        "udp connection": 268,
+        "quic connection secure": 268,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/289.pcap": {
+        "udp connection": 380,
+        "quic connection secure": 380,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/641.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/111.pcap": {
+        "udp connection": 222,
+        "quic connection secure": 222,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/79.pcap": {
+        "udp connection": 233,
+        "quic connection secure": 233,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/171.pcap": {
+        "udp connection": 279,
+        "quic connection secure": 279,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/606.pcap": {
+        "udp connection": 599,
+        "quic connection secure": 599,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/234.pcap": {
+        "udp connection": 158,
+        "quic connection secure": 158,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/498.pcap": {
+        "udp connection": 469,
+        "quic connection secure": 469,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/193.pcap": {
+        "udp connection": 211,
+        "quic connection secure": 211,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/902.pcap": {
+        "udp connection": 944,
+        "quic connection secure": 944,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/939.pcap": {
+        "udp connection": 290,
+        "quic connection secure": 290,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/94.pcap": {
+        "udp connection": 284,
+        "quic connection secure": 284,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/260.pcap": {
+        "udp connection": 132,
+        "quic connection secure": 132,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/257.pcap": {
+        "udp connection": 190,
+        "quic connection secure": 190,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/378.pcap": {
+        "udp connection": 136,
+        "quic connection secure": 136,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/445.pcap": {
+        "udp connection": 232,
+        "quic connection secure": 232,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/774.pcap": {
+        "udp connection": 196,
+        "quic connection secure": 196,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/806.pcap": {
+        "udp connection": 877,
+        "quic connection secure": 877,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/767.pcap": {
+        "udp connection": 293,
+        "quic connection secure": 293,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/388.pcap": {
+        "udp connection": 117,
+        "quic connection secure": 117,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/84.pcap": {
+        "udp connection": 209,
+        "quic connection secure": 209,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/892.pcap": {
+        "udp connection": 211,
+        "quic connection secure": 211,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/224.pcap": {
+        "udp connection": 113,
+        "quic connection secure": 113,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/475.pcap": {
+        "udp connection": 365,
+        "quic connection secure": 365,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/758.pcap": {
+        "udp connection": 285,
+        "quic connection secure": 285,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/327.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/496.pcap": {
+        "udp connection": 198,
+        "quic connection secure": 198,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/85.pcap": {
+        "udp connection": 284,
+        "quic connection secure": 284,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/62.pcap": {
+        "udp connection": 252,
+        "quic connection secure": 252,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/440.pcap": {
+        "udp connection": 495,
+        "quic connection secure": 495,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/237.pcap": {
+        "udp connection": 426,
+        "quic connection secure": 426,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/935.pcap": {
+        "udp connection": 316,
+        "quic connection secure": 316,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/957.pcap": {
+        "udp connection": 463,
+        "quic connection secure": 463,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/70.pcap": {
+        "udp connection": 363,
+        "quic connection secure": 363,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/940.pcap": {
+        "udp connection": 236,
+        "quic connection secure": 236,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/822.pcap": {
+        "udp connection": 207,
+        "quic connection secure": 207,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/80.pcap": {
+        "udp connection": 140,
+        "quic connection secure": 140,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/248.pcap": {
+        "udp connection": 411,
+        "quic connection secure": 411,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/302.pcap": {
+        "udp connection": 442,
+        "quic connection secure": 442,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/132.pcap": {
+        "udp connection": 178,
+        "quic connection secure": 178,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/736.pcap": {
+        "udp connection": 174,
+        "quic connection secure": 174,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/473.pcap": {
+        "udp connection": 233,
+        "quic connection secure": 233,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/715.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/626.pcap": {
+        "udp connection": 174,
+        "quic connection secure": 174,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/866.pcap": {
+        "udp connection": 218,
+        "quic connection secure": 218,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/863.pcap": {
+        "udp connection": 208,
+        "quic connection secure": 208,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/491.pcap": {
+        "udp connection": 1091,
+        "quic connection secure": 1091,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/591.pcap": {
+        "udp connection": 197,
+        "quic connection secure": 197,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/910.pcap": {
+        "udp connection": 492,
+        "quic connection secure": 492,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/709.pcap": {
+        "udp connection": 248,
+        "quic connection secure": 248,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/937.pcap": {
+        "udp connection": 114,
+        "quic connection secure": 114,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/551.pcap": {
+        "udp connection": 535,
+        "quic connection secure": 535,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/254.pcap": {
+        "udp connection": 474,
+        "quic connection secure": 474,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/526.pcap": {
+        "udp connection": 796,
+        "quic connection secure": 796,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/820.pcap": {
+        "udp connection": 700,
+        "quic connection secure": 700,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/858.pcap": {
+        "udp connection": 173,
+        "quic connection secure": 173,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/674.pcap": {
+        "udp connection": 235,
+        "quic connection secure": 235,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/665.pcap": {
+        "udp connection": 258,
+        "quic connection secure": 258,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/690.pcap": {
+        "udp connection": 448,
+        "quic connection secure": 448,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/773.pcap": {
+        "udp connection": 247,
+        "quic connection secure": 247,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/502.pcap": {
+        "udp connection": 1432,
+        "quic connection secure": 1432,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/335.pcap": {
+        "udp connection": 291,
+        "quic connection secure": 291,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/52.pcap": {
+        "udp connection": 1172,
+        "quic connection secure": 1172,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/77.pcap": {
+        "udp connection": 626,
+        "quic connection secure": 626,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/798.pcap": {
+        "udp connection": 307,
+        "quic connection secure": 307,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/727.pcap": {
+        "udp connection": 179,
+        "quic connection secure": 179,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/75.pcap": {
+        "udp connection": 296,
+        "quic connection secure": 296,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/823.pcap": {
+        "udp connection": 190,
+        "quic connection secure": 190,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/819.pcap": {
+        "udp connection": 249,
+        "quic connection secure": 249,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/762.pcap": {
+        "udp connection": 152,
+        "quic connection secure": 152,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/696.pcap": {
+        "udp connection": 158,
+        "quic connection secure": 158,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/649.pcap": {
+        "udp connection": 99,
+        "quic connection secure": 99,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/174.pcap": {
+        "udp connection": 592,
+        "quic connection secure": 592,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/527.pcap": {
+        "udp connection": 56,
+        "quic connection secure": 56,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/9.pcap": {
+        "udp connection": 466,
+        "quic connection secure": 424,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/93.pcap": {
+        "udp connection": 582,
+        "quic connection secure": 582,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/228.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/415.pcap": {
+        "udp connection": 187,
+        "quic connection secure": 187,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/544.pcap": {
+        "udp connection": 173,
+        "quic connection secure": 173,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/729.pcap": {
+        "udp connection": 379,
+        "quic connection secure": 379,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/105.pcap": {
+        "udp connection": 247,
+        "quic connection secure": 247,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/202.pcap": {
+        "udp connection": 178,
+        "quic connection secure": 178,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/461.pcap": {
+        "udp connection": 418,
+        "quic connection secure": 418,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/194.pcap": {
+        "udp connection": 202,
+        "quic connection secure": 202,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/632.pcap": {
+        "udp connection": 76,
+        "quic connection secure": 76,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/76.pcap": {
+        "udp connection": 567,
+        "quic connection secure": 567,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/757.pcap": {
+        "udp connection": 52,
+        "quic connection secure": 52,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/796.pcap": {
+        "udp connection": 257,
+        "quic connection secure": 257,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/779.pcap": {
+        "udp connection": 576,
+        "quic connection secure": 576,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/845.pcap": {
+        "udp connection": 372,
+        "quic connection secure": 372,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/713.pcap": {
+        "udp connection": 248,
+        "quic connection secure": 248,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/764.pcap": {
+        "udp connection": 469,
+        "quic connection secure": 469,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/245.pcap": {
+        "udp connection": 193,
+        "quic connection secure": 193,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/246.pcap": {
+        "udp connection": 167,
+        "quic connection secure": 167,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/232.pcap": {
+        "udp connection": 186,
+        "quic connection secure": 186,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/829.pcap": {
+        "udp connection": 222,
+        "quic connection secure": 222,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/637.pcap": {
+        "udp connection": 241,
+        "quic connection secure": 241,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/18.pcap": {
+        "udp connection": 467,
+        "quic connection secure": 467,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/268.pcap": {
+        "udp connection": 193,
+        "quic connection secure": 193,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/549.pcap": {
+        "udp connection": 1048,
+        "quic connection secure": 1048,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/804.pcap": {
+        "udp connection": 256,
+        "quic connection secure": 256,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/116.pcap": {
+        "udp connection": 162,
+        "quic connection secure": 162,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/659.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/178.pcap": {
+        "udp connection": 110,
+        "quic connection secure": 110,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/347.pcap": {
+        "udp connection": 310,
+        "quic connection secure": 310,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/534.pcap": {
+        "udp connection": 172,
+        "quic connection secure": 172,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/612.pcap": {
+        "udp connection": 215,
+        "quic connection secure": 215,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/623.pcap": {
+        "udp connection": 230,
+        "quic connection secure": 230,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/600.pcap": {
+        "udp connection": 176,
+        "quic connection secure": 176,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/710.pcap": {
+        "udp connection": 660,
+        "quic connection secure": 660,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/579.pcap": {
+        "udp connection": 215,
+        "quic connection secure": 215,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/389.pcap": {
+        "udp connection": 538,
+        "quic connection secure": 538,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/250.pcap": {
+        "udp connection": 146,
+        "quic connection secure": 146,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/561.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/787.pcap": {
+        "udp connection": 191,
+        "quic connection secure": 191,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/777.pcap": {
+        "udp connection": 271,
+        "quic connection secure": 271,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/393.pcap": {
+        "udp connection": 242,
+        "quic connection secure": 242,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/730.pcap": {
+        "udp connection": 165,
+        "quic connection secure": 165,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/429.pcap": {
+        "udp connection": 425,
+        "quic connection secure": 425,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/742.pcap": {
+        "udp connection": 567,
+        "quic connection secure": 567,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/545.pcap": {
+        "udp connection": 187,
+        "quic connection secure": 187,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/292.pcap": {
+        "udp connection": 725,
+        "quic connection secure": 725,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/112.pcap": {
+        "udp connection": 216,
+        "quic connection secure": 216,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/323.pcap": {
+        "udp connection": 208,
+        "quic connection secure": 208,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/287.pcap": {
+        "udp connection": 220,
+        "quic connection secure": 220,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/262.pcap": {
+        "udp connection": 302,
+        "quic connection secure": 302,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/728.pcap": {
+        "udp connection": 325,
+        "quic connection secure": 325,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/34.pcap": {
+        "udp connection": 135,
+        "quic connection secure": 135,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/760.pcap": {
+        "udp connection": 253,
+        "quic connection secure": 253,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/740.pcap": {
+        "udp connection": 124,
+        "quic connection secure": 124,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/896.pcap": {
+        "udp connection": 97,
+        "quic connection secure": 97,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/217.pcap": {
+        "udp connection": 81,
+        "quic connection secure": 81,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/275.pcap": {
+        "udp connection": 174,
+        "quic connection secure": 174,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/40.pcap": {
+        "udp connection": 229,
+        "quic connection secure": 229,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/842.pcap": {
+        "udp connection": 167,
+        "quic connection secure": 167,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/142.pcap": {
+        "udp connection": 879,
+        "quic connection secure": 879,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/377.pcap": {
+        "udp connection": 228,
+        "quic connection secure": 228,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/516.pcap": {
+        "udp connection": 56,
+        "quic connection secure": 56,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/136.pcap": {
+        "udp connection": 259,
+        "quic connection secure": 259,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/459.pcap": {
+        "udp connection": 243,
+        "quic connection secure": 243,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/255.pcap": {
+        "udp connection": 207,
+        "quic connection secure": 207,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/959.pcap": {
+        "udp connection": 238,
+        "quic connection secure": 238,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/903.pcap": {
+        "udp connection": 449,
+        "quic connection secure": 449,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/862.pcap": {
+        "udp connection": 699,
+        "quic connection secure": 699,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/231.pcap": {
+        "udp connection": 424,
+        "quic connection secure": 424,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/797.pcap": {
+        "udp connection": 374,
+        "quic connection secure": 374,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/83.pcap": {
+        "udp connection": 183,
+        "quic connection secure": 183,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/559.pcap": {
+        "udp connection": 57,
+        "quic connection secure": 57,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/521.pcap": {
+        "udp connection": 235,
+        "quic connection secure": 235,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/261.pcap": {
+        "udp connection": 1232,
+        "quic connection secure": 1232,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/286.pcap": {
+        "udp connection": 293,
+        "quic connection secure": 293,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/666.pcap": {
+        "udp connection": 142,
+        "quic connection secure": 142,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/46.pcap": {
+        "udp connection": 315,
+        "quic connection secure": 315,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/934.pcap": {
+        "udp connection": 878,
+        "quic connection secure": 867,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/318.pcap": {
+        "udp connection": 453,
+        "quic connection secure": 453,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/300.pcap": {
+        "udp connection": 154,
+        "quic connection secure": 154,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/720.pcap": {
+        "udp connection": 258,
+        "quic connection secure": 258,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/95.pcap": {
+        "udp connection": 283,
+        "quic connection secure": 283,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/291.pcap": {
+        "udp connection": 210,
+        "quic connection secure": 210,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/906.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/818.pcap": {
+        "udp connection": 242,
+        "quic connection secure": 242,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/213.pcap": {
+        "udp connection": 1320,
+        "quic connection secure": 1320,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/200.pcap": {
+        "udp connection": 623,
+        "quic connection secure": 623,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/520.pcap": {
+        "udp connection": 254,
+        "quic connection secure": 254,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/215.pcap": {
+        "udp connection": 657,
+        "quic connection secure": 657,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/775.pcap": {
+        "udp connection": 187,
+        "quic connection secure": 187,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/273.pcap": {
+        "udp connection": 133,
+        "quic connection secure": 133,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/731.pcap": {
+        "udp connection": 394,
+        "quic connection secure": 394,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/153.pcap": {
+        "udp connection": 209,
+        "quic connection secure": 209,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/590.pcap": {
+        "udp connection": 262,
+        "quic connection secure": 262,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/14.pcap": {
+        "udp connection": 192,
+        "quic connection secure": 192,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/90.pcap": {
+        "udp connection": 155,
+        "quic connection secure": 155,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/167.pcap": {
+        "udp connection": 745,
+        "quic connection secure": 745,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/790.pcap": {
+        "udp connection": 529,
+        "quic connection secure": 529,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/867.pcap": {
+        "udp connection": 228,
+        "quic connection secure": 228,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/176.pcap": {
+        "udp connection": 163,
+        "quic connection secure": 163,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/98.pcap": {
+        "udp connection": 194,
+        "quic connection secure": 194,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/214.pcap": {
+        "udp connection": 580,
+        "quic connection secure": 580,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/427.pcap": {
+        "udp connection": 182,
+        "quic connection secure": 182,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/808.pcap": {
+        "udp connection": 270,
+        "quic connection secure": 270,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/714.pcap": {
+        "udp connection": 137,
+        "quic connection secure": 137,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/954.pcap": {
+        "udp connection": 128,
+        "quic connection secure": 128,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/926.pcap": {
+        "udp connection": 202,
+        "quic connection secure": 202,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/55.pcap": {
+        "udp connection": 195,
+        "quic connection secure": 195,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/181.pcap": {
+        "udp connection": 256,
+        "quic connection secure": 256,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/106.pcap": {
+        "udp connection": 184,
+        "quic connection secure": 184,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/110.pcap": {
+        "udp connection": 208,
+        "quic connection secure": 208,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/452.pcap": {
+        "udp connection": 161,
+        "quic connection secure": 161,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/164.pcap": {
+        "udp connection": 115,
+        "quic connection secure": 115,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/803.pcap": {
+        "udp connection": 215,
+        "quic connection secure": 215,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/434.pcap": {
+        "udp connection": 246,
+        "quic connection secure": 246,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/407.pcap": {
+        "udp connection": 469,
+        "quic connection secure": 469,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/123.pcap": {
+        "udp connection": 287,
+        "quic connection secure": 287,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/175.pcap": {
+        "udp connection": 264,
+        "quic connection secure": 264,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/303.pcap": {
+        "udp connection": 239,
+        "quic connection secure": 239,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/500.pcap": {
+        "udp connection": 165,
+        "quic connection secure": 165,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/159.pcap": {
+        "udp connection": 206,
+        "quic connection secure": 206,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/309.pcap": {
+        "udp connection": 798,
+        "quic connection secure": 798,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/409.pcap": {
+        "udp connection": 82,
+        "quic connection secure": 82,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/800.pcap": {
+        "udp connection": 161,
+        "quic connection secure": 161,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/471.pcap": {
+        "udp connection": 469,
+        "quic connection secure": 469,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/253.pcap": {
+        "udp connection": 183,
+        "quic connection secure": 183,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/753.pcap": {
+        "udp connection": 109,
+        "quic connection secure": 109,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/317.pcap": {
+        "udp connection": 371,
+        "quic connection secure": 371,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/357.pcap": {
+        "udp connection": 891,
+        "quic connection secure": 891,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/238.pcap": {
+        "udp connection": 402,
+        "quic connection secure": 402,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/912.pcap": {
+        "udp connection": 197,
+        "quic connection secure": 197,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/251.pcap": {
+        "udp connection": 699,
+        "quic connection secure": 699,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/187.pcap": {
+        "udp connection": 171,
+        "quic connection secure": 171,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/778.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/809.pcap": {
+        "udp connection": 230,
+        "quic connection secure": 230,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/148.pcap": {
+        "udp connection": 1002,
+        "quic connection secure": 1002,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/39.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/467.pcap": {
+        "udp connection": 180,
+        "quic connection secure": 180,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/907.pcap": {
+        "udp connection": 354,
+        "quic connection secure": 354,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/411.pcap": {
+        "udp connection": 204,
+        "quic connection secure": 204,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/212.pcap": {
+        "udp connection": 182,
+        "quic connection secure": 182,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/895.pcap": {
+        "udp connection": 245,
+        "quic connection secure": 245,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/418.pcap": {
+        "udp connection": 122,
+        "quic connection secure": 122,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/319.pcap": {
+        "udp connection": 204,
+        "quic connection secure": 204,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/568.pcap": {
+        "udp connection": 206,
+        "quic connection secure": 206,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/880.pcap": {
+        "udp connection": 241,
+        "quic connection secure": 241,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/506.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/817.pcap": {
+        "udp connection": 419,
+        "quic connection secure": 419,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/741.pcap": {
+        "udp connection": 736,
+        "quic connection secure": 736,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/482.pcap": {
+        "udp connection": 231,
+        "quic connection secure": 231,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/201.pcap": {
+        "udp connection": 240,
+        "quic connection secure": 240,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/563.pcap": {
+        "udp connection": 77,
+        "quic connection secure": 77,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/271.pcap": {
+        "udp connection": 235,
+        "quic connection secure": 235,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/235.pcap": {
+        "udp connection": 470,
+        "quic connection secure": 470,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/689.pcap": {
+        "udp connection": 175,
+        "quic connection secure": 175,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/517.pcap": {
+        "udp connection": 57,
+        "quic connection secure": 57,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/953.pcap": {
+        "udp connection": 281,
+        "quic connection secure": 281,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/761.pcap": {
+        "udp connection": 289,
+        "quic connection secure": 289,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/628.pcap": {
+        "udp connection": 735,
+        "quic connection secure": 735,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/652.pcap": {
+        "udp connection": 205,
+        "quic connection secure": 205,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/405.pcap": {
+        "udp connection": 748,
+        "quic connection secure": 748,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/236.pcap": {
+        "udp connection": 252,
+        "quic connection secure": 252,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/507.pcap": {
+        "udp connection": 253,
+        "quic connection secure": 253,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/89.pcap": {
+        "udp connection": 246,
+        "quic connection secure": 246,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/315.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/281.pcap": {
+        "udp connection": 192,
+        "quic connection secure": 192,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/875.pcap": {
+        "udp connection": 632,
+        "quic connection secure": 632,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/716.pcap": {
+        "udp connection": 341,
+        "quic connection secure": 341,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/582.pcap": {
+        "udp connection": 191,
+        "quic connection secure": 191,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/676.pcap": {
+        "udp connection": 724,
+        "quic connection secure": 724,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/386.pcap": {
+        "udp connection": 158,
+        "quic connection secure": 158,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/37.pcap": {
+        "udp connection": 294,
+        "quic connection secure": 290,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/874.pcap": {
+        "udp connection": 157,
+        "quic connection secure": 157,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/269.pcap": {
+        "udp connection": 1149,
+        "quic connection secure": 1149,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/657.pcap": {
+        "udp connection": 112,
+        "quic connection secure": 112,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/950.pcap": {
+        "udp connection": 526,
+        "quic connection secure": 526,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/931.pcap": {
+        "udp connection": 191,
+        "quic connection secure": 191,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/721.pcap": {
+        "udp connection": 398,
+        "quic connection secure": 398,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/403.pcap": {
+        "udp connection": 149,
+        "quic connection secure": 149,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/794.pcap": {
+        "udp connection": 242,
+        "quic connection secure": 242,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/444.pcap": {
+        "udp connection": 149,
+        "quic connection secure": 149,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/828.pcap": {
+        "udp connection": 211,
+        "quic connection secure": 211,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/312.pcap": {
+        "udp connection": 178,
+        "quic connection secure": 178,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/909.pcap": {
+        "udp connection": 475,
+        "quic connection secure": 475,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/944.pcap": {
+        "udp connection": 135,
+        "quic connection secure": 135,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/107.pcap": {
+        "udp connection": 1138,
+        "quic connection secure": 1138,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/945.pcap": {
+        "udp connection": 114,
+        "quic connection secure": 114,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/503.pcap": {
+        "udp connection": 379,
+        "quic connection secure": 349,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/395.pcap": {
+        "udp connection": 491,
+        "quic connection secure": 491,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/748.pcap": {
+        "udp connection": 229,
+        "quic connection secure": 229,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/162.pcap": {
+        "udp connection": 522,
+        "quic connection secure": 522,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/914.pcap": {
+        "udp connection": 182,
+        "quic connection secure": 182,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/135.pcap": {
+        "udp connection": 143,
+        "quic connection secure": 143,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/679.pcap": {
+        "udp connection": 150,
+        "quic connection secure": 150,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/924.pcap": {
+        "udp connection": 184,
+        "quic connection secure": 184,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/321.pcap": {
+        "udp connection": 131,
+        "quic connection secure": 131,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/301.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/631.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/660.pcap": {
+        "udp connection": 244,
+        "quic connection secure": 244,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/220.pcap": {
+        "udp connection": 201,
+        "quic connection secure": 201,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/131.pcap": {
+        "udp connection": 142,
+        "quic connection secure": 142,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/47.pcap": {
+        "udp connection": 458,
+        "quic connection secure": 458,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/839.pcap": {
+        "udp connection": 294,
+        "quic connection secure": 294,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/203.pcap": {
+        "udp connection": 891,
+        "quic connection secure": 891,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/51.pcap": {
+        "udp connection": 235,
+        "quic connection secure": 235,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/861.pcap": {
+        "udp connection": 437,
+        "quic connection secure": 437,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/290.pcap": {
+        "udp connection": 208,
+        "quic connection secure": 208,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/472.pcap": {
+        "udp connection": 250,
+        "quic connection secure": 250,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/82.pcap": {
+        "udp connection": 131,
+        "quic connection secure": 131,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/172.pcap": {
+        "udp connection": 224,
+        "quic connection secure": 224,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/528.pcap": {
+        "udp connection": 20,
+        "quic connection secure": 20,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/351.pcap": {
+        "udp connection": 224,
+        "quic connection secure": 224,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/752.pcap": {
+        "udp connection": 139,
+        "quic connection secure": 139,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/508.pcap": {
+        "udp connection": 188,
+        "quic connection secure": 188,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/337.pcap": {
+        "udp connection": 417,
+        "quic connection secure": 417,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/899.pcap": {
+        "udp connection": 146,
+        "quic connection secure": 146,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/853.pcap": {
+        "udp connection": 238,
+        "quic connection secure": 238,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/492.pcap": {
+        "udp connection": 168,
+        "quic connection secure": 168,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/186.pcap": {
+        "udp connection": 160,
+        "quic connection secure": 160,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/854.pcap": {
+        "udp connection": 636,
+        "quic connection secure": 636,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/324.pcap": {
+        "udp connection": 197,
+        "quic connection secure": 197,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/372.pcap": {
+        "udp connection": 48,
+        "quic connection secure": 48,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/8.pcap": {
+        "udp connection": 576,
+        "quic connection secure": 576,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/490.pcap": {
+        "udp connection": 153,
+        "quic connection secure": 153,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/824.pcap": {
+        "udp connection": 477,
+        "quic connection secure": 477,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/479.pcap": {
+        "udp connection": 240,
+        "quic connection secure": 240,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/293.pcap": {
+        "udp connection": 198,
+        "quic connection secure": 198,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/19.pcap": {
+        "udp connection": 267,
+        "quic connection secure": 267,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/911.pcap": {
+        "udp connection": 244,
+        "quic connection secure": 244,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/249.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/543.pcap": {
+        "udp connection": 217,
+        "quic connection secure": 217,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/457.pcap": {
+        "udp connection": 74,
+        "quic connection secure": 74,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/815.pcap": {
+        "udp connection": 225,
+        "quic connection secure": 225,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/675.pcap": {
+        "udp connection": 210,
+        "quic connection secure": 210,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/344.pcap": {
+        "udp connection": 443,
+        "quic connection secure": 443,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/882.pcap": {
+        "udp connection": 482,
+        "quic connection secure": 482,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/92.pcap": {
+        "udp connection": 526,
+        "quic connection secure": 526,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/414.pcap": {
+        "udp connection": 588,
+        "quic connection secure": 588,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/739.pcap": {
+        "udp connection": 157,
+        "quic connection secure": 157,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/634.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/572.pcap": {
+        "udp connection": 235,
+        "quic connection secure": 235,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/184.pcap": {
+        "udp connection": 243,
+        "quic connection secure": 243,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/42.pcap": {
+        "udp connection": 141,
+        "quic connection secure": 141,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/776.pcap": {
+        "udp connection": 462,
+        "quic connection secure": 462,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/60.pcap": {
+        "udp connection": 208,
+        "quic connection secure": 208,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/844.pcap": {
+        "udp connection": 196,
+        "quic connection secure": 196,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/691.pcap": {
+        "udp connection": 189,
+        "quic connection secure": 189,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/697.pcap": {
+        "udp connection": 85,
+        "quic connection secure": 85,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/946.pcap": {
+        "udp connection": 121,
+        "quic connection secure": 121,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/204.pcap": {
+        "udp connection": 191,
+        "quic connection secure": 191,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/455.pcap": {
+        "udp connection": 558,
+        "quic connection secure": 558,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/881.pcap": {
+        "udp connection": 238,
+        "quic connection secure": 238,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/830.pcap": {
+        "udp connection": 375,
+        "quic connection secure": 375,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/619.pcap": {
+        "udp connection": 371,
+        "quic connection secure": 371,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/31.pcap": {
+        "udp connection": 248,
+        "quic connection secure": 248,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/949.pcap": {
+        "udp connection": 236,
+        "quic connection secure": 236,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/537.pcap": {
+        "udp connection": 206,
+        "quic connection secure": 206,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/605.pcap": {
+        "udp connection": 448,
+        "quic connection secure": 448,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/900.pcap": {
+        "udp connection": 218,
+        "quic connection secure": 218,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/137.pcap": {
+        "udp connection": 247,
+        "quic connection secure": 247,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/677.pcap": {
+        "udp connection": 252,
+        "quic connection secure": 252,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/124.pcap": {
+        "udp connection": 228,
+        "quic connection secure": 228,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/155.pcap": {
+        "udp connection": 1126,
+        "quic connection secure": 1126,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/435.pcap": {
+        "udp connection": 210,
+        "quic connection secure": 210,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/725.pcap": {
+        "udp connection": 427,
+        "quic connection secure": 427,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/782.pcap": {
+        "udp connection": 223,
+        "quic connection secure": 223,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/759.pcap": {
+        "udp connection": 311,
+        "quic connection secure": 311,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/514.pcap": {
+        "udp connection": 20,
+        "quic connection secure": 20,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/780.pcap": {
+        "udp connection": 170,
+        "quic connection secure": 170,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/433.pcap": {
+        "udp connection": 356,
+        "quic connection secure": 356,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/594.pcap": {
+        "udp connection": 436,
+        "quic connection secure": 436,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/310.pcap": {
+        "udp connection": 1044,
+        "quic connection secure": 1044,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/704.pcap": {
+        "udp connection": 125,
+        "quic connection secure": 125,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/737.pcap": {
+        "udp connection": 245,
+        "quic connection secure": 245,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/177.pcap": {
+        "udp connection": 146,
+        "quic connection secure": 146,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/43.pcap": {
+        "udp connection": 546,
+        "quic connection secure": 546,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/97.pcap": {
+        "udp connection": 445,
+        "quic connection secure": 445,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/44.pcap": {
+        "udp connection": 249,
+        "quic connection secure": 249,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/141.pcap": {
+        "udp connection": 508,
+        "quic connection secure": 508,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/154.pcap": {
+        "udp connection": 148,
+        "quic connection secure": 148,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/522.pcap": {
+        "udp connection": 0,
+        "quic connection secure": 0,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/938.pcap": {
+        "udp connection": 165,
+        "quic connection secure": 165,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/134.pcap": {
+        "udp connection": 1271,
+        "quic connection secure": 1271,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/451.pcap": {
+        "udp connection": 166,
+        "quic connection secure": 166,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/531.pcap": {
+        "udp connection": 227,
+        "quic connection secure": 227,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/864.pcap": {
+        "udp connection": 247,
+        "quic connection secure": 247,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/558.pcap": {
+        "udp connection": 745,
+        "quic connection secure": 745,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/270.pcap": {
+        "udp connection": 552,
+        "quic connection secure": 552,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/694.pcap": {
+        "udp connection": 1041,
+        "quic connection secure": 1041,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/898.pcap": {
+        "udp connection": 141,
+        "quic connection secure": 141,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/265.pcap": {
+        "udp connection": 89,
+        "quic connection secure": 89,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/218.pcap": {
+        "udp connection": 144,
+        "quic connection secure": 144,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/687.pcap": {
+        "udp connection": 263,
+        "quic connection secure": 263,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/851.pcap": {
+        "udp connection": 163,
+        "quic connection secure": 163,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/493.pcap": {
+        "udp connection": 197,
+        "quic connection secure": 197,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/958.pcap": {
+        "udp connection": 675,
+        "quic connection secure": 675,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/754.pcap": {
+        "udp connection": 126,
+        "quic connection secure": 126,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/390.pcap": {
+        "udp connection": 205,
+        "quic connection secure": 205,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/746.pcap": {
+        "udp connection": 210,
+        "quic connection secure": 210,
+        "quic connection none secure": 0
+    },
+    "/home/kdt46/output/908.pcap": {
+        "udp connection": 214,
+        "quic connection secure": 214,
+        "quic connection none secure": 0
+    }
+}

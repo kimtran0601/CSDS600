@@ -1,0 +1,4869 @@
+{
+    "https://www.youtube.com/watch?v=GZ8AwPwdClk": {
+        "1": {
+            "total packets": 3310,
+            "total times": 24.08393621444702,
+            "load time": 9.783977508544922
+        },
+        "49": {
+            "total packets": 222,
+            "total times": 22.488219261169434,
+            "load time": 7.5903613567352295
+        },
+        "97": {
+            "total packets": 173,
+            "total times": 18.969966650009155,
+            "load time": 3.9252922534942627
+        },
+        "145": {
+            "total packets": 224,
+            "total times": 17.68332052230835,
+            "load time": 3.255892515182495
+        },
+        "193": {
+            "total packets": 214,
+            "total times": 17.16220235824585,
+            "load time": 2.771991729736328
+        },
+        "241": {
+            "total packets": 198,
+            "total times": 15.733744382858276,
+            "load time": 1.2707271575927734
+        },
+        "289": {
+            "total packets": 1710,
+            "total times": 57.32472515106201,
+            "load time": 42.26180624961853
+        },
+        "337": {
+            "total packets": 389,
+            "total times": 72.32051825523376,
+            "load time": 57.267805337905884
+        },
+        "385": {
+            "total packets": 397,
+            "total times": 33.558974504470825,
+            "load time": 18.403007984161377
+        },
+        "433": {
+            "total packets": 338,
+            "total times": 41.8000066280365,
+            "load time": 26.744638919830322
+        },
+        "481": {
+            "total packets": 365,
+            "total times": 41.21674585342407,
+            "load time": 26.201637506484985
+        },
+        "529": {
+            "total packets": 153,
+            "total times": 19.7663631439209,
+            "load time": 4.918376445770264
+        },
+        "577": {
+            "total packets": 366,
+            "total times": 37.55721998214722,
+            "load time": 22.6693274974823
+        },
+        "625": {
+            "total packets": 180,
+            "total times": 15.884597539901733,
+            "load time": 0.9566247463226318
+        },
+        "673": {
+            "total packets": 363,
+            "total times": 35.020068407058716,
+            "load time": 20.122975826263428
+        },
+        "721": {
+            "total packets": 165,
+            "total times": 19.53348135948181,
+            "load time": 4.460484266281128
+        },
+        "769": {
+            "total packets": 443,
+            "total times": 61.26068663597107,
+            "load time": 46.24595355987549
+        },
+        "817": {
+            "total packets": 398,
+            "total times": 41.99056267738342,
+            "load time": 26.971041679382324
+        },
+        "865": {
+            "total packets": 440,
+            "total times": 70.06415295600891,
+            "load time": 55.01560831069946
+        },
+        "913": {
+            "total packets": 70,
+            "total times": 11.925189018249512,
+            "load time": 1.879777193069458
+        }
+    },
+    "https://www.youtube.com/watch?v=jPAR4KAajVY": {
+        "2": {
+            "total packets": 437,
+            "total times": 47.41775321960449,
+            "load time": 6.026926279067993
+        },
+        "50": {
+            "total packets": 200,
+            "total times": 42.47690224647522,
+            "load time": 0.8184120655059814
+        },
+        "98": {
+            "total packets": 185,
+            "total times": 44.385502338409424,
+            "load time": 2.6955361366271973
+        },
+        "146": {
+            "total packets": 226,
+            "total times": 44.14010262489319,
+            "load time": 2.492432117462158
+        },
+        "194": {
+            "total packets": 323,
+            "total times": 44.69919729232788,
+            "load time": 3.0034635066986084
+        },
+        "242": {
+            "total packets": 225,
+            "total times": 42.807796001434326,
+            "load time": 0.8463504314422607
+        },
+        "290": {
+            "total packets": 216,
+            "total times": 42.63481783866882,
+            "load time": 0.5023705959320068
+        },
+        "338": {
+            "total packets": 55,
+            "total times": 34.50613880157471,
+            "load time": 1.0150887966156006
+        },
+        "386": {
+            "total packets": 190,
+            "total times": 42.55061364173889,
+            "load time": 0.8859663009643555
+        },
+        "434": {
+            "total packets": 191,
+            "total times": 43.7206449508667,
+            "load time": 2.038806676864624
+        },
+        "482": {
+            "total packets": 213,
+            "total times": 43.65953755378723,
+            "load time": 1.9772205352783203
+        },
+        "530": {
+            "total packets": 185,
+            "total times": 43.90072321891785,
+            "load time": 1.9905531406402588
+        },
+        "578": {
+            "total packets": 211,
+            "total times": 43.3574857711792,
+            "load time": 1.6082077026367188
+        },
+        "626": {
+            "total packets": 254,
+            "total times": 48.993316411972046,
+            "load time": 7.403891324996948
+        },
+        "674": {
+            "total packets": 234,
+            "total times": 44.00723338127136,
+            "load time": 2.3006680011749268
+        },
+        "722": {
+            "total packets": 258,
+            "total times": 43.291261196136475,
+            "load time": 1.6750328540802002
+        },
+        "770": {
+            "total packets": 215,
+            "total times": 43.955007791519165,
+            "load time": 2.3864083290100098
+        },
+        "818": {
+            "total packets": 268,
+            "total times": 44.02490210533142,
+            "load time": 2.3673884868621826
+        },
+        "866": {
+            "total packets": 233,
+            "total times": 43.04546546936035,
+            "load time": 1.4339423179626465
+        },
+        "914": {
+            "total packets": 53,
+            "total times": 23.069387197494507,
+            "load time": -10.219223499298096
+        }
+    },
+    "https://www.youtube.com/watch?v=Da0AS7D59gc": {
+        "3": {
+            "total packets": 267,
+            "total times": 67.27086353302002,
+            "load time": 1.475219488143921
+        },
+        "51": {
+            "total packets": 259,
+            "total times": 72.77346920967102,
+            "load time": 6.667813062667847
+        },
+        "99": {
+            "total packets": 285,
+            "total times": 71.0679714679718,
+            "load time": 6.248571157455444
+        },
+        "147": {
+            "total packets": 282,
+            "total times": 66.81763410568237,
+            "load time": 0.6340107917785645
+        },
+        "195": {
+            "total packets": 242,
+            "total times": 67.19316744804382,
+            "load time": 1.407923698425293
+        },
+        "243": {
+            "total packets": 262,
+            "total times": 66.68750739097595,
+            "load time": 0.5180459022521973
+        },
+        "291": {
+            "total packets": 202,
+            "total times": 60.843966007232666,
+            "load time": 1.3626139163970947
+        },
+        "339": {
+            "total packets": 238,
+            "total times": 66.80087637901306,
+            "load time": 0.6423895359039307
+        },
+        "387": {
+            "total packets": 197,
+            "total times": 67.11667919158936,
+            "load time": 1.2900209426879883
+        },
+        "435": {
+            "total packets": 23,
+            "total times": 0.10272979736328125,
+            "load time": -14.073234796524048
+        },
+        "483": {
+            "total packets": 231,
+            "total times": 42.558555126190186,
+            "load time": 1.5688533782958984
+        },
+        "531": {
+            "total packets": 246,
+            "total times": 66.742910861969,
+            "load time": 0.6181855201721191
+        },
+        "579": {
+            "total packets": 278,
+            "total times": 67.18423914909363,
+            "load time": 1.4645733833312988
+        },
+        "627": {
+            "total packets": 245,
+            "total times": 66.75936007499695,
+            "load time": 0.7064452171325684
+        },
+        "675": {
+            "total packets": 238,
+            "total times": 67.907301902771,
+            "load time": 2.0363543033599854
+        },
+        "723": {
+            "total packets": 272,
+            "total times": 66.81037592887878,
+            "load time": 0.968804121017456
+        },
+        "771": {
+            "total packets": 237,
+            "total times": 66.79381036758423,
+            "load time": 0.6666440963745117
+        },
+        "819": {
+            "total packets": 241,
+            "total times": 67.35498547554016,
+            "load time": 1.567864179611206
+        },
+        "867": {
+            "total packets": 275,
+            "total times": 67.20810461044312,
+            "load time": 1.6690993309020996
+        },
+        "915": {
+            "total packets": 52,
+            "total times": 7.236899137496948,
+            "load time": -25.17686152458191
+        }
+    },
+    "https://www.youtube.com/watch?v=B9synWjqBn8": {
+        "4": {
+            "total packets": 1279,
+            "total times": 275.37110209465027,
+            "load time": 49.87659192085266
+        },
+        "52": {
+            "total packets": 1339,
+            "total times": 332.5789144039154,
+            "load time": 34.553513526916504
+        },
+        "100": {
+            "total packets": 2134,
+            "total times": 412.9635019302368,
+            "load time": 2.050835609436035
+        },
+        "148": {
+            "total packets": 1079,
+            "total times": 278.24839448928833,
+            "load time": 52.74288296699524
+        },
+        "196": {
+            "total packets": 1660,
+            "total times": 485.5000054836273,
+            "load time": 35.6587188243866
+        },
+        "244": {
+            "total packets": 1617,
+            "total times": 349.887344121933,
+            "load time": 1.2665185928344727
+        },
+        "292": {
+            "total packets": 1210,
+            "total times": 362.38796186447144,
+            "load time": 1.1093523502349854
+        },
+        "340": {
+            "total packets": 1516,
+            "total times": 461.43046045303345,
+            "load time": 34.548826694488525
+        },
+        "388": {
+            "total packets": 1302,
+            "total times": 445.1255557537079,
+            "load time": 2.5614802837371826
+        },
+        "436": {
+            "total packets": 932,
+            "total times": 242.76817059516907,
+            "load time": 2.374985456466675
+        },
+        "484": {
+            "total packets": 932,
+            "total times": 259.74286460876465,
+            "load time": 2.7296528816223145
+        },
+        "532": {
+            "total packets": 1924,
+            "total times": 368.4041938781738,
+            "load time": 143.32233381271362
+        },
+        "580": {
+            "total packets": 644,
+            "total times": 226.86949133872986,
+            "load time": 1.7701337337493896
+        },
+        "628": {
+            "total packets": 1101,
+            "total times": 337.8852128982544,
+            "load time": 112.70935010910034
+        },
+        "676": {
+            "total packets": 1130,
+            "total times": 240.72758173942566,
+            "load time": 1.5186641216278076
+        },
+        "724": {
+            "total packets": 791,
+            "total times": 249.34663844108582,
+            "load time": 1.8177709579467773
+        },
+        "772": {
+            "total packets": 326,
+            "total times": 227.32944416999817,
+            "load time": 2.393981456756592
+        },
+        "820": {
+            "total packets": 684,
+            "total times": 222.27359580993652,
+            "load time": 2.115471839904785
+        },
+        "868": {
+            "total packets": 573,
+            "total times": 225.48617124557495,
+            "load time": 0.5367274284362793
+        },
+        "916": {
+            "total packets": 602,
+            "total times": 225.79515027999878,
+            "load time": 1.0907261371612549
+        }
+    },
+    "https://www.youtube.com/watch?v=G53RmwNoAFA": {
+        "5": {
+            "total packets": 269,
+            "total times": 41.071014642715454,
+            "load time": 2.6642117500305176
+        },
+        "53": {
+            "total packets": 289,
+            "total times": 42.161330461502075,
+            "load time": 5.45403265953064
+        },
+        "101": {
+            "total packets": 223,
+            "total times": 42.08718776702881,
+            "load time": 5.571765422821045
+        },
+        "149": {
+            "total packets": 264,
+            "total times": 39.26865291595459,
+            "load time": 0.9951679706573486
+        },
+        "197": {
+            "total packets": 244,
+            "total times": 40.918567419052124,
+            "load time": 3.276648998260498
+        },
+        "245": {
+            "total packets": 234,
+            "total times": 40.883944034576416,
+            "load time": 3.2214739322662354
+        },
+        "293": {
+            "total packets": 253,
+            "total times": 41.065598249435425,
+            "load time": 4.5960633754730225
+        },
+        "341": {
+            "total packets": 475,
+            "total times": 102.7500524520874,
+            "load time": 64.31205534934998
+        },
+        "389": {
+            "total packets": 437,
+            "total times": 56.48764133453369,
+            "load time": 18.184086322784424
+        },
+        "437": {
+            "total packets": 254,
+            "total times": 39.393754959106445,
+            "load time": 1.5287187099456787
+        },
+        "485": {
+            "total packets": 229,
+            "total times": 40.91185021400452,
+            "load time": 4.173866510391235
+        },
+        "533": {
+            "total packets": 243,
+            "total times": 38.88822627067566,
+            "load time": 0.613701581954956
+        },
+        "581": {
+            "total packets": 424,
+            "total times": 74.46577405929565,
+            "load time": 36.14861822128296
+        },
+        "629": {
+            "total packets": 237,
+            "total times": 40.81608843803406,
+            "load time": 2.412506103515625
+        },
+        "677": {
+            "total packets": 269,
+            "total times": 35.68156695365906,
+            "load time": 5.061816215515137
+        },
+        "725": {
+            "total packets": 246,
+            "total times": 40.87929344177246,
+            "load time": 4.202706813812256
+        },
+        "773": {
+            "total packets": 273,
+            "total times": 40.33472394943237,
+            "load time": 2.2664597034454346
+        },
+        "821": {
+            "total packets": 240,
+            "total times": 40.66231060028076,
+            "load time": 2.807934284210205
+        },
+        "869": {
+            "total packets": 409,
+            "total times": 57.050593852996826,
+            "load time": 18.790729761123657
+        },
+        "917": {
+            "total packets": 419,
+            "total times": 51.656028747558594,
+            "load time": 13.30762529373169
+        }
+    },
+    "https://www.youtube.com/watch?v=dZNaX8FSgOo": {
+        "6": {
+            "total packets": 184,
+            "total times": 39.49812054634094,
+            "load time": 2.1031265258789062
+        },
+        "54": {
+            "total packets": 212,
+            "total times": 45.09062576293945,
+            "load time": 0.5505220890045166
+        },
+        "102": {
+            "total packets": 188,
+            "total times": 45.10489749908447,
+            "load time": 0.3223097324371338
+        },
+        "150": {
+            "total packets": 231,
+            "total times": 46.46113324165344,
+            "load time": 1.5724642276763916
+        },
+        "198": {
+            "total packets": 177,
+            "total times": 45.099692821502686,
+            "load time": 0.1831188201904297
+        },
+        "246": {
+            "total packets": 216,
+            "total times": 45.07327485084534,
+            "load time": 0.6272649765014648
+        },
+        "294": {
+            "total packets": 167,
+            "total times": 40.572343587875366,
+            "load time": 0.059668779373168945
+        },
+        "342": {
+            "total packets": 311,
+            "total times": 47.61520004272461,
+            "load time": 2.7226829528808594
+        },
+        "390": {
+            "total packets": 202,
+            "total times": 35.44458842277527,
+            "load time": 1.2845380306243896
+        },
+        "438": {
+            "total packets": 192,
+            "total times": 45.06403565406799,
+            "load time": 0.515486478805542
+        },
+        "486": {
+            "total packets": 208,
+            "total times": 45.085707902908325,
+            "load time": 0.8576979637145996
+        },
+        "534": {
+            "total packets": 196,
+            "total times": 39.44182825088501,
+            "load time": 1.9786686897277832
+        },
+        "582": {
+            "total packets": 267,
+            "total times": 43.242621421813965,
+            "load time": 1.9013581275939941
+        },
+        "630": {
+            "total packets": 155,
+            "total times": 38.41839599609375,
+            "load time": 0.014881134033203125
+        },
+        "678": {
+            "total packets": 177,
+            "total times": 47.261754512786865,
+            "load time": 2.799081563949585
+        },
+        "726": {
+            "total packets": 232,
+            "total times": 46.52932572364807,
+            "load time": 1.6421706676483154
+        },
+        "774": {
+            "total packets": 207,
+            "total times": 47.21044111251831,
+            "load time": 2.680293083190918
+        },
+        "822": {
+            "total packets": 248,
+            "total times": 45.80920219421387,
+            "load time": 0.9278976917266846
+        },
+        "870": {
+            "total packets": 273,
+            "total times": 47.302043437957764,
+            "load time": 2.8060402870178223
+        },
+        "918": {
+            "total packets": 238,
+            "total times": 46.787904500961304,
+            "load time": 2.1376688480377197
+        }
+    },
+    "https://www.youtube.com/watch?v=NzMDCyLnRPo": {
+        "7": {
+            "total packets": 209,
+            "total times": 20.08565068244934,
+            "load time": 1.7851853370666504
+        },
+        "55": {
+            "total packets": 194,
+            "total times": 20.03269934654236,
+            "load time": 1.4811408519744873
+        },
+        "103": {
+            "total packets": 167,
+            "total times": 19.45542049407959,
+            "load time": 1.1365916728973389
+        },
+        "151": {
+            "total packets": 179,
+            "total times": 19.39808440208435,
+            "load time": 1.3350975513458252
+        },
+        "199": {
+            "total packets": 176,
+            "total times": 19.029207229614258,
+            "load time": 0.3351922035217285
+        },
+        "247": {
+            "total packets": 185,
+            "total times": 19.021267652511597,
+            "load time": 0.521674633026123
+        },
+        "295": {
+            "total packets": 208,
+            "total times": 19.7038311958313,
+            "load time": 1.136070728302002
+        },
+        "343": {
+            "total packets": 156,
+            "total times": 25.117595434188843,
+            "load time": 6.858415365219116
+        },
+        "391": {
+            "total packets": 172,
+            "total times": 15.283193826675415,
+            "load time": 2.2955620288848877
+        },
+        "439": {
+            "total packets": 181,
+            "total times": 19.38624358177185,
+            "load time": 1.2036137580871582
+        },
+        "487": {
+            "total packets": 169,
+            "total times": 25.097912549972534,
+            "load time": 6.57476806640625
+        },
+        "535": {
+            "total packets": 195,
+            "total times": 19.2566819190979,
+            "load time": 0.7508914470672607
+        },
+        "583": {
+            "total packets": 195,
+            "total times": 14.755350589752197,
+            "load time": 2.7950472831726074
+        },
+        "631": {
+            "total packets": 178,
+            "total times": 19.43421745300293,
+            "load time": 1.3326270580291748
+        },
+        "679": {
+            "total packets": 189,
+            "total times": 19.014297008514404,
+            "load time": 0.5143611431121826
+        },
+        "727": {
+            "total packets": 188,
+            "total times": 19.105443239212036,
+            "load time": 0.6225144863128662
+        },
+        "775": {
+            "total packets": 194,
+            "total times": 24.191291332244873,
+            "load time": 6.3326640129089355
+        },
+        "823": {
+            "total packets": 199,
+            "total times": 18.98799419403076,
+            "load time": 0.48265957832336426
+        },
+        "871": {
+            "total packets": 208,
+            "total times": 26.695146083831787,
+            "load time": 8.928449630737305
+        },
+        "919": {
+            "total packets": 161,
+            "total times": 19.02756142616272,
+            "load time": 0.3295612335205078
+        }
+    },
+    "https://www.youtube.com/watch?v=S9ml40sLhQU": {
+        "8": {
+            "total packets": 520,
+            "total times": 110.29787492752075,
+            "load time": 0.872352123260498
+        },
+        "56": {
+            "total packets": 537,
+            "total times": 165.52222084999084,
+            "load time": 1.0637154579162598
+        },
+        "104": {
+            "total packets": 489,
+            "total times": 128.5483422279358,
+            "load time": 41.395803451538086
+        },
+        "152": {
+            "total packets": 583,
+            "total times": 123.02349138259888,
+            "load time": 1.2153806686401367
+        },
+        "200": {
+            "total packets": 837,
+            "total times": 263.4933364391327,
+            "load time": 170.04854106903076
+        },
+        "248": {
+            "total packets": 502,
+            "total times": 110.29646348953247,
+            "load time": 0.40112805366516113
+        },
+        "296": {
+            "total packets": 444,
+            "total times": 109.97455191612244,
+            "load time": 23.1443772315979
+        },
+        "344": {
+            "total packets": 550,
+            "total times": 110.47478723526001,
+            "load time": 1.0601625442504883
+        },
+        "392": {
+            "total packets": 540,
+            "total times": 110.81670045852661,
+            "load time": 1.304532766342163
+        },
+        "440": {
+            "total packets": 523,
+            "total times": 115.69515466690063,
+            "load time": 0.9968152046203613
+        },
+        "488": {
+            "total packets": 484,
+            "total times": 103.02776646614075,
+            "load time": 0.6416127681732178
+        },
+        "536": {
+            "total packets": 717,
+            "total times": 238.17884755134583,
+            "load time": 1.5757300853729248
+        },
+        "584": {
+            "total packets": 493,
+            "total times": 95.32727313041687,
+            "load time": 2.003697156906128
+        },
+        "632": {
+            "total packets": 526,
+            "total times": 110.51626682281494,
+            "load time": 1.0376317501068115
+        },
+        "680": {
+            "total packets": 501,
+            "total times": 121.35781478881836,
+            "load time": 0.7761211395263672
+        },
+        "728": {
+            "total packets": 559,
+            "total times": 127.6305296421051,
+            "load time": 0.9141726493835449
+        },
+        "776": {
+            "total packets": 572,
+            "total times": 156.51447129249573,
+            "load time": 1.3937466144561768
+        },
+        "824": {
+            "total packets": 276,
+            "total times": 88.76151394844055,
+            "load time": 1.7850723266601562
+        },
+        "872": {
+            "total packets": 539,
+            "total times": 111.63241982460022,
+            "load time": 1.7975404262542725
+        },
+        "920": {
+            "total packets": 688,
+            "total times": 152.9632489681244,
+            "load time": 1.9527535438537598
+        }
+    },
+    "https://www.youtube.com/watch?v=AhJpav2rjac": {
+        "9": {
+            "total packets": 227,
+            "total times": 47.43036150932312,
+            "load time": 3.1787915229797363
+        },
+        "57": {
+            "total packets": 266,
+            "total times": 46.9626886844635,
+            "load time": 2.2224628925323486
+        },
+        "105": {
+            "total packets": 231,
+            "total times": 45.590352058410645,
+            "load time": 1.0490615367889404
+        },
+        "153": {
+            "total packets": 212,
+            "total times": 49.401793479919434,
+            "load time": 4.397272825241089
+        },
+        "201": {
+            "total packets": 225,
+            "total times": 45.65760064125061,
+            "load time": 1.1930391788482666
+        },
+        "249": {
+            "total packets": 216,
+            "total times": 38.786213636398315,
+            "load time": 3.9320132732391357
+        },
+        "297": {
+            "total packets": 207,
+            "total times": 47.13669943809509,
+            "load time": 2.4016010761260986
+        },
+        "345": {
+            "total packets": 259,
+            "total times": 51.41535520553589,
+            "load time": 6.512058734893799
+        },
+        "393": {
+            "total packets": 222,
+            "total times": 47.49770545959473,
+            "load time": 3.7969582080841064
+        },
+        "441": {
+            "total packets": 248,
+            "total times": 49.80424404144287,
+            "load time": 6.997854471206665
+        },
+        "489": {
+            "total packets": 246,
+            "total times": 50.20089888572693,
+            "load time": 5.403925895690918
+        },
+        "537": {
+            "total packets": 278,
+            "total times": 51.6822714805603,
+            "load time": 7.174997329711914
+        },
+        "585": {
+            "total packets": 433,
+            "total times": 58.253334045410156,
+            "load time": 13.234346151351929
+        },
+        "633": {
+            "total packets": 232,
+            "total times": 47.997854709625244,
+            "load time": 3.942666530609131
+        },
+        "681": {
+            "total packets": 253,
+            "total times": 49.76715588569641,
+            "load time": 5.473432779312134
+        },
+        "729": {
+            "total packets": 303,
+            "total times": 48.796417474746704,
+            "load time": 4.632106781005859
+        },
+        "777": {
+            "total packets": 239,
+            "total times": 47.50589680671692,
+            "load time": 3.7834572792053223
+        },
+        "825": {
+            "total packets": 75,
+            "total times": 29.99826192855835,
+            "load time": -7.071835994720459
+        },
+        "873": {
+            "total packets": 211,
+            "total times": 47.36382436752319,
+            "load time": 2.3379387855529785
+        },
+        "921": {
+            "total packets": 234,
+            "total times": 47.51899266242981,
+            "load time": 4.5921244621276855
+        }
+    },
+    "https://www.youtube.com/watch?v=z2eKr-yaYL8": {
+        "10": {
+            "total packets": 192,
+            "total times": 21.458468437194824,
+            "load time": 1.2959856986999512
+        },
+        "58": {
+            "total packets": 182,
+            "total times": 21.041178703308105,
+            "load time": 0.4927637577056885
+        },
+        "106": {
+            "total packets": 168,
+            "total times": 12.666425466537476,
+            "load time": 1.2511825561523438
+        },
+        "154": {
+            "total packets": 185,
+            "total times": 21.2161066532135,
+            "load time": 1.1116483211517334
+        },
+        "202": {
+            "total packets": 153,
+            "total times": 21.41112756729126,
+            "load time": 1.252685546875
+        },
+        "250": {
+            "total packets": 153,
+            "total times": 21.013505697250366,
+            "load time": 0.4871633052825928
+        },
+        "298": {
+            "total packets": 177,
+            "total times": 20.966404914855957,
+            "load time": 0.49105000495910645
+        },
+        "346": {
+            "total packets": 144,
+            "total times": 21.037317037582397,
+            "load time": 0.4891622066497803
+        },
+        "394": {
+            "total packets": 154,
+            "total times": 21.266714096069336,
+            "load time": 1.0856294631958008
+        },
+        "442": {
+            "total packets": 181,
+            "total times": 21.3254554271698,
+            "load time": 1.2025091648101807
+        },
+        "490": {
+            "total packets": 164,
+            "total times": 21.071255683898926,
+            "load time": 0.5133142471313477
+        },
+        "538": {
+            "total packets": 155,
+            "total times": 21.211817026138306,
+            "load time": 1.2910034656524658
+        },
+        "586": {
+            "total packets": 173,
+            "total times": 21.535658597946167,
+            "load time": 1.3170194625854492
+        },
+        "634": {
+            "total packets": 179,
+            "total times": 21.274078369140625,
+            "load time": 0.9670579433441162
+        },
+        "682": {
+            "total packets": 171,
+            "total times": 26.844021797180176,
+            "load time": 6.549886703491211
+        },
+        "730": {
+            "total packets": 151,
+            "total times": 21.44673752784729,
+            "load time": 1.3129150867462158
+        },
+        "778": {
+            "total packets": 174,
+            "total times": 26.410682678222656,
+            "load time": 6.064308166503906
+        },
+        "826": {
+            "total packets": 24,
+            "total times": 0.0978693962097168,
+            "load time": -14.340513706207275
+        },
+        "874": {
+            "total packets": 180,
+            "total times": 21.376087427139282,
+            "load time": 1.1983509063720703
+        },
+        "922": {
+            "total packets": 230,
+            "total times": 22.511965036392212,
+            "load time": 2.333920955657959
+        }
+    },
+    "https://www.youtube.com/watch?v=lS-S1EBW1o4": {
+        "11": {
+            "total packets": 1003,
+            "total times": 328.6985857486725,
+            "load time": 1.22263503074646
+        },
+        "59": {
+            "total packets": 1070,
+            "total times": 270.3646149635315,
+            "load time": 2.6256861686706543
+        },
+        "107": {
+            "total packets": 1009,
+            "total times": 278.94062972068787,
+            "load time": 67.51915121078491
+        },
+        "155": {
+            "total packets": 1152,
+            "total times": 304.1615662574768,
+            "load time": 1.2304656505584717
+        },
+        "203": {
+            "total packets": 878,
+            "total times": 229.66939449310303,
+            "load time": 1.4787836074829102
+        },
+        "251": {
+            "total packets": 942,
+            "total times": 249.89672231674194,
+            "load time": 0.9729323387145996
+        },
+        "299": {
+            "total packets": 927,
+            "total times": 228.60785627365112,
+            "load time": 1.107372760772705
+        },
+        "347": {
+            "total packets": 913,
+            "total times": 258.784343957901,
+            "load time": 1.189934492111206
+        },
+        "395": {
+            "total packets": 933,
+            "total times": 246.413428068161,
+            "load time": 2.1263809204101562
+        },
+        "443": {
+            "total packets": 1565,
+            "total times": 262.41039395332336,
+            "load time": 0.511387825012207
+        },
+        "491": {
+            "total packets": 924,
+            "total times": 229.74233961105347,
+            "load time": 1.8704862594604492
+        },
+        "539": {
+            "total packets": 965,
+            "total times": 222.22861099243164,
+            "load time": 35.034465312957764
+        },
+        "587": {
+            "total packets": 915,
+            "total times": 238.1809892654419,
+            "load time": 0.5375621318817139
+        },
+        "635": {
+            "total packets": 668,
+            "total times": 213.80999040603638,
+            "load time": 3.2686216831207275
+        },
+        "683": {
+            "total packets": 412,
+            "total times": 181.42125964164734,
+            "load time": 1.2927908897399902
+        },
+        "731": {
+            "total packets": 424,
+            "total times": 186.12654423713684,
+            "load time": 5.9195191860198975
+        },
+        "779": {
+            "total packets": 910,
+            "total times": 239.74123811721802,
+            "load time": 1.3948321342468262
+        },
+        "827": {
+            "total packets": 806,
+            "total times": 283.59854555130005,
+            "load time": -4.546505451202393
+        },
+        "875": {
+            "total packets": 422,
+            "total times": 182.38275146484375,
+            "load time": 1.7694029808044434
+        },
+        "923": {
+            "total packets": 284,
+            "total times": 128.6624734401703,
+            "load time": 0.24876809120178223
+        }
+    },
+    "https://www.youtube.com/watch?v=je8LyYhxDE4": {
+        "12": {
+            "total packets": 43,
+            "total times": 2.645503044128418,
+            "load time": -1.580106496810913
+        },
+        "60": {
+            "total packets": 194,
+            "total times": 24.21487522125244,
+            "load time": 4.096222162246704
+        },
+        "108": {
+            "total packets": 236,
+            "total times": 23.93776559829712,
+            "load time": 2.6194026470184326
+        },
+        "156": {
+            "total packets": 213,
+            "total times": 25.688411235809326,
+            "load time": 5.060979604721069
+        },
+        "204": {
+            "total packets": 246,
+            "total times": 27.06735372543335,
+            "load time": 5.285192012786865
+        },
+        "252": {
+            "total packets": 174,
+            "total times": 24.299967050552368,
+            "load time": 3.5090560913085938
+        },
+        "300": {
+            "total packets": 221,
+            "total times": 25.45837903022766,
+            "load time": 4.932995319366455
+        },
+        "348": {
+            "total packets": 223,
+            "total times": 24.61821222305298,
+            "load time": 2.983264446258545
+        },
+        "396": {
+            "total packets": 202,
+            "total times": 24.324469089508057,
+            "load time": 3.4651858806610107
+        },
+        "444": {
+            "total packets": 173,
+            "total times": 24.31613826751709,
+            "load time": 3.771714448928833
+        },
+        "492": {
+            "total packets": 192,
+            "total times": 24.29134202003479,
+            "load time": 2.6707653999328613
+        },
+        "540": {
+            "total packets": 224,
+            "total times": 27.487045288085938,
+            "load time": 6.44236159324646
+        },
+        "588": {
+            "total packets": 176,
+            "total times": 24.508238077163696,
+            "load time": 3.39837646484375
+        },
+        "636": {
+            "total packets": 209,
+            "total times": 23.30950355529785,
+            "load time": 1.5253820419311523
+        },
+        "684": {
+            "total packets": 176,
+            "total times": 16.641321897506714,
+            "load time": 1.3484089374542236
+        },
+        "732": {
+            "total packets": 212,
+            "total times": 19.798818111419678,
+            "load time": 2.4978859424591064
+        },
+        "780": {
+            "total packets": 194,
+            "total times": 24.27644419670105,
+            "load time": 3.380358934402466
+        },
+        "828": {
+            "total packets": 231,
+            "total times": 26.033548593521118,
+            "load time": 5.06989598274231
+        },
+        "876": {
+            "total packets": 173,
+            "total times": 22.625096559524536,
+            "load time": 1.3020827770233154
+        },
+        "924": {
+            "total packets": 218,
+            "total times": 22.273897171020508,
+            "load time": 0.6602308750152588
+        }
+    },
+    "https://www.youtube.com/watch?v=-PcVELBG484": {
+        "13": {
+            "total packets": 31,
+            "total times": 5.622470855712891,
+            "load time": -27.357709646224976
+        },
+        "61": {
+            "total packets": 162,
+            "total times": 33.806474447250366,
+            "load time": 0.817265510559082
+        },
+        "109": {
+            "total packets": 196,
+            "total times": 36.305442571640015,
+            "load time": 0.7728826999664307
+        },
+        "157": {
+            "total packets": 203,
+            "total times": 36.24827432632446,
+            "load time": 0.3633716106414795
+        },
+        "205": {
+            "total packets": 208,
+            "total times": 36.38243007659912,
+            "load time": 0.9185709953308105
+        },
+        "253": {
+            "total packets": 54,
+            "total times": 7.801070213317871,
+            "load time": -23.914329528808594
+        },
+        "301": {
+            "total packets": 201,
+            "total times": 36.36620235443115,
+            "load time": 0.8410499095916748
+        },
+        "349": {
+            "total packets": 225,
+            "total times": 36.27438831329346,
+            "load time": 0.9109954833984375
+        },
+        "397": {
+            "total packets": 179,
+            "total times": 36.38508152961731,
+            "load time": 0.8722004890441895
+        },
+        "445": {
+            "total packets": 185,
+            "total times": 36.35941290855408,
+            "load time": 0.8222665786743164
+        },
+        "493": {
+            "total packets": 183,
+            "total times": 36.85254669189453,
+            "load time": 1.2335009574890137
+        },
+        "541": {
+            "total packets": 214,
+            "total times": 37.30287432670593,
+            "load time": 1.5869100093841553
+        },
+        "589": {
+            "total packets": 240,
+            "total times": 37.64177632331848,
+            "load time": 2.2193050384521484
+        },
+        "637": {
+            "total packets": 176,
+            "total times": 37.189592599868774,
+            "load time": 1.3232722282409668
+        },
+        "685": {
+            "total packets": 204,
+            "total times": 36.442259550094604,
+            "load time": 0.9616565704345703
+        },
+        "733": {
+            "total packets": 189,
+            "total times": 35.6474769115448,
+            "load time": 2.5549468994140625
+        },
+        "781": {
+            "total packets": 201,
+            "total times": 36.22094178199768,
+            "load time": 0.4056823253631592
+        },
+        "829": {
+            "total packets": 244,
+            "total times": 36.878462076187134,
+            "load time": 1.4744503498077393
+        },
+        "877": {
+            "total packets": 197,
+            "total times": 36.16788578033447,
+            "load time": 0.323427677154541
+        },
+        "925": {
+            "total packets": 203,
+            "total times": 36.140828132629395,
+            "load time": 0.30774450302124023
+        }
+    },
+    "https://www.youtube.com/watch?v=ffqsc00svVI": {
+        "14": {
+            "total packets": 119,
+            "total times": 105.16518568992615,
+            "load time": 70.62241387367249
+        },
+        "62": {
+            "total packets": 247,
+            "total times": 40.856308460235596,
+            "load time": 0.611128568649292
+        },
+        "110": {
+            "total packets": 251,
+            "total times": 40.806158781051636,
+            "load time": 0.7070274353027344
+        },
+        "158": {
+            "total packets": 241,
+            "total times": 41.20911931991577,
+            "load time": 1.1506812572479248
+        },
+        "206": {
+            "total packets": 215,
+            "total times": 41.202696561813354,
+            "load time": 1.3646762371063232
+        },
+        "254": {
+            "total packets": 49,
+            "total times": 17.189197063446045,
+            "load time": -16.09405255317688
+        },
+        "302": {
+            "total packets": 216,
+            "total times": 41.16034555435181,
+            "load time": 1.247988224029541
+        },
+        "350": {
+            "total packets": 222,
+            "total times": 41.071855545043945,
+            "load time": 1.0103228092193604
+        },
+        "398": {
+            "total packets": 220,
+            "total times": 38.70744490623474,
+            "load time": 1.1497914791107178
+        },
+        "446": {
+            "total packets": 256,
+            "total times": 41.2394015789032,
+            "load time": 0.898838996887207
+        },
+        "494": {
+            "total packets": 253,
+            "total times": 44.17749214172363,
+            "load time": 3.8731184005737305
+        },
+        "542": {
+            "total packets": 232,
+            "total times": 40.8911874294281,
+            "load time": 0.7748816013336182
+        },
+        "590": {
+            "total packets": 264,
+            "total times": 43.48655080795288,
+            "load time": 3.6796488761901855
+        },
+        "638": {
+            "total packets": 216,
+            "total times": 45.60140323638916,
+            "load time": 5.95941948890686
+        },
+        "686": {
+            "total packets": 600,
+            "total times": 31.10020661354065,
+            "load time": 12.766288757324219
+        },
+        "734": {
+            "total packets": 450,
+            "total times": 73.38032674789429,
+            "load time": 33.108073234558105
+        },
+        "782": {
+            "total packets": 235,
+            "total times": 41.05179214477539,
+            "load time": 0.9414336681365967
+        },
+        "830": {
+            "total packets": 187,
+            "total times": 38.598231077194214,
+            "load time": 3.43168306350708
+        },
+        "878": {
+            "total packets": 400,
+            "total times": 53.458784103393555,
+            "load time": 13.110509395599365
+        },
+        "926": {
+            "total packets": 361,
+            "total times": 48.199933767318726,
+            "load time": 7.8859241008758545
+        }
+    },
+    "https://www.youtube.com/watch?v=ThnKevSBefM": {
+        "15": {
+            "total packets": 80,
+            "total times": 31.275630712509155,
+            "load time": -7.164769887924194
+        },
+        "63": {
+            "total packets": 197,
+            "total times": 47.122331857681274,
+            "load time": 2.1260242462158203
+        },
+        "111": {
+            "total packets": 207,
+            "total times": 46.118568897247314,
+            "load time": 1.1757102012634277
+        },
+        "159": {
+            "total packets": 192,
+            "total times": 47.15110898017883,
+            "load time": 2.276533365249634
+        },
+        "207": {
+            "total packets": 225,
+            "total times": 47.20292949676514,
+            "load time": 2.119112253189087
+        },
+        "255": {
+            "total packets": 52,
+            "total times": 30.686544179916382,
+            "load time": -2.530245542526245
+        },
+        "303": {
+            "total packets": 231,
+            "total times": 46.32369565963745,
+            "load time": 1.4438462257385254
+        },
+        "351": {
+            "total packets": 201,
+            "total times": 45.850488901138306,
+            "load time": 0.9604601860046387
+        },
+        "399": {
+            "total packets": 217,
+            "total times": 45.627220153808594,
+            "load time": 0.6224007606506348
+        },
+        "447": {
+            "total packets": 239,
+            "total times": 45.819541215896606,
+            "load time": 0.8958745002746582
+        },
+        "495": {
+            "total packets": 191,
+            "total times": 45.61992645263672,
+            "load time": 0.685401439666748
+        },
+        "543": {
+            "total packets": 188,
+            "total times": 43.03558707237244,
+            "load time": 0.9171524047851562
+        },
+        "591": {
+            "total packets": 204,
+            "total times": 45.7737455368042,
+            "load time": 0.49269890785217285
+        },
+        "639": {
+            "total packets": 230,
+            "total times": 45.705114126205444,
+            "load time": 0.5948669910430908
+        },
+        "687": {
+            "total packets": 53,
+            "total times": 23.940093755722046,
+            "load time": -9.578105926513672
+        },
+        "735": {
+            "total packets": 235,
+            "total times": 45.99794244766235,
+            "load time": 1.0750789642333984
+        },
+        "783": {
+            "total packets": 173,
+            "total times": 47.376800775527954,
+            "load time": 2.289982557296753
+        },
+        "831": {
+            "total packets": 202,
+            "total times": 46.05333924293518,
+            "load time": 1.089482307434082
+        },
+        "879": {
+            "total packets": 264,
+            "total times": 48.58925151824951,
+            "load time": 3.486609935760498
+        },
+        "927": {
+            "total packets": 61,
+            "total times": 15.578100204467773,
+            "load time": -28.292927503585815
+        }
+    },
+    "https://www.youtube.com/watch?v=RrlJYR4Vd6g": {
+        "16": {
+            "total packets": 41,
+            "total times": 9.009716272354126,
+            "load time": -17.92659854888916
+        },
+        "64": {
+            "total packets": 240,
+            "total times": 33.54750895500183,
+            "load time": 4.340158939361572
+        },
+        "112": {
+            "total packets": 218,
+            "total times": 31.275132179260254,
+            "load time": 2.3264527320861816
+        },
+        "160": {
+            "total packets": 252,
+            "total times": 34.06607389450073,
+            "load time": 4.686500072479248
+        },
+        "208": {
+            "total packets": 178,
+            "total times": 29.843538522720337,
+            "load time": 0.6431317329406738
+        },
+        "256": {
+            "total packets": 56,
+            "total times": 12.974468469619751,
+            "load time": -14.558026313781738
+        },
+        "304": {
+            "total packets": 187,
+            "total times": 30.21040415763855,
+            "load time": 1.3125102519989014
+        },
+        "352": {
+            "total packets": 216,
+            "total times": 30.30020523071289,
+            "load time": 1.3554601669311523
+        },
+        "400": {
+            "total packets": 215,
+            "total times": 29.836971282958984,
+            "load time": 0.5131831169128418
+        },
+        "448": {
+            "total packets": 208,
+            "total times": 34.23357939720154,
+            "load time": 5.325355291366577
+        },
+        "496": {
+            "total packets": 207,
+            "total times": 30.28528118133545,
+            "load time": 1.3472144603729248
+        },
+        "544": {
+            "total packets": 280,
+            "total times": 33.88968467712402,
+            "load time": 4.8454062938690186
+        },
+        "592": {
+            "total packets": 171,
+            "total times": 29.86337661743164,
+            "load time": 0.6127028465270996
+        },
+        "640": {
+            "total packets": 216,
+            "total times": 29.837161779403687,
+            "load time": 0.5594282150268555
+        },
+        "688": {
+            "total packets": 42,
+            "total times": 17.605852365493774,
+            "load time": -10.122333526611328
+        },
+        "736": {
+            "total packets": 259,
+            "total times": 31.217811346054077,
+            "load time": 1.8829281330108643
+        },
+        "784": {
+            "total packets": 219,
+            "total times": 32.683608293533325,
+            "load time": 3.788503885269165
+        },
+        "832": {
+            "total packets": 220,
+            "total times": 36.142539978027344,
+            "load time": 6.865998983383179
+        },
+        "880": {
+            "total packets": 209,
+            "total times": 29.800512552261353,
+            "load time": 1.7050402164459229
+        },
+        "928": {
+            "total packets": 37,
+            "total times": 2.335193395614624,
+            "load time": -24.916930437088013
+        }
+    },
+    "https://www.youtube.com/watch?v=mEe9h4qr1-0": {
+        "17": {
+            "total packets": 74,
+            "total times": 29.25312113761902,
+            "load time": -17.33554768562317
+        },
+        "65": {
+            "total packets": 210,
+            "total times": 60.020163774490356,
+            "load time": 0.8919248580932617
+        },
+        "113": {
+            "total packets": 238,
+            "total times": 60.0886116027832,
+            "load time": 0.5110127925872803
+        },
+        "161": {
+            "total packets": 196,
+            "total times": 59.85321116447449,
+            "load time": 0.32695698738098145
+        },
+        "209": {
+            "total packets": 234,
+            "total times": 60.31237721443176,
+            "load time": 1.238828420639038
+        },
+        "257": {
+            "total packets": 55,
+            "total times": 15.007542610168457,
+            "load time": -27.440314054489136
+        },
+        "305": {
+            "total packets": 239,
+            "total times": 60.4012610912323,
+            "load time": 0.7851352691650391
+        },
+        "353": {
+            "total packets": 240,
+            "total times": 60.21984648704529,
+            "load time": 1.1868579387664795
+        },
+        "401": {
+            "total packets": 241,
+            "total times": 60.672791719436646,
+            "load time": 1.5814399719238281
+        },
+        "449": {
+            "total packets": 214,
+            "total times": 61.127543449401855,
+            "load time": 1.4444563388824463
+        },
+        "497": {
+            "total packets": 204,
+            "total times": 59.88293147087097,
+            "load time": 0.3660871982574463
+        },
+        "545": {
+            "total packets": 231,
+            "total times": 63.47673058509827,
+            "load time": 4.160603761672974
+        },
+        "593": {
+            "total packets": 218,
+            "total times": 47.86545467376709,
+            "load time": 0.8836143016815186
+        },
+        "641": {
+            "total packets": 284,
+            "total times": 60.55719876289368,
+            "load time": 1.3520739078521729
+        },
+        "689": {
+            "total packets": 73,
+            "total times": 30.280749797821045,
+            "load time": -19.04529571533203
+        },
+        "737": {
+            "total packets": 247,
+            "total times": 59.901673316955566,
+            "load time": 0.3803868293762207
+        },
+        "785": {
+            "total packets": 204,
+            "total times": 40.19329023361206,
+            "load time": 1.3810429573059082
+        },
+        "833": {
+            "total packets": 227,
+            "total times": 59.881829261779785,
+            "load time": 0.36221909523010254
+        },
+        "881": {
+            "total packets": 293,
+            "total times": 60.786847829818726,
+            "load time": 1.2548737525939941
+        },
+        "929": {
+            "total packets": 55,
+            "total times": 9.326327085494995,
+            "load time": -23.369946002960205
+        }
+    },
+    "https://www.youtube.com/watch?v=l8qLwdK8Zd0": {
+        "18": {
+            "total packets": 429,
+            "total times": 215.49320149421692,
+            "load time": 1.0614335536956787
+        },
+        "66": {
+            "total packets": 434,
+            "total times": 215.9525272846222,
+            "load time": 1.3182322978973389
+        },
+        "114": {
+            "total packets": 402,
+            "total times": 177.03677773475647,
+            "load time": 0.5562677383422852
+        },
+        "162": {
+            "total packets": 463,
+            "total times": 216.04538130760193,
+            "load time": 1.1666460037231445
+        },
+        "210": {
+            "total packets": 446,
+            "total times": 215.84584975242615,
+            "load time": 1.4428479671478271
+        },
+        "258": {
+            "total packets": 215,
+            "total times": 204.58004307746887,
+            "load time": -9.88121223449707
+        },
+        "306": {
+            "total packets": 411,
+            "total times": 215.3551263809204,
+            "load time": 0.6568412780761719
+        },
+        "354": {
+            "total packets": 449,
+            "total times": 218.26114153862,
+            "load time": 3.508795738220215
+        },
+        "402": {
+            "total packets": 415,
+            "total times": 215.7072422504425,
+            "load time": 0.9957849979400635
+        },
+        "450": {
+            "total packets": 478,
+            "total times": 215.57217836380005,
+            "load time": 0.5707042217254639
+        },
+        "498": {
+            "total packets": 474,
+            "total times": 215.99977707862854,
+            "load time": 1.3470067977905273
+        },
+        "546": {
+            "total packets": 473,
+            "total times": 216.8702154159546,
+            "load time": 1.8744900226593018
+        },
+        "594": {
+            "total packets": 500,
+            "total times": 220.4245240688324,
+            "load time": 6.636620759963989
+        },
+        "642": {
+            "total packets": 406,
+            "total times": 216.02661895751953,
+            "load time": 1.3109209537506104
+        },
+        "690": {
+            "total packets": 262,
+            "total times": 186.48025178909302,
+            "load time": -28.525346279144287
+        },
+        "738": {
+            "total packets": 495,
+            "total times": 216.1933078765869,
+            "load time": 1.8476195335388184
+        },
+        "786": {
+            "total packets": 464,
+            "total times": 216.0780758857727,
+            "load time": 1.4204692840576172
+        },
+        "834": {
+            "total packets": 434,
+            "total times": 216.74039387702942,
+            "load time": 2.0858049392700195
+        },
+        "882": {
+            "total packets": 426,
+            "total times": 217.7028787136078,
+            "load time": 3.9681785106658936
+        },
+        "930": {
+            "total packets": 290,
+            "total times": 197.17717909812927,
+            "load time": -17.690064907073975
+        }
+    },
+    "https://www.youtube.com/watch?v=WIS3RTFo4L8": {
+        "19": {
+            "total packets": 179,
+            "total times": 19.630013704299927,
+            "load time": 1.5019207000732422
+        },
+        "67": {
+            "total packets": 198,
+            "total times": 25.399874687194824,
+            "load time": 6.73996376991272
+        },
+        "115": {
+            "total packets": 23,
+            "total times": 0.09567427635192871,
+            "load time": -15.083706617355347
+        },
+        "163": {
+            "total packets": 20,
+            "total times": 0.08331584930419922,
+            "load time": -15.918137550354004
+        },
+        "211": {
+            "total packets": 23,
+            "total times": 0.10708355903625488,
+            "load time": -16.9732825756073
+        },
+        "259": {
+            "total packets": 192,
+            "total times": 19.721856594085693,
+            "load time": 1.4928152561187744
+        },
+        "307": {
+            "total packets": 184,
+            "total times": 19.64115810394287,
+            "load time": 1.5324971675872803
+        },
+        "355": {
+            "total packets": 240,
+            "total times": 25.6548752784729,
+            "load time": 6.998037576675415
+        },
+        "403": {
+            "total packets": 180,
+            "total times": 20.489551067352295,
+            "load time": 1.9439847469329834
+        },
+        "451": {
+            "total packets": 208,
+            "total times": 19.553784370422363,
+            "load time": 1.449049949645996
+        },
+        "499": {
+            "total packets": 157,
+            "total times": 20.225204467773438,
+            "load time": 1.7013328075408936
+        },
+        "595": {
+            "total packets": 167,
+            "total times": 20.214836835861206,
+            "load time": 1.6508636474609375
+        },
+        "643": {
+            "total packets": 192,
+            "total times": 19.72309899330139,
+            "load time": 1.4887232780456543
+        },
+        "691": {
+            "total packets": 180,
+            "total times": 25.364697694778442,
+            "load time": 7.282695293426514
+        },
+        "739": {
+            "total packets": 173,
+            "total times": 19.41183614730835,
+            "load time": 1.1641044616699219
+        },
+        "787": {
+            "total packets": 164,
+            "total times": 19.731054544448853,
+            "load time": 1.407158613204956
+        },
+        "835": {
+            "total packets": 197,
+            "total times": 22.48356318473816,
+            "load time": 5.634700059890747
+        },
+        "883": {
+            "total packets": 181,
+            "total times": 20.409669399261475,
+            "load time": 1.7278382778167725
+        },
+        "931": {
+            "total packets": 165,
+            "total times": 23.728113174438477,
+            "load time": 5.298117399215698
+        }
+    },
+    "https://www.youtube.com/watch?v=X3HZEQb_FpM": {
+        "20": {
+            "total packets": 129,
+            "total times": 15.768856525421143,
+            "load time": 1.1415321826934814
+        },
+        "68": {
+            "total packets": 114,
+            "total times": 15.822625875473022,
+            "load time": 1.2304179668426514
+        },
+        "260": {
+            "total packets": 129,
+            "total times": 15.705096960067749,
+            "load time": 0.9385089874267578
+        },
+        "308": {
+            "total packets": 126,
+            "total times": 15.453022718429565,
+            "load time": 0.5260682106018066
+        },
+        "356": {
+            "total packets": 128,
+            "total times": 15.741321802139282,
+            "load time": 1.1536829471588135
+        },
+        "404": {
+            "total packets": 137,
+            "total times": 15.835736274719238,
+            "load time": 1.4197046756744385
+        },
+        "452": {
+            "total packets": 135,
+            "total times": 15.37480902671814,
+            "load time": 0.5800907611846924
+        },
+        "500": {
+            "total packets": 148,
+            "total times": 15.72032642364502,
+            "load time": 1.1601459980010986
+        },
+        "596": {
+            "total packets": 163,
+            "total times": 15.443368911743164,
+            "load time": 0.5526354312896729
+        },
+        "644": {
+            "total packets": 129,
+            "total times": 15.727685689926147,
+            "load time": 1.2036430835723877
+        },
+        "692": {
+            "total packets": 169,
+            "total times": 15.773103475570679,
+            "load time": 0.7419435977935791
+        },
+        "740": {
+            "total packets": 132,
+            "total times": 15.441179037094116,
+            "load time": 0.3457202911376953
+        },
+        "788": {
+            "total packets": 136,
+            "total times": 15.786193370819092,
+            "load time": 1.3027255535125732
+        },
+        "836": {
+            "total packets": 134,
+            "total times": 15.480048656463623,
+            "load time": 0.9112148284912109
+        },
+        "884": {
+            "total packets": 135,
+            "total times": 15.868292808532715,
+            "load time": 1.3791539669036865
+        },
+        "932": {
+            "total packets": 140,
+            "total times": 15.44135570526123,
+            "load time": 0.5109736919403076
+        }
+    },
+    "https://www.youtube.com/watch?v=jx_JV8A_6Nc": {
+        "21": {
+            "total packets": 1002,
+            "total times": 250.90462803840637,
+            "load time": 73.65867280960083
+        },
+        "69": {
+            "total packets": 933,
+            "total times": 270.03380966186523,
+            "load time": 77.04716610908508
+        },
+        "117": {
+            "total packets": 166,
+            "total times": 188.63370060920715,
+            "load time": 36.23762583732605
+        },
+        "165": {
+            "total packets": 856,
+            "total times": 642.2536404132843,
+            "load time": 137.56565165519714
+        },
+        "213": {
+            "total packets": 860,
+            "total times": 567.9129247665405,
+            "load time": 63.18092107772827
+        },
+        "261": {
+            "total packets": 899,
+            "total times": 235.1606366634369,
+            "load time": 57.92744326591492
+        },
+        "309": {
+            "total packets": 364,
+            "total times": 180.82803010940552,
+            "load time": 3.770271062850952
+        },
+        "357": {
+            "total packets": 789,
+            "total times": 234.29725003242493,
+            "load time": 57.05998921394348
+        },
+        "405": {
+            "total packets": 973,
+            "total times": 342.61076402664185,
+            "load time": 170.3729202747345
+        },
+        "453": {
+            "total packets": 734,
+            "total times": 222.14406394958496,
+            "load time": 44.89589595794678
+        },
+        "501": {
+            "total packets": 1094,
+            "total times": 360.8400225639343,
+            "load time": 168.00167107582092
+        },
+        "549": {
+            "total packets": 170,
+            "total times": 180.4235999584198,
+            "load time": 7.968804121017456
+        },
+        "597": {
+            "total packets": 742,
+            "total times": 221.53213167190552,
+            "load time": 44.45387101173401
+        },
+        "645": {
+            "total packets": 1599,
+            "total times": 201.82237148284912,
+            "load time": 24.694891929626465
+        },
+        "693": {
+            "total packets": 761,
+            "total times": 220.87367033958435,
+            "load time": 43.66524887084961
+        },
+        "741": {
+            "total packets": 361,
+            "total times": 178.17239427566528,
+            "load time": 1.3580505847930908
+        },
+        "789": {
+            "total packets": 950,
+            "total times": 260.40606904029846,
+            "load time": 1.3823115825653076
+        },
+        "837": {
+            "total packets": 749,
+            "total times": 239.07608366012573,
+            "load time": 1.2987914085388184
+        },
+        "885": {
+            "total packets": 880,
+            "total times": 224.8980851173401,
+            "load time": 47.83424520492554
+        },
+        "933": {
+            "total packets": 1033,
+            "total times": 345.77153491973877,
+            "load time": 168.57083582878113
+        }
+    },
+    "https://www.youtube.com/watch?v=CZLPiT6d2z8": {
+        "22": {
+            "total packets": 579,
+            "total times": 170.34602212905884,
+            "load time": 135.81036615371704
+        },
+        "70": {
+            "total packets": 343,
+            "total times": 80.15458655357361,
+            "load time": 4.008627653121948
+        },
+        "118": {
+            "total packets": 764,
+            "total times": 235.94132685661316,
+            "load time": 143.88635540008545
+        },
+        "166": {
+            "total packets": 468,
+            "total times": 96.0375030040741,
+            "load time": 19.947630167007446
+        },
+        "214": {
+            "total packets": 428,
+            "total times": 84.78387451171875,
+            "load time": 8.417154788970947
+        },
+        "262": {
+            "total packets": 481,
+            "total times": 94.35374546051025,
+            "load time": 17.92778515815735
+        },
+        "310": {
+            "total packets": 465,
+            "total times": 93.31163382530212,
+            "load time": 16.945447206497192
+        },
+        "358": {
+            "total packets": 413,
+            "total times": 83.40841460227966,
+            "load time": 7.153744459152222
+        },
+        "406": {
+            "total packets": 436,
+            "total times": 93.08254027366638,
+            "load time": 16.785346269607544
+        },
+        "454": {
+            "total packets": 766,
+            "total times": 217.6103172302246,
+            "load time": 134.60828685760498
+        },
+        "502": {
+            "total packets": 843,
+            "total times": 229.79769921302795,
+            "load time": 137.73679852485657
+        },
+        "550": {
+            "total packets": 167,
+            "total times": 180.53258275985718,
+            "load time": 110.47670459747314
+        },
+        "598": {
+            "total packets": 795,
+            "total times": 216.665118932724,
+            "load time": 133.55885195732117
+        },
+        "646": {
+            "total packets": 1061,
+            "total times": 234.40331935882568,
+            "load time": 142.30639386177063
+        },
+        "694": {
+            "total packets": 863,
+            "total times": 233.35798907279968,
+            "load time": 141.31675457954407
+        },
+        "742": {
+            "total packets": 811,
+            "total times": 224.75640487670898,
+            "load time": 141.7824478149414
+        },
+        "790": {
+            "total packets": 292,
+            "total times": 80.22429847717285,
+            "load time": 5.368884801864624
+        },
+        "838": {
+            "total packets": 273,
+            "total times": 74.76756072044373,
+            "load time": 2.8054168224334717
+        },
+        "886": {
+            "total packets": 572,
+            "total times": 143.21776032447815,
+            "load time": 66.74921011924744
+        },
+        "934": {
+            "total packets": 583,
+            "total times": 115.25891399383545,
+            "load time": 38.86096525192261
+        }
+    },
+    "https://www.youtube.com/watch?v=H9mLASxQ2jk": {
+        "23": {
+            "total packets": 313,
+            "total times": 98.51951432228088,
+            "load time": 1.386817216873169
+        },
+        "71": {
+            "total packets": 652,
+            "total times": 224.95492577552795,
+            "load time": 1.1392161846160889
+        },
+        "119": {
+            "total packets": 347,
+            "total times": 100.42342686653137,
+            "load time": 2.95272159576416
+        },
+        "167": {
+            "total packets": 502,
+            "total times": 114.00361251831055,
+            "load time": 1.1692109107971191
+        },
+        "215": {
+            "total packets": 289,
+            "total times": 97.97420239448547,
+            "load time": 0.8813385963439941
+        },
+        "263": {
+            "total packets": 505,
+            "total times": 124.84605288505554,
+            "load time": 4.885446786880493
+        },
+        "311": {
+            "total packets": 535,
+            "total times": 127.94558191299438,
+            "load time": 7.933355808258057
+        },
+        "359": {
+            "total packets": 291,
+            "total times": 102.47101163864136,
+            "load time": 5.366340398788452
+        },
+        "407": {
+            "total packets": 550,
+            "total times": 114.04329419136047,
+            "load time": 1.4002931118011475
+        },
+        "455": {
+            "total packets": 480,
+            "total times": 114.56089425086975,
+            "load time": 16.965060710906982
+        },
+        "503": {
+            "total packets": 541,
+            "total times": 119.48330354690552,
+            "load time": 21.95380687713623
+        },
+        "551": {
+            "total packets": 134,
+            "total times": 120.40317296981812,
+            "load time": 25.659982919692993
+        },
+        "599": {
+            "total packets": 599,
+            "total times": 121.65897059440613,
+            "load time": 24.10064435005188
+        },
+        "647": {
+            "total packets": 457,
+            "total times": 105.76997900009155,
+            "load time": 8.2041015625
+        },
+        "695": {
+            "total packets": 344,
+            "total times": 103.75381970405579,
+            "load time": 6.3752617835998535
+        },
+        "743": {
+            "total packets": 329,
+            "total times": 103.30381727218628,
+            "load time": 6.5405049324035645
+        },
+        "791": {
+            "total packets": 1245,
+            "total times": 116.08021950721741,
+            "load time": 2.8104043006896973
+        },
+        "839": {
+            "total packets": 560,
+            "total times": 127.05834794044495,
+            "load time": 7.247402191162109
+        },
+        "887": {
+            "total packets": 606,
+            "total times": 158.9961929321289,
+            "load time": 1.2304508686065674
+        },
+        "935": {
+            "total packets": 535,
+            "total times": 115.59642052650452,
+            "load time": 7.597585678100586
+        }
+    },
+    "https://www.youtube.com/watch?v=RVINrehtPec": {
+        "24": {
+            "total packets": 156,
+            "total times": 21.368332147598267,
+            "load time": 0.8956990242004395
+        },
+        "72": {
+            "total packets": 175,
+            "total times": 21.97082209587097,
+            "load time": 1.5831654071807861
+        },
+        "120": {
+            "total packets": 185,
+            "total times": 22.827298879623413,
+            "load time": 2.325820207595825
+        },
+        "168": {
+            "total packets": 220,
+            "total times": 22.41305899620056,
+            "load time": 1.807023525238037
+        },
+        "216": {
+            "total packets": 189,
+            "total times": 14.7141854763031,
+            "load time": 1.4167559146881104
+        },
+        "264": {
+            "total packets": 187,
+            "total times": 23.862687349319458,
+            "load time": 4.371917963027954
+        },
+        "312": {
+            "total packets": 179,
+            "total times": 23.427955150604248,
+            "load time": 3.7182486057281494
+        },
+        "360": {
+            "total packets": 187,
+            "total times": 21.82931351661682,
+            "load time": 1.3479750156402588
+        },
+        "408": {
+            "total packets": 172,
+            "total times": 21.277581691741943,
+            "load time": 1.2469828128814697
+        },
+        "456": {
+            "total packets": 162,
+            "total times": 21.791218757629395,
+            "load time": 1.2856833934783936
+        },
+        "504": {
+            "total packets": 185,
+            "total times": 21.880622386932373,
+            "load time": 1.319779634475708
+        },
+        "552": {
+            "total packets": 21,
+            "total times": 0.08382034301757812,
+            "load time": -19.176359176635742
+        },
+        "600": {
+            "total packets": 198,
+            "total times": 25.095695734024048,
+            "load time": 4.068828344345093
+        },
+        "648": {
+            "total packets": 172,
+            "total times": 21.402830839157104,
+            "load time": 0.8296730518341064
+        },
+        "696": {
+            "total packets": 178,
+            "total times": 21.62882900238037,
+            "load time": 1.1377887725830078
+        },
+        "744": {
+            "total packets": 224,
+            "total times": 29.845425605773926,
+            "load time": 8.739199876785278
+        },
+        "792": {
+            "total packets": 165,
+            "total times": 21.500136137008667,
+            "load time": 0.6742494106292725
+        },
+        "840": {
+            "total packets": 163,
+            "total times": 24.81275248527527,
+            "load time": 6.320012092590332
+        },
+        "888": {
+            "total packets": 188,
+            "total times": 21.864615201950073,
+            "load time": 1.3898382186889648
+        },
+        "936": {
+            "total packets": 216,
+            "total times": 19.8921320438385,
+            "load time": 5.90946888923645
+        }
+    },
+    "https://www.youtube.com/watch?v=xcRzu_IjOd4": {
+        "25": {
+            "total packets": 113,
+            "total times": 6.476480722427368,
+            "load time": 1.1742959022521973
+        },
+        "73": {
+            "total packets": 87,
+            "total times": 5.772846460342407,
+            "load time": 0.22860431671142578
+        },
+        "121": {
+            "total packets": 107,
+            "total times": 6.405091285705566,
+            "load time": 0.7980053424835205
+        },
+        "169": {
+            "total packets": 78,
+            "total times": 5.829354763031006,
+            "load time": 0.4727780818939209
+        },
+        "217": {
+            "total packets": 83,
+            "total times": 4.7701098918914795,
+            "load time": 0.22342252731323242
+        },
+        "265": {
+            "total packets": 108,
+            "total times": 6.2094151973724365,
+            "load time": 0.6032767295837402
+        },
+        "313": {
+            "total packets": 115,
+            "total times": 5.791138410568237,
+            "load time": 0.5795280933380127
+        },
+        "361": {
+            "total packets": 79,
+            "total times": 5.045491456985474,
+            "load time": 0.5581116676330566
+        },
+        "409": {
+            "total packets": 105,
+            "total times": 5.804690361022949,
+            "load time": 0.4953501224517822
+        },
+        "457": {
+            "total packets": 80,
+            "total times": 5.875645875930786,
+            "load time": 0.4564785957336426
+        },
+        "505": {
+            "total packets": 117,
+            "total times": 7.236291885375977,
+            "load time": 2.0034072399139404
+        },
+        "553": {},
+        "601": {
+            "total packets": 154,
+            "total times": 7.64112114906311,
+            "load time": 2.2430479526519775
+        },
+        "649": {
+            "total packets": 85,
+            "total times": 8.013319730758667,
+            "load time": 2.857039213180542
+        },
+        "697": {
+            "total packets": 94,
+            "total times": 5.836660861968994,
+            "load time": 0.2262578010559082
+        },
+        "745": {
+            "total packets": 91,
+            "total times": 5.876322031021118,
+            "load time": 0.5219039916992188
+        },
+        "793": {
+            "total packets": 146,
+            "total times": 7.861171245574951,
+            "load time": 2.5208740234375
+        },
+        "841": {
+            "total packets": 127,
+            "total times": 6.27724552154541,
+            "load time": 1.8069074153900146
+        },
+        "889": {
+            "total packets": 104,
+            "total times": 7.354011058807373,
+            "load time": 2.4763009548187256
+        },
+        "937": {
+            "total packets": 83,
+            "total times": 5.521307706832886,
+            "load time": 0.4708280563354492
+        }
+    },
+    "https://www.youtube.com/watch?v=-J9ggxXuH38": {
+        "26": {
+            "total packets": 192,
+            "total times": 31.02532958984375,
+            "load time": 0.8783109188079834
+        },
+        "74": {
+            "total packets": 204,
+            "total times": 36.49613547325134,
+            "load time": 6.502198696136475
+        },
+        "122": {
+            "total packets": 189,
+            "total times": 31.088164806365967,
+            "load time": 0.7708494663238525
+        },
+        "170": {
+            "total packets": 218,
+            "total times": 31.218903064727783,
+            "load time": 0.5744435787200928
+        },
+        "218": {
+            "total packets": 218,
+            "total times": 31.270076036453247,
+            "load time": 0.8645250797271729
+        },
+        "266": {
+            "total packets": 215,
+            "total times": 31.763229608535767,
+            "load time": 1.1154704093933105
+        },
+        "314": {
+            "total packets": 187,
+            "total times": 31.0966477394104,
+            "load time": 0.99322509765625
+        },
+        "362": {
+            "total packets": 203,
+            "total times": 31.910794734954834,
+            "load time": 1.156022071838379
+        },
+        "410": {
+            "total packets": 176,
+            "total times": 31.15253448486328,
+            "load time": 0.6285202503204346
+        },
+        "458": {
+            "total packets": 203,
+            "total times": 31.18459177017212,
+            "load time": 0.6483044624328613
+        },
+        "506": {
+            "total packets": 174,
+            "total times": 31.15139150619507,
+            "load time": 0.6039083003997803
+        },
+        "554": {
+            "total packets": 43,
+            "total times": 12.781264543533325,
+            "load time": -17.562521934509277
+        },
+        "602": {
+            "total packets": 224,
+            "total times": 32.28391122817993,
+            "load time": 2.025273561477661
+        },
+        "650": {
+            "total packets": 313,
+            "total times": 33.008429765701294,
+            "load time": 2.60438871383667
+        },
+        "698": {
+            "total packets": 189,
+            "total times": 31.424500226974487,
+            "load time": 1.259204626083374
+        },
+        "746": {
+            "total packets": 213,
+            "total times": 32.763680934906006,
+            "load time": 2.497445821762085
+        },
+        "794": {
+            "total packets": 165,
+            "total times": 31.12172508239746,
+            "load time": 0.7606649398803711
+        },
+        "842": {
+            "total packets": 186,
+            "total times": 30.97488307952881,
+            "load time": 0.34233903884887695
+        },
+        "890": {
+            "total packets": 168,
+            "total times": 30.856929063796997,
+            "load time": 0.5961277484893799
+        },
+        "938": {
+            "total packets": 176,
+            "total times": 31.53532385826111,
+            "load time": 1.371894121170044
+        }
+    },
+    "https://www.youtube.com/watch?v=7k-Aa_g6IRc": {
+        "27": {
+            "total packets": 57,
+            "total times": 20.60961675643921,
+            "load time": -28.043633937835693
+        },
+        "75": {
+            "total packets": 292,
+            "total times": 92.00033712387085,
+            "load time": 0.7589740753173828
+        },
+        "123": {
+            "total packets": 268,
+            "total times": 72.76020574569702,
+            "load time": 1.4804556369781494
+        },
+        "171": {
+            "total packets": 217,
+            "total times": 68.40788960456848,
+            "load time": 0.6648125648498535
+        },
+        "219": {
+            "total packets": 262,
+            "total times": 92.27711319923401,
+            "load time": 1.1907131671905518
+        },
+        "267": {
+            "total packets": 237,
+            "total times": 93.03856182098389,
+            "load time": 1.8423521518707275
+        },
+        "315": {
+            "total packets": 256,
+            "total times": 91.97370958328247,
+            "load time": 0.5426692962646484
+        },
+        "363": {
+            "total packets": 277,
+            "total times": 93.90778613090515,
+            "load time": 2.965343713760376
+        },
+        "411": {
+            "total packets": 248,
+            "total times": 91.93833661079407,
+            "load time": 0.5211927890777588
+        },
+        "459": {
+            "total packets": 254,
+            "total times": 91.98900556564331,
+            "load time": 0.6871621608734131
+        },
+        "507": {
+            "total packets": 211,
+            "total times": 92.13186955451965,
+            "load time": 1.0386979579925537
+        },
+        "555": {
+            "total packets": 101,
+            "total times": 63.701162576675415,
+            "load time": -27.33842444419861
+        },
+        "603": {
+            "total packets": 252,
+            "total times": 92.01902222633362,
+            "load time": 0.9510948657989502
+        },
+        "651": {
+            "total packets": 255,
+            "total times": 93.03629875183105,
+            "load time": 1.54789137840271
+        },
+        "699": {
+            "total packets": 269,
+            "total times": 92.18837857246399,
+            "load time": 1.1354222297668457
+        },
+        "747": {
+            "total packets": 281,
+            "total times": 92.43928360939026,
+            "load time": 1.3751051425933838
+        },
+        "795": {
+            "total packets": 273,
+            "total times": 91.89685821533203,
+            "load time": 0.5263819694519043
+        },
+        "843": {
+            "total packets": 289,
+            "total times": 92.89945363998413,
+            "load time": 1.5144150257110596
+        },
+        "891": {
+            "total packets": 266,
+            "total times": 79.89784955978394,
+            "load time": 0.5166168212890625
+        },
+        "939": {
+            "total packets": 259,
+            "total times": 93.46338605880737,
+            "load time": 2.4342541694641113
+        }
+    },
+    "https://www.youtube.com/watch?v=as1nJPVmreo": {
+        "28": {
+            "total packets": 32,
+            "total times": 4.073308944702148,
+            "load time": -28.116522550582886
+        },
+        "76": {
+            "total packets": 209,
+            "total times": 34.437599182128906,
+            "load time": 5.527092456817627
+        },
+        "124": {
+            "total packets": 227,
+            "total times": 39.91694498062134,
+            "load time": 6.582902908325195
+        },
+        "172": {
+            "total packets": 234,
+            "total times": 33.33356952667236,
+            "load time": 1.066195011138916
+        },
+        "220": {
+            "total packets": 218,
+            "total times": 34.24374866485596,
+            "load time": 1.0261962413787842
+        },
+        "268": {
+            "total packets": 236,
+            "total times": 34.77713179588318,
+            "load time": 2.2436203956604004
+        },
+        "316": {
+            "total packets": 224,
+            "total times": 33.946335315704346,
+            "load time": 0.5466420650482178
+        },
+        "364": {
+            "total packets": 220,
+            "total times": 34.307801246643066,
+            "load time": 1.432478666305542
+        },
+        "412": {
+            "total packets": 237,
+            "total times": 34.0453565120697,
+            "load time": 0.9041705131530762
+        },
+        "460": {
+            "total packets": 228,
+            "total times": 36.8416633605957,
+            "load time": 3.840765953063965
+        },
+        "508": {
+            "total packets": 202,
+            "total times": 38.156787633895874,
+            "load time": 4.9205591678619385
+        },
+        "556": {
+            "total packets": 237,
+            "total times": 33.891937017440796,
+            "load time": 0.5170791149139404
+        },
+        "604": {
+            "total packets": 202,
+            "total times": 34.36762523651123,
+            "load time": 1.4119322299957275
+        },
+        "652": {
+            "total packets": 196,
+            "total times": 34.36611032485962,
+            "load time": 1.2253894805908203
+        },
+        "700": {
+            "total packets": 239,
+            "total times": 34.34951734542847,
+            "load time": 1.3339385986328125
+        },
+        "748": {
+            "total packets": 201,
+            "total times": 34.30560851097107,
+            "load time": 1.3910603523254395
+        },
+        "796": {
+            "total packets": 206,
+            "total times": 38.37964057922363,
+            "load time": 5.064431667327881
+        },
+        "844": {
+            "total packets": 254,
+            "total times": 33.89974546432495,
+            "load time": 0.5174868106842041
+        },
+        "892": {
+            "total packets": 221,
+            "total times": 33.89727544784546,
+            "load time": 0.3509547710418701
+        },
+        "940": {
+            "total packets": 273,
+            "total times": 34.281636476516724,
+            "load time": 1.6599547863006592
+        }
+    },
+    "https://www.youtube.com/watch?v=RMZfVW1a-F0": {
+        "29": {
+            "total packets": 563,
+            "total times": 169.84266781806946,
+            "load time": 114.96399188041687
+        },
+        "77": {
+            "total packets": 407,
+            "total times": 86.15551280975342,
+            "load time": 31.130292654037476
+        },
+        "125": {
+            "total packets": 385,
+            "total times": 87.61324310302734,
+            "load time": 32.65609431266785
+        },
+        "173": {
+            "total packets": 376,
+            "total times": 68.72826194763184,
+            "load time": 19.745839834213257
+        },
+        "221": {
+            "total packets": 385,
+            "total times": 79.58748006820679,
+            "load time": 24.763179540634155
+        },
+        "269": {
+            "total packets": 376,
+            "total times": 89.15508913993835,
+            "load time": 34.39115810394287
+        },
+        "317": {
+            "total packets": 382,
+            "total times": 76.93661594390869,
+            "load time": 26.57940983772278
+        },
+        "365": {
+            "total packets": 342,
+            "total times": 72.22254991531372,
+            "load time": 17.415679693222046
+        },
+        "413": {
+            "total packets": 369,
+            "total times": 76.23302340507507,
+            "load time": 21.327106714248657
+        },
+        "461": {
+            "total packets": 329,
+            "total times": 71.25081133842468,
+            "load time": 16.342118740081787
+        },
+        "509": {
+            "total packets": 337,
+            "total times": 73.62246608734131,
+            "load time": 18.718531608581543
+        },
+        "557": {
+            "total packets": 349,
+            "total times": 61.98219180107117,
+            "load time": 7.023247241973877
+        },
+        "605": {
+            "total packets": 387,
+            "total times": 72.39263772964478,
+            "load time": 17.58899235725403
+        },
+        "653": {
+            "total packets": 398,
+            "total times": 83.74417018890381,
+            "load time": 29.86119270324707
+        },
+        "701": {
+            "total packets": 328,
+            "total times": 51.74506068229675,
+            "load time": 7.889885425567627
+        },
+        "749": {
+            "total packets": 440,
+            "total times": 116.52443838119507,
+            "load time": 61.70104694366455
+        },
+        "797": {
+            "total packets": 391,
+            "total times": 62.4143168926239,
+            "load time": 7.45363974571228
+        },
+        "845": {
+            "total packets": 384,
+            "total times": 72.07041311264038,
+            "load time": 17.254448652267456
+        },
+        "893": {
+            "total packets": 400,
+            "total times": 87.26115489006042,
+            "load time": 32.3821234703064
+        },
+        "941": {
+            "total packets": 347,
+            "total times": 62.5398166179657,
+            "load time": 7.564773082733154
+        }
+    },
+    "https://www.youtube.com/watch?v=ph5u9eJnkA4": {
+        "30": {
+            "total packets": 574,
+            "total times": 154.82537174224854,
+            "load time": 1.3032946586608887
+        },
+        "78": {
+            "total packets": 650,
+            "total times": 156.12987852096558,
+            "load time": 2.6192407608032227
+        },
+        "126": {
+            "total packets": 577,
+            "total times": 141.20394849777222,
+            "load time": 5.9773969650268555
+        },
+        "174": {
+            "total packets": 602,
+            "total times": 144.00923371315002,
+            "load time": 3.9816315174102783
+        },
+        "222": {
+            "total packets": 592,
+            "total times": 138.62347745895386,
+            "load time": 0.5052530765533447
+        },
+        "270": {
+            "total packets": 590,
+            "total times": 137.92641067504883,
+            "load time": 1.2652182579040527
+        },
+        "318": {
+            "total packets": 637,
+            "total times": 139.42741179466248,
+            "load time": 1.2395923137664795
+        },
+        "366": {
+            "total packets": 606,
+            "total times": 139.4448311328888,
+            "load time": 1.017061710357666
+        },
+        "414": {
+            "total packets": 556,
+            "total times": 134.72308158874512,
+            "load time": 0.5623807907104492
+        },
+        "462": {
+            "total packets": 637,
+            "total times": 139.70092344284058,
+            "load time": 1.9425842761993408
+        },
+        "510": {
+            "total packets": 518,
+            "total times": 127.89531898498535,
+            "load time": 3.153995990753174
+        },
+        "558": {
+            "total packets": 340,
+            "total times": 120.42822217941284,
+            "load time": 2.2810356616973877
+        },
+        "606": {
+            "total packets": 539,
+            "total times": 131.29581665992737,
+            "load time": 2.4529170989990234
+        },
+        "654": {
+            "total packets": 515,
+            "total times": 134.80492043495178,
+            "load time": 6.151801109313965
+        },
+        "702": {
+            "total packets": 302,
+            "total times": 119.108323097229,
+            "load time": 0.5652422904968262
+        },
+        "750": {
+            "total packets": 529,
+            "total times": 135.07486367225647,
+            "load time": 1.2983171939849854
+        },
+        "798": {
+            "total packets": 322,
+            "total times": 123.24962735176086,
+            "load time": 7.163784503936768
+        },
+        "846": {
+            "total packets": 561,
+            "total times": 145.64040398597717,
+            "load time": 0.5342531204223633
+        },
+        "894": {
+            "total packets": 582,
+            "total times": 149.47160172462463,
+            "load time": 6.000061511993408
+        },
+        "942": {
+            "total packets": 365,
+            "total times": 119.74182343482971,
+            "load time": 1.228299856185913
+        }
+    },
+    "https://www.youtube.com/watch?v=WwUZJFV9vxM": {
+        "31": {
+            "total packets": 246,
+            "total times": 38.9528067111969,
+            "load time": 3.973846197128296
+        },
+        "79": {
+            "total packets": 251,
+            "total times": 49.44392514228821,
+            "load time": 4.976375102996826
+        },
+        "127": {
+            "total packets": 237,
+            "total times": 47.79439568519592,
+            "load time": 3.5634307861328125
+        },
+        "175": {
+            "total packets": 272,
+            "total times": 48.96479773521423,
+            "load time": 4.963630676269531
+        },
+        "223": {
+            "total packets": 233,
+            "total times": 47.77702498435974,
+            "load time": 3.658827543258667
+        },
+        "271": {
+            "total packets": 262,
+            "total times": 48.37229824066162,
+            "load time": 4.450144052505493
+        },
+        "319": {
+            "total packets": 200,
+            "total times": 47.77726101875305,
+            "load time": 4.303924083709717
+        },
+        "367": {
+            "total packets": 249,
+            "total times": 47.78135681152344,
+            "load time": 3.8641741275787354
+        },
+        "415": {
+            "total packets": 258,
+            "total times": 39.91092920303345,
+            "load time": 1.9696385860443115
+        },
+        "463": {
+            "total packets": 234,
+            "total times": 47.79741334915161,
+            "load time": 2.86985445022583
+        },
+        "511": {
+            "total packets": 267,
+            "total times": 52.21541666984558,
+            "load time": 6.957577466964722
+        },
+        "559": {
+            "total packets": 291,
+            "total times": 46.7307550907135,
+            "load time": 1.9505760669708252
+        },
+        "607": {
+            "total packets": 282,
+            "total times": 52.2143919467926,
+            "load time": 6.998024225234985
+        },
+        "655": {
+            "total packets": 330,
+            "total times": 47.161925315856934,
+            "load time": 2.133805751800537
+        },
+        "703": {
+            "total packets": 254,
+            "total times": 45.792176723480225,
+            "load time": 0.5231037139892578
+        },
+        "751": {
+            "total packets": 249,
+            "total times": 46.85261011123657,
+            "load time": 1.7314403057098389
+        },
+        "799": {
+            "total packets": 216,
+            "total times": 46.18217420578003,
+            "load time": 1.327575445175171
+        },
+        "847": {
+            "total packets": 242,
+            "total times": 46.8788104057312,
+            "load time": 1.6609704494476318
+        },
+        "895": {
+            "total packets": 276,
+            "total times": 47.78314208984375,
+            "load time": 4.023468494415283
+        },
+        "943": {
+            "total packets": 284,
+            "total times": 45.86117649078369,
+            "load time": 0.7668750286102295
+        }
+    },
+    "https://www.youtube.com/watch?v=FjNBhMrCj5s": {
+        "32": {
+            "total packets": 114,
+            "total times": 4.624056339263916,
+            "load time": 1.2459962368011475
+        },
+        "80": {
+            "total packets": 109,
+            "total times": 4.633361577987671,
+            "load time": 1.1392881870269775
+        },
+        "128": {
+            "total packets": 133,
+            "total times": 5.3693623542785645,
+            "load time": 1.6257164478302002
+        },
+        "176": {
+            "total packets": 110,
+            "total times": 4.198620796203613,
+            "load time": 0.4723837375640869
+        },
+        "224": {
+            "total packets": 130,
+            "total times": 8.533933639526367,
+            "load time": 4.589784383773804
+        },
+        "272": {
+            "total packets": 107,
+            "total times": 4.836808204650879,
+            "load time": 1.0177884101867676
+        },
+        "320": {
+            "total packets": 105,
+            "total times": 4.677573919296265,
+            "load time": 1.287787914276123
+        },
+        "368": {
+            "total packets": 113,
+            "total times": 4.307239532470703,
+            "load time": 0.7747344970703125
+        },
+        "416": {
+            "total packets": 105,
+            "total times": 4.290371656417847,
+            "load time": 0.6643331050872803
+        },
+        "464": {
+            "total packets": 128,
+            "total times": 4.263223648071289,
+            "load time": 0.5731229782104492
+        },
+        "512": {
+            "total packets": 105,
+            "total times": 4.256607294082642,
+            "load time": 0.45438599586486816
+        },
+        "560": {
+            "total packets": 145,
+            "total times": 4.592822313308716,
+            "load time": 1.2078883647918701
+        },
+        "608": {
+            "total packets": 127,
+            "total times": 5.3695151805877686,
+            "load time": 1.607511281967163
+        },
+        "656": {
+            "total packets": 134,
+            "total times": 8.316629409790039,
+            "load time": 4.470335960388184
+        },
+        "704": {
+            "total packets": 125,
+            "total times": 9.175498247146606,
+            "load time": 5.702610969543457
+        },
+        "752": {
+            "total packets": 131,
+            "total times": 9.931581735610962,
+            "load time": 6.181848764419556
+        },
+        "800": {
+            "total packets": 139,
+            "total times": 5.3986496925354,
+            "load time": 3.73891544342041
+        },
+        "848": {
+            "total packets": 146,
+            "total times": 5.287416219711304,
+            "load time": 1.4835021495819092
+        },
+        "896": {
+            "total packets": 117,
+            "total times": 4.247377157211304,
+            "load time": 0.7916238307952881
+        },
+        "944": {
+            "total packets": 136,
+            "total times": 4.210620403289795,
+            "load time": 0.5937211513519287
+        }
+    },
+    "https://www.youtube.com/watch?v=U9iFEUNKrlc": {
+        "33": {
+            "total packets": 105,
+            "total times": 6.6091930866241455,
+            "load time": 1.302206039428711
+        },
+        "81": {
+            "total packets": 106,
+            "total times": 6.3303282260894775,
+            "load time": 0.7422175407409668
+        },
+        "129": {
+            "total packets": 167,
+            "total times": 10.680960655212402,
+            "load time": 6.370398044586182
+        },
+        "177": {
+            "total packets": 138,
+            "total times": 6.731424808502197,
+            "load time": 1.425692081451416
+        },
+        "225": {
+            "total packets": 107,
+            "total times": 6.273428678512573,
+            "load time": 0.6391832828521729
+        },
+        "273": {
+            "total packets": 117,
+            "total times": 6.168378829956055,
+            "load time": 0.5005500316619873
+        },
+        "321": {
+            "total packets": 162,
+            "total times": 7.436345338821411,
+            "load time": 1.8965144157409668
+        },
+        "369": {
+            "total packets": 105,
+            "total times": 6.532238483428955,
+            "load time": 1.1633968353271484
+        },
+        "417": {
+            "total packets": 100,
+            "total times": 6.234202146530151,
+            "load time": 0.5493152141571045
+        },
+        "465": {
+            "total packets": 148,
+            "total times": 7.210581302642822,
+            "load time": 2.1123456954956055
+        },
+        "513": {
+            "total packets": 147,
+            "total times": 6.599579095840454,
+            "load time": 1.287447452545166
+        },
+        "561": {
+            "total packets": 167,
+            "total times": 8.27791428565979,
+            "load time": 2.7138617038726807
+        },
+        "609": {
+            "total packets": 156,
+            "total times": 8.294279336929321,
+            "load time": 2.529452323913574
+        },
+        "657": {
+            "total packets": 103,
+            "total times": 6.467188596725464,
+            "load time": 1.1693034172058105
+        },
+        "705": {
+            "total packets": 113,
+            "total times": 7.317464828491211,
+            "load time": 1.512221097946167
+        },
+        "753": {
+            "total packets": 85,
+            "total times": 6.525709867477417,
+            "load time": 1.229649305343628
+        },
+        "801": {
+            "total packets": 115,
+            "total times": 7.585598468780518,
+            "load time": 2.338193416595459
+        },
+        "849": {
+            "total packets": 158,
+            "total times": 6.472109317779541,
+            "load time": 0.8818111419677734
+        },
+        "897": {
+            "total packets": 132,
+            "total times": 7.691966533660889,
+            "load time": 1.887789249420166
+        },
+        "945": {
+            "total packets": 132,
+            "total times": 6.163389444351196,
+            "load time": 0.7400107383728027
+        }
+    },
+    "https://www.youtube.com/watch?v=20TGG6MJnTU": {
+        "34": {
+            "total packets": 134,
+            "total times": 13.69344449043274,
+            "load time": 0.7325611114501953
+        },
+        "82": {
+            "total packets": 122,
+            "total times": 8.957537412643433,
+            "load time": 2.361689329147339
+        },
+        "130": {
+            "total packets": 111,
+            "total times": 13.468127965927124,
+            "load time": 0.5586626529693604
+        },
+        "178": {
+            "total packets": 105,
+            "total times": 11.753164768218994,
+            "load time": 1.7930350303649902
+        },
+        "226": {
+            "total packets": 110,
+            "total times": 7.889885187149048,
+            "load time": 0.4948134422302246
+        },
+        "274": {
+            "total packets": 112,
+            "total times": 13.467637300491333,
+            "load time": 0.2170703411102295
+        },
+        "322": {
+            "total packets": 138,
+            "total times": 13.473194122314453,
+            "load time": 0.5522832870483398
+        },
+        "370": {
+            "total packets": 137,
+            "total times": 13.428160667419434,
+            "load time": 0.5296070575714111
+        },
+        "418": {
+            "total packets": 122,
+            "total times": 13.38083815574646,
+            "load time": 0.6072390079498291
+        },
+        "466": {
+            "total packets": 144,
+            "total times": 13.980713367462158,
+            "load time": 1.0615334510803223
+        },
+        "514": {
+            "total packets": 122,
+            "total times": 13.458983421325684,
+            "load time": 0.49527621269226074
+        },
+        "562": {
+            "total packets": 116,
+            "total times": 13.470638275146484,
+            "load time": 0.5492675304412842
+        },
+        "610": {
+            "total packets": 114,
+            "total times": 13.407010078430176,
+            "load time": 0.5182445049285889
+        },
+        "658": {
+            "total packets": 99,
+            "total times": 8.566587924957275,
+            "load time": 0.19103622436523438
+        },
+        "706": {
+            "total packets": 122,
+            "total times": 14.207777738571167,
+            "load time": 1.2890074253082275
+        },
+        "754": {
+            "total packets": 100,
+            "total times": 9.74988079071045,
+            "load time": 1.8398058414459229
+        },
+        "802": {
+            "total packets": 169,
+            "total times": 15.551275253295898,
+            "load time": 2.233537435531616
+        },
+        "850": {
+            "total packets": 112,
+            "total times": 13.445600986480713,
+            "load time": 0.4768059253692627
+        },
+        "898": {
+            "total packets": 144,
+            "total times": 14.807759761810303,
+            "load time": 1.3753931522369385
+        },
+        "946": {
+            "total packets": 122,
+            "total times": 13.465641260147095,
+            "load time": 0.46196937561035156
+        }
+    },
+    "https://www.youtube.com/watch?v=EfO4yK0pOrI": {
+        "35": {
+            "total packets": 170,
+            "total times": 36.731120586395264,
+            "load time": 5.002928972244263
+        },
+        "83": {
+            "total packets": 185,
+            "total times": 30.90008568763733,
+            "load time": 0.6999084949493408
+        },
+        "131": {
+            "total packets": 255,
+            "total times": 37.349029302597046,
+            "load time": 5.549727201461792
+        },
+        "179": {
+            "total packets": 204,
+            "total times": 32.716137409210205,
+            "load time": 1.28169846534729
+        },
+        "227": {
+            "total packets": 230,
+            "total times": 35.311174631118774,
+            "load time": 3.99324107170105
+        },
+        "275": {
+            "total packets": 203,
+            "total times": 33.872485637664795,
+            "load time": 5.37135910987854
+        },
+        "323": {
+            "total packets": 179,
+            "total times": 32.45696997642517,
+            "load time": 0.8417718410491943
+        },
+        "371": {
+            "total packets": 185,
+            "total times": 31.263725996017456,
+            "load time": 1.1453895568847656
+        },
+        "419": {
+            "total packets": 205,
+            "total times": 32.76923608779907,
+            "load time": 1.277850866317749
+        },
+        "467": {
+            "total packets": 185,
+            "total times": 31.84591794013977,
+            "load time": 0.41301989555358887
+        },
+        "515": {
+            "total packets": 196,
+            "total times": 32.681737184524536,
+            "load time": 1.2039830684661865
+        },
+        "563": {
+            "total packets": 200,
+            "total times": 32.68436574935913,
+            "load time": 1.234309434890747
+        },
+        "611": {
+            "total packets": 241,
+            "total times": 33.563719034194946,
+            "load time": 1.746201753616333
+        },
+        "659": {
+            "total packets": 229,
+            "total times": 34.1813440322876,
+            "load time": 2.7047457695007324
+        },
+        "707": {
+            "total packets": 169,
+            "total times": 30.719335079193115,
+            "load time": 0.1840205192565918
+        },
+        "755": {
+            "total packets": 257,
+            "total times": 33.417569160461426,
+            "load time": 3.1391279697418213
+        },
+        "803": {
+            "total packets": 175,
+            "total times": 32.592971086502075,
+            "load time": 1.3963043689727783
+        },
+        "851": {
+            "total packets": 245,
+            "total times": 33.025651693344116,
+            "load time": 1.2193646430969238
+        },
+        "899": {
+            "total packets": 209,
+            "total times": 32.80111360549927,
+            "load time": 0.8150756359100342
+        },
+        "947": {
+            "total packets": 189,
+            "total times": 31.38039493560791,
+            "load time": 1.1632001399993896
+        }
+    },
+    "https://www.youtube.com/watch?v=OlO7hJWSywA": {
+        "36": {
+            "total packets": 202,
+            "total times": 60.08582377433777,
+            "load time": 0.5214471817016602
+        },
+        "84": {
+            "total packets": 263,
+            "total times": 62.75621294975281,
+            "load time": 3.5348196029663086
+        },
+        "132": {
+            "total packets": 275,
+            "total times": 61.751120805740356,
+            "load time": 2.0264055728912354
+        },
+        "180": {
+            "total packets": 210,
+            "total times": 47.80896830558777,
+            "load time": 0.7688121795654297
+        },
+        "228": {
+            "total packets": 236,
+            "total times": 60.42907500267029,
+            "load time": 0.7383520603179932
+        },
+        "276": {
+            "total packets": 229,
+            "total times": 61.77334904670715,
+            "load time": 2.2460825443267822
+        },
+        "324": {
+            "total packets": 237,
+            "total times": 61.61863088607788,
+            "load time": 5.29939866065979
+        },
+        "372": {
+            "total packets": 209,
+            "total times": 59.9284770488739,
+            "load time": 0.5772864818572998
+        },
+        "420": {
+            "total packets": 228,
+            "total times": 59.99726891517639,
+            "load time": 0.8391039371490479
+        },
+        "468": {
+            "total packets": 207,
+            "total times": 60.13004517555237,
+            "load time": 0.8998446464538574
+        },
+        "516": {
+            "total packets": 234,
+            "total times": 60.0323531627655,
+            "load time": 0.5534932613372803
+        },
+        "564": {
+            "total packets": 57,
+            "total times": 6.96120023727417,
+            "load time": -27.202011346817017
+        },
+        "612": {
+            "total packets": 204,
+            "total times": 59.9444215297699,
+            "load time": 0.37500524520874023
+        },
+        "660": {
+            "total packets": 221,
+            "total times": 61.77990794181824,
+            "load time": 2.1849894523620605
+        },
+        "708": {
+            "total packets": 226,
+            "total times": 60.10777831077576,
+            "load time": 0.38124728202819824
+        },
+        "756": {
+            "total packets": 202,
+            "total times": 59.95124053955078,
+            "load time": 0.483288049697876
+        },
+        "804": {
+            "total packets": 239,
+            "total times": 60.04283165931702,
+            "load time": 0.788546085357666
+        },
+        "852": {
+            "total packets": 295,
+            "total times": 63.09225130081177,
+            "load time": 4.841700553894043
+        },
+        "900": {
+            "total packets": 252,
+            "total times": 62.414992570877075,
+            "load time": 2.782041549682617
+        },
+        "948": {
+            "total packets": 233,
+            "total times": 60.69901752471924,
+            "load time": 1.1837010383605957
+        }
+    },
+    "https://www.youtube.com/watch?v=uud9AGr3fAE": {
+        "37": {
+            "total packets": 241,
+            "total times": 48.02630019187927,
+            "load time": 0.8868100643157959
+        },
+        "85": {
+            "total packets": 245,
+            "total times": 57.44770312309265,
+            "load time": 0.509429931640625
+        },
+        "133": {
+            "total packets": 235,
+            "total times": 57.87935543060303,
+            "load time": 1.322460412979126
+        },
+        "181": {
+            "total packets": 271,
+            "total times": 57.87008023262024,
+            "load time": 1.333444595336914
+        },
+        "229": {
+            "total packets": 250,
+            "total times": 62.79541802406311,
+            "load time": 6.314010143280029
+        },
+        "277": {
+            "total packets": 239,
+            "total times": 51.37146759033203,
+            "load time": 1.3654251098632812
+        },
+        "325": {
+            "total packets": 230,
+            "total times": 60.212942123413086,
+            "load time": 3.5191125869750977
+        },
+        "373": {
+            "total packets": 256,
+            "total times": 57.45470213890076,
+            "load time": 0.6940653324127197
+        },
+        "421": {
+            "total packets": 237,
+            "total times": 57.92064905166626,
+            "load time": 1.461817979812622
+        },
+        "469": {
+            "total packets": 245,
+            "total times": 49.00832915306091,
+            "load time": 0.6250524520874023
+        },
+        "517": {
+            "total packets": 225,
+            "total times": 57.45023512840271,
+            "load time": 0.8696532249450684
+        },
+        "565": {
+            "total packets": 70,
+            "total times": 31.092630863189697,
+            "load time": -2.002645254135132
+        },
+        "613": {
+            "total packets": 273,
+            "total times": 63.850780963897705,
+            "load time": 6.977348804473877
+        },
+        "661": {
+            "total packets": 288,
+            "total times": 62.60200476646423,
+            "load time": 5.905056953430176
+        },
+        "709": {
+            "total packets": 280,
+            "total times": 57.482038736343384,
+            "load time": 0.6613256931304932
+        },
+        "757": {
+            "total packets": 288,
+            "total times": 58.00548505783081,
+            "load time": 1.4370932579040527
+        },
+        "805": {
+            "total packets": 235,
+            "total times": 54.04063582420349,
+            "load time": 1.351642370223999
+        },
+        "853": {
+            "total packets": 241,
+            "total times": 57.94296383857727,
+            "load time": 1.2516515254974365
+        },
+        "901": {
+            "total packets": 268,
+            "total times": 57.449671506881714,
+            "load time": 0.4911839962005615
+        },
+        "949": {
+            "total packets": 259,
+            "total times": 58.401912689208984,
+            "load time": 1.4217548370361328
+        }
+    },
+    "https://www.youtube.com/watch?v=prdJbeyyPo0": {
+        "38": {
+            "total packets": 1471,
+            "total times": 450.0829985141754,
+            "load time": 229.85801696777344
+        },
+        "86": {
+            "total packets": 964,
+            "total times": 253.34460926055908,
+            "load time": 48.904944896698
+        },
+        "134": {
+            "total packets": 2071,
+            "total times": 643.8525040149689,
+            "load time": 423.86008381843567
+        },
+        "182": {
+            "total packets": 1447,
+            "total times": 483.7044999599457,
+            "load time": 263.6809968948364
+        },
+        "230": {
+            "total packets": 1136,
+            "total times": 333.8181481361389,
+            "load time": 98.65117764472961
+        },
+        "278": {
+            "total packets": 1109,
+            "total times": 428.60885667800903,
+            "load time": 224.18539023399353
+        },
+        "326": {
+            "total packets": 1415,
+            "total times": 578.9022946357727,
+            "load time": 358.6430449485779
+        },
+        "374": {
+            "total packets": 866,
+            "total times": 282.77192735671997,
+            "load time": 78.54099106788635
+        },
+        "422": {
+            "total packets": 1222,
+            "total times": 556.4720854759216,
+            "load time": 352.0569212436676
+        },
+        "470": {
+            "total packets": 1064,
+            "total times": 302.43925166130066,
+            "load time": 82.2709174156189
+        },
+        "518": {
+            "total packets": 921,
+            "total times": 300.9732868671417,
+            "load time": 96.54444146156311
+        },
+        "566": {
+            "total packets": 825,
+            "total times": 279.17145347595215,
+            "load time": 74.89773678779602
+        },
+        "614": {
+            "total packets": 845,
+            "total times": 280.87658500671387,
+            "load time": 76.47775888442993
+        },
+        "662": {
+            "total packets": 886,
+            "total times": 304.3883390426636,
+            "load time": 100.01338768005371
+        },
+        "710": {
+            "total packets": 893,
+            "total times": 249.16660022735596,
+            "load time": 38.080042600631714
+        },
+        "758": {
+            "total packets": 975,
+            "total times": 361.55179476737976,
+            "load time": 157.2302930355072
+        },
+        "806": {
+            "total packets": 554,
+            "total times": 226.75267887115479,
+            "load time": 22.584242582321167
+        },
+        "854": {
+            "total packets": 642,
+            "total times": 222.44113278388977,
+            "load time": 17.99754309654236
+        },
+        "902": {
+            "total packets": 772,
+            "total times": 232.32167840003967,
+            "load time": 27.97685670852661
+        },
+        "950": {
+            "total packets": 566,
+            "total times": 220.9222903251648,
+            "load time": 16.67173671722412
+        }
+    },
+    "https://www.youtube.com/watch?v=wDFVzJjbqCg": {
+        "39": {
+            "total packets": 205,
+            "total times": 17.14468765258789,
+            "load time": 2.504734516143799
+        },
+        "87": {
+            "total packets": 302,
+            "total times": 28.598986387252808,
+            "load time": 16.40275549888611
+        },
+        "135": {
+            "total packets": 181,
+            "total times": 21.86946940422058,
+            "load time": 6.978453874588013
+        },
+        "183": {
+            "total packets": 158,
+            "total times": 15.730528354644775,
+            "load time": 1.1976597309112549
+        },
+        "231": {
+            "total packets": 159,
+            "total times": 15.794041872024536,
+            "load time": 1.3714160919189453
+        },
+        "279": {
+            "total packets": 445,
+            "total times": 33.08037352561951,
+            "load time": 17.96402859687805
+        },
+        "327": {
+            "total packets": 173,
+            "total times": 15.572422504425049,
+            "load time": 1.0343618392944336
+        },
+        "375": {
+            "total packets": 408,
+            "total times": 55.563207387924194,
+            "load time": 40.46152186393738
+        },
+        "423": {
+            "total packets": 422,
+            "total times": 30.46179437637329,
+            "load time": 17.590091943740845
+        },
+        "471": {
+            "total packets": 150,
+            "total times": 15.851131677627563,
+            "load time": 1.4009575843811035
+        },
+        "519": {
+            "total packets": 282,
+            "total times": 21.99595069885254,
+            "load time": 6.937775135040283
+        },
+        "567": {
+            "total packets": 309,
+            "total times": 25.29465961456299,
+            "load time": 10.226264476776123
+        },
+        "615": {
+            "total packets": 336,
+            "total times": 34.92320704460144,
+            "load time": 19.854381561279297
+        },
+        "663": {
+            "total packets": 369,
+            "total times": 33.45210886001587,
+            "load time": 18.458673000335693
+        },
+        "711": {
+            "total packets": 399,
+            "total times": 33.77379870414734,
+            "load time": 18.815244674682617
+        },
+        "759": {
+            "total packets": 272,
+            "total times": 23.018966913223267,
+            "load time": 8.182366609573364
+        },
+        "807": {
+            "total packets": 511,
+            "total times": 47.776318073272705,
+            "load time": 32.74547529220581
+        },
+        "855": {
+            "total packets": 491,
+            "total times": 48.02263569831848,
+            "load time": 32.94307804107666
+        },
+        "903": {
+            "total packets": 1089,
+            "total times": 39.80911636352539,
+            "load time": 24.675790071487427
+        },
+        "951": {
+            "total packets": 498,
+            "total times": 48.1776397228241,
+            "load time": 33.135210275650024
+        }
+    },
+    "https://www.youtube.com/watch?v=clqhJOz-LFM": {
+        "40": {
+            "total packets": 256,
+            "total times": 59.736515283584595,
+            "load time": 0.438187837600708
+        },
+        "88": {
+            "total packets": 256,
+            "total times": 61.15925717353821,
+            "load time": 1.6444873809814453
+        },
+        "136": {
+            "total packets": 257,
+            "total times": 59.78654432296753,
+            "load time": 0.6865179538726807
+        },
+        "184": {
+            "total packets": 219,
+            "total times": 59.62400698661804,
+            "load time": 0.355851411819458
+        },
+        "232": {
+            "total packets": 239,
+            "total times": 59.741329193115234,
+            "load time": 0.9162807464599609
+        },
+        "280": {
+            "total packets": 236,
+            "total times": 59.75645589828491,
+            "load time": 0.9083702564239502
+        },
+        "328": {
+            "total packets": 174,
+            "total times": 59.65530967712402,
+            "load time": 0.7427270412445068
+        },
+        "376": {
+            "total packets": 249,
+            "total times": 59.90642428398132,
+            "load time": 0.9357571601867676
+        },
+        "424": {
+            "total packets": 283,
+            "total times": 60.427539587020874,
+            "load time": 1.4605512619018555
+        },
+        "472": {
+            "total packets": 286,
+            "total times": 59.887927293777466,
+            "load time": 0.371981143951416
+        },
+        "520": {
+            "total packets": 221,
+            "total times": 59.789270639419556,
+            "load time": 0.9528651237487793
+        },
+        "568": {
+            "total packets": 272,
+            "total times": 61.445268630981445,
+            "load time": 2.0268468856811523
+        },
+        "616": {
+            "total packets": 220,
+            "total times": 60.91596341133118,
+            "load time": 2.1625328063964844
+        },
+        "664": {
+            "total packets": 219,
+            "total times": 59.96158695220947,
+            "load time": 1.031991720199585
+        },
+        "712": {
+            "total packets": 295,
+            "total times": 60.12272644042969,
+            "load time": 0.6179084777832031
+        },
+        "760": {
+            "total packets": 217,
+            "total times": 59.785053730010986,
+            "load time": 0.7530074119567871
+        },
+        "808": {
+            "total packets": 240,
+            "total times": 60.95563888549805,
+            "load time": 1.9045860767364502
+        },
+        "856": {
+            "total packets": 257,
+            "total times": 60.77625036239624,
+            "load time": 2.5962109565734863
+        },
+        "904": {
+            "total packets": 286,
+            "total times": 60.024781703948975,
+            "load time": 0.9978375434875488
+        },
+        "952": {
+            "total packets": 249,
+            "total times": 60.92556929588318,
+            "load time": 1.5248725414276123
+        }
+    },
+    "https://www.youtube.com/watch?v=6UGn2KrrR7w": {
+        "41": {
+            "total packets": 295,
+            "total times": 60.988569259643555,
+            "load time": 2.2535269260406494
+        },
+        "89": {
+            "total packets": 281,
+            "total times": 60.181854248046875,
+            "load time": 1.784496784210205
+        },
+        "137": {
+            "total packets": 255,
+            "total times": 63.35789227485657,
+            "load time": 4.542253732681274
+        },
+        "185": {
+            "total packets": 274,
+            "total times": 62.346094846725464,
+            "load time": 4.742360591888428
+        },
+        "233": {
+            "total packets": 256,
+            "total times": 59.95903253555298,
+            "load time": 1.251429796218872
+        },
+        "281": {
+            "total packets": 287,
+            "total times": 59.709392070770264,
+            "load time": 1.0959815979003906
+        },
+        "329": {
+            "total packets": 205,
+            "total times": 59.66220736503601,
+            "load time": 1.2061965465545654
+        },
+        "377": {
+            "total packets": 269,
+            "total times": 60.5545380115509,
+            "load time": 2.2438430786132812
+        },
+        "425": {
+            "total packets": 237,
+            "total times": 59.20319890975952,
+            "load time": 0.533440351486206
+        },
+        "473": {
+            "total packets": 257,
+            "total times": 59.68154215812683,
+            "load time": 1.393134355545044
+        },
+        "521": {
+            "total packets": 249,
+            "total times": 61.27335834503174,
+            "load time": 3.056081533432007
+        },
+        "569": {
+            "total packets": 267,
+            "total times": 59.52173638343811,
+            "load time": 1.1232068538665771
+        },
+        "617": {
+            "total packets": 276,
+            "total times": 59.940268993377686,
+            "load time": 1.276646375656128
+        },
+        "665": {
+            "total packets": 248,
+            "total times": 59.51268243789673,
+            "load time": 1.1196448802947998
+        },
+        "713": {
+            "total packets": 238,
+            "total times": 59.6493935585022,
+            "load time": 1.3075599670410156
+        },
+        "761": {
+            "total packets": 264,
+            "total times": 59.65059542655945,
+            "load time": 1.3548264503479004
+        },
+        "809": {
+            "total packets": 239,
+            "total times": 59.6062068939209,
+            "load time": 1.620307207107544
+        },
+        "857": {
+            "total packets": 251,
+            "total times": 59.12830591201782,
+            "load time": 0.48100709915161133
+        },
+        "905": {
+            "total packets": 268,
+            "total times": 59.75007152557373,
+            "load time": 0.9287018775939941
+        },
+        "953": {
+            "total packets": 295,
+            "total times": 60.582146644592285,
+            "load time": 1.8175170421600342
+        }
+    },
+    "https://www.youtube.com/watch?v=SEn0LiKZUq0": {
+        "42": {
+            "total packets": 184,
+            "total times": 15.801090002059937,
+            "load time": 1.233121633529663
+        },
+        "90": {
+            "total packets": 170,
+            "total times": 15.547468185424805,
+            "load time": 0.758354663848877
+        },
+        "138": {
+            "total packets": 193,
+            "total times": 15.825005292892456,
+            "load time": 1.2497260570526123
+        },
+        "186": {
+            "total packets": 164,
+            "total times": 15.81623363494873,
+            "load time": 1.2557673454284668
+        },
+        "234": {
+            "total packets": 153,
+            "total times": 15.455625057220459,
+            "load time": 0.5259027481079102
+        },
+        "282": {
+            "total packets": 139,
+            "total times": 15.79826283454895,
+            "load time": 1.2914459705352783
+        },
+        "330": {
+            "total packets": 185,
+            "total times": 21.232548713684082,
+            "load time": 6.292475461959839
+        },
+        "378": {
+            "total packets": 154,
+            "total times": 20.672332286834717,
+            "load time": 6.191948652267456
+        },
+        "426": {
+            "total packets": 158,
+            "total times": 15.39366865158081,
+            "load time": 0.7546381950378418
+        },
+        "474": {
+            "total packets": 139,
+            "total times": 12.92021107673645,
+            "load time": 0.5675935745239258
+        },
+        "522": {
+            "total packets": 161,
+            "total times": 11.558012247085571,
+            "load time": 0.6416642665863037
+        },
+        "570": {
+            "total packets": 134,
+            "total times": 13.781855583190918,
+            "load time": 3.505586624145508
+        },
+        "618": {
+            "total packets": 176,
+            "total times": 13.454259872436523,
+            "load time": 0.928431510925293
+        },
+        "666": {
+            "total packets": 166,
+            "total times": 15.44154977798462,
+            "load time": 0.8644886016845703
+        },
+        "714": {
+            "total packets": 138,
+            "total times": 15.44429349899292,
+            "load time": 0.7481157779693604
+        },
+        "762": {
+            "total packets": 199,
+            "total times": 15.444592714309692,
+            "load time": 0.4908015727996826
+        },
+        "810": {
+            "total packets": 166,
+            "total times": 17.92515802383423,
+            "load time": 3.226956367492676
+        },
+        "858": {
+            "total packets": 191,
+            "total times": 15.44836688041687,
+            "load time": 0.569394588470459
+        },
+        "906": {
+            "total packets": 180,
+            "total times": 16.25724506378174,
+            "load time": 1.238966464996338
+        },
+        "954": {
+            "total packets": 153,
+            "total times": 15.743378162384033,
+            "load time": 1.245607614517212
+        }
+    },
+    "https://www.youtube.com/watch?v=IS7D3WLLLnQ": {
+        "43": {
+            "total packets": 155,
+            "total times": 33.06772518157959,
+            "load time": 3.547992706298828
+        },
+        "91": {
+            "total packets": 182,
+            "total times": 30.494107007980347,
+            "load time": 0.8653676509857178
+        },
+        "139": {
+            "total packets": 341,
+            "total times": 62.74061346054077,
+            "load time": 32.71720910072327
+        },
+        "187": {
+            "total packets": 227,
+            "total times": 31.94401717185974,
+            "load time": 2.0251364707946777
+        },
+        "235": {
+            "total packets": 449,
+            "total times": 54.84690523147583,
+            "load time": 24.992393493652344
+        },
+        "283": {
+            "total packets": 193,
+            "total times": 30.644529819488525,
+            "load time": 0.8012042045593262
+        },
+        "331": {
+            "total packets": 355,
+            "total times": 47.190261125564575,
+            "load time": 17.155357360839844
+        },
+        "379": {
+            "total packets": 361,
+            "total times": 49.05437994003296,
+            "load time": 19.006932258605957
+        },
+        "427": {
+            "total packets": 176,
+            "total times": 30.107312440872192,
+            "load time": 0.18605875968933105
+        },
+        "475": {
+            "total packets": 167,
+            "total times": 28.690421104431152,
+            "load time": 0.9589982032775879
+        },
+        "523": {
+            "total packets": 186,
+            "total times": 30.79335904121399,
+            "load time": 0.8797588348388672
+        },
+        "571": {
+            "total packets": 206,
+            "total times": 29.78799796104431,
+            "load time": 2.6488661766052246
+        },
+        "619": {
+            "total packets": 166,
+            "total times": 30.11568593978882,
+            "load time": 0.5206522941589355
+        },
+        "667": {
+            "total packets": 186,
+            "total times": 30.446516275405884,
+            "load time": 0.6832165718078613
+        },
+        "715": {
+            "total packets": 157,
+            "total times": 31.797062158584595,
+            "load time": 2.174915313720703
+        },
+        "763": {
+            "total packets": 163,
+            "total times": 29.428181171417236,
+            "load time": 0.5957126617431641
+        },
+        "811": {
+            "total packets": 349,
+            "total times": 61.078449010849,
+            "load time": 31.01697015762329
+        },
+        "859": {
+            "total packets": 350,
+            "total times": 62.23420071601868,
+            "load time": 32.317434549331665
+        },
+        "907": {
+            "total packets": 179,
+            "total times": 30.439518928527832,
+            "load time": 0.6109530925750732
+        },
+        "955": {
+            "total packets": 365,
+            "total times": 58.7762234210968,
+            "load time": 31.239340782165527
+        }
+    },
+    "https://www.youtube.com/watch?v=In_2CSOz6O8": {
+        "44": {
+            "total packets": 556,
+            "total times": 87.55530858039856,
+            "load time": 39.16249322891235
+        },
+        "92": {
+            "total packets": 517,
+            "total times": 87.11546206474304,
+            "load time": 38.59337401390076
+        },
+        "140": {
+            "total packets": 223,
+            "total times": 44.043185234069824,
+            "load time": 1.8308534622192383
+        },
+        "188": {
+            "total packets": 411,
+            "total times": 81.13623762130737,
+            "load time": 32.573570728302
+        },
+        "236": {
+            "total packets": 256,
+            "total times": 48.906885623931885,
+            "load time": 0.524956464767456
+        },
+        "284": {
+            "total packets": 496,
+            "total times": 142.26113843917847,
+            "load time": 93.79221725463867
+        },
+        "332": {
+            "total packets": 235,
+            "total times": 49.11628484725952,
+            "load time": 0.6579077243804932
+        },
+        "380": {
+            "total packets": 258,
+            "total times": 49.34127473831177,
+            "load time": 1.113255262374878
+        },
+        "428": {
+            "total packets": 389,
+            "total times": 64.63623380661011,
+            "load time": 16.18057131767273
+        },
+        "476": {
+            "total packets": 406,
+            "total times": 65.81620240211487,
+            "load time": 17.37318444252014
+        },
+        "524": {
+            "total packets": 430,
+            "total times": 90.5597174167633,
+            "load time": 41.93500328063965
+        },
+        "572": {
+            "total packets": 452,
+            "total times": 91.44129061698914,
+            "load time": 42.8296582698822
+        },
+        "620": {
+            "total packets": 464,
+            "total times": 92.14095115661621,
+            "load time": 43.499494552612305
+        },
+        "668": {
+            "total packets": 402,
+            "total times": 72.25962138175964,
+            "load time": 23.730515718460083
+        },
+        "716": {
+            "total packets": 385,
+            "total times": 56.68796420097351,
+            "load time": 8.0355966091156
+        },
+        "764": {
+            "total packets": 368,
+            "total times": 65.69797134399414,
+            "load time": 17.21583366394043
+        },
+        "812": {
+            "total packets": 285,
+            "total times": 55.40430188179016,
+            "load time": 7.280911207199097
+        },
+        "860": {
+            "total packets": 240,
+            "total times": 49.36917972564697,
+            "load time": 1.3022427558898926
+        },
+        "908": {
+            "total packets": 423,
+            "total times": 75.71641182899475,
+            "load time": 27.151246786117554
+        },
+        "956": {
+            "total packets": 255,
+            "total times": 49.98328161239624,
+            "load time": 1.8625595569610596
+        }
+    },
+    "https://www.youtube.com/watch?v=oswuVK9jnmI": {
+        "45": {
+            "total packets": 682,
+            "total times": 234.43516278266907,
+            "load time": 5.19853949546814
+        },
+        "93": {
+            "total packets": 685,
+            "total times": 231.23000192642212,
+            "load time": 1.2740705013275146
+        },
+        "141": {
+            "total packets": 642,
+            "total times": 230.70250964164734,
+            "load time": 0.4716827869415283
+        },
+        "189": {
+            "total packets": 933,
+            "total times": 413.35941672325134,
+            "load time": 7.078618288040161
+        },
+        "237": {
+            "total packets": 522,
+            "total times": 225.08598613739014,
+            "load time": 6.205005407333374
+        },
+        "285": {
+            "total packets": 539,
+            "total times": 220.34027290344238,
+            "load time": 1.4666266441345215
+        },
+        "333": {
+            "total packets": 702,
+            "total times": 236.1992630958557,
+            "load time": 1.1486454010009766
+        },
+        "381": {
+            "total packets": 493,
+            "total times": 220.27929544448853,
+            "load time": 1.3105523586273193
+        },
+        "429": {
+            "total packets": 641,
+            "total times": 227.13629412651062,
+            "load time": 1.198066234588623
+        },
+        "477": {
+            "total packets": 515,
+            "total times": 220.13937783241272,
+            "load time": 0.8359992504119873
+        },
+        "525": {
+            "total packets": 576,
+            "total times": 221.21721053123474,
+            "load time": 1.8496854305267334
+        },
+        "573": {
+            "total packets": 1987,
+            "total times": 433.78847336769104,
+            "load time": 2.51605224609375
+        },
+        "621": {
+            "total packets": 1174,
+            "total times": 370.1814548969269,
+            "load time": 2.6961188316345215
+        },
+        "669": {
+            "total packets": 853,
+            "total times": 326.97273421287537,
+            "load time": 2.242210626602173
+        },
+        "717": {
+            "total packets": 445,
+            "total times": 222.17063236236572,
+            "load time": 4.673418760299683
+        },
+        "765": {
+            "total packets": 487,
+            "total times": 226.29056811332703,
+            "load time": 6.914988040924072
+        },
+        "813": {
+            "total packets": 434,
+            "total times": 210.27259802818298,
+            "load time": 0.6623079776763916
+        },
+        "861": {
+            "total packets": 502,
+            "total times": 221.8580858707428,
+            "load time": 2.586268663406372
+        },
+        "909": {
+            "total packets": 508,
+            "total times": 221.27991318702698,
+            "load time": 2.359300136566162
+        },
+        "957": {
+            "total packets": 644,
+            "total times": 231.27605605125427,
+            "load time": 5.1652631759643555
+        }
+    },
+    "https://www.youtube.com/watch?v=xyDKZFaqRYg": {
+        "46": {
+            "total packets": 319,
+            "total times": 99.34992384910583,
+            "load time": 1.1875813007354736
+        },
+        "94": {
+            "total packets": 316,
+            "total times": 104.0405285358429,
+            "load time": 6.411854267120361
+        },
+        "142": {
+            "total packets": 322,
+            "total times": 104.54699110984802,
+            "load time": 6.289433479309082
+        },
+        "190": {
+            "total packets": 529,
+            "total times": 163.131450176239,
+            "load time": 64.57116603851318
+        },
+        "238": {
+            "total packets": 470,
+            "total times": 129.1917440891266,
+            "load time": 30.716045379638672
+        },
+        "286": {
+            "total packets": 627,
+            "total times": 162.56109929084778,
+            "load time": 64.20001888275146
+        },
+        "334": {
+            "total packets": 301,
+            "total times": 103.39526653289795,
+            "load time": 5.967586517333984
+        },
+        "382": {
+            "total packets": 530,
+            "total times": 162.4243245124817,
+            "load time": 64.47454261779785
+        },
+        "430": {
+            "total packets": 362,
+            "total times": 105.16369104385376,
+            "load time": 6.639160871505737
+        },
+        "478": {
+            "total packets": 456,
+            "total times": 130.91385555267334,
+            "load time": 32.49392580986023
+        },
+        "526": {
+            "total packets": 556,
+            "total times": 126.12689566612244,
+            "load time": 27.57550573348999
+        },
+        "574": {
+            "total packets": 484,
+            "total times": 117.9641797542572,
+            "load time": 19.481430768966675
+        },
+        "622": {
+            "total packets": 329,
+            "total times": 102.5642716884613,
+            "load time": 4.725752115249634
+        },
+        "670": {
+            "total packets": 292,
+            "total times": 99.02619886398315,
+            "load time": 0.631040096282959
+        },
+        "718": {
+            "total packets": 554,
+            "total times": 131.23825931549072,
+            "load time": 32.7014684677124
+        },
+        "766": {
+            "total packets": 394,
+            "total times": 96.07582235336304,
+            "load time": 6.785488843917847
+        },
+        "814": {
+            "total packets": 519,
+            "total times": 162.072612285614,
+            "load time": 63.696775913238525
+        },
+        "862": {
+            "total packets": 455,
+            "total times": 110.61944460868835,
+            "load time": 12.172762155532837
+        },
+        "910": {
+            "total packets": 522,
+            "total times": 121.0443925857544,
+            "load time": 22.454591751098633
+        },
+        "958": {
+            "total packets": 349,
+            "total times": 99.47128534317017,
+            "load time": 1.4641764163970947
+        }
+    },
+    "https://www.youtube.com/watch?v=Y1Kbf6SInFc": {
+        "47": {
+            "total packets": 241,
+            "total times": 46.98173260688782,
+            "load time": 1.3077239990234375
+        },
+        "95": {
+            "total packets": 293,
+            "total times": 51.76338291168213,
+            "load time": 5.950409173965454
+        },
+        "143": {
+            "total packets": 265,
+            "total times": 51.75519514083862,
+            "load time": 5.678231716156006
+        },
+        "191": {
+            "total packets": 257,
+            "total times": 46.9143648147583,
+            "load time": 1.3066327571868896
+        },
+        "239": {
+            "total packets": 229,
+            "total times": 46.576491355895996,
+            "load time": 0.6556148529052734
+        },
+        "287": {
+            "total packets": 269,
+            "total times": 50.82523798942566,
+            "load time": 5.817969799041748
+        },
+        "335": {
+            "total packets": 201,
+            "total times": 47.4717276096344,
+            "load time": 1.9208850860595703
+        },
+        "383": {
+            "total packets": 228,
+            "total times": 50.50863862037659,
+            "load time": 5.97373628616333
+        },
+        "431": {
+            "total packets": 248,
+            "total times": 46.933897972106934,
+            "load time": 1.3381540775299072
+        },
+        "479": {
+            "total packets": 271,
+            "total times": 46.92951822280884,
+            "load time": 1.2935383319854736
+        },
+        "527": {
+            "total packets": 250,
+            "total times": 46.944072008132935,
+            "load time": 1.3592495918273926
+        },
+        "575": {
+            "total packets": 248,
+            "total times": 49.810518980026245,
+            "load time": 5.377000331878662
+        },
+        "623": {
+            "total packets": 253,
+            "total times": 49.679749488830566,
+            "load time": 3.5944430828094482
+        },
+        "671": {
+            "total packets": 258,
+            "total times": 46.512057065963745,
+            "load time": 0.6538047790527344
+        },
+        "719": {
+            "total packets": 254,
+            "total times": 51.05737352371216,
+            "load time": 5.064018964767456
+        },
+        "767": {
+            "total packets": 267,
+            "total times": 44.587443113327026,
+            "load time": 1.0182912349700928
+        },
+        "815": {
+            "total packets": 266,
+            "total times": 51.28653287887573,
+            "load time": 6.1514856815338135
+        },
+        "863": {
+            "total packets": 242,
+            "total times": 46.78446984291077,
+            "load time": 1.3146231174468994
+        },
+        "911": {
+            "total packets": 233,
+            "total times": 38.870001792907715,
+            "load time": 1.1163461208343506
+        },
+        "959": {
+            "total packets": 214,
+            "total times": 39.20648741722107,
+            "load time": 1.110785722732544
+        }
+    },
+    "https://www.youtube.com/watch?v=vMmNFkgI_7M": {
+        "48": {
+            "total packets": 218,
+            "total times": 30.531575918197632,
+            "load time": 1.2124691009521484
+        },
+        "96": {
+            "total packets": 206,
+            "total times": 31.990201234817505,
+            "load time": 2.7426576614379883
+        },
+        "144": {
+            "total packets": 213,
+            "total times": 30.14039945602417,
+            "load time": 0.5322060585021973
+        },
+        "192": {
+            "total packets": 177,
+            "total times": 31.867501735687256,
+            "load time": 2.614392042160034
+        },
+        "240": {
+            "total packets": 195,
+            "total times": 30.375461101531982,
+            "load time": 1.36311936378479
+        },
+        "288": {
+            "total packets": 210,
+            "total times": 30.394946575164795,
+            "load time": 1.150040626525879
+        },
+        "336": {
+            "total packets": 159,
+            "total times": 27.294723749160767,
+            "load time": 1.3632514476776123
+        },
+        "384": {
+            "total packets": 202,
+            "total times": 30.392458200454712,
+            "load time": 1.14125394821167
+        },
+        "432": {
+            "total packets": 222,
+            "total times": 30.16176748275757,
+            "load time": 0.5585904121398926
+        },
+        "480": {
+            "total packets": 179,
+            "total times": 30.56661033630371,
+            "load time": 1.2716190814971924
+        },
+        "528": {
+            "total packets": 245,
+            "total times": 35.61642122268677,
+            "load time": 6.009353876113892
+        },
+        "576": {
+            "total packets": 257,
+            "total times": 36.08468747138977,
+            "load time": 6.468068599700928
+        },
+        "624": {
+            "total packets": 238,
+            "total times": 30.978686094284058,
+            "load time": 1.7663378715515137
+        },
+        "672": {
+            "total packets": 207,
+            "total times": 35.663206815719604,
+            "load time": 6.089338064193726
+        },
+        "720": {
+            "total packets": 206,
+            "total times": 31.58807873725891,
+            "load time": 2.011889934539795
+        },
+        "768": {
+            "total packets": 249,
+            "total times": 30.851514101028442,
+            "load time": 1.0594744682312012
+        },
+        "816": {
+            "total packets": 190,
+            "total times": 30.393900632858276,
+            "load time": 1.1911523342132568
+        },
+        "864": {
+            "total packets": 205,
+            "total times": 30.494083404541016,
+            "load time": 1.226170539855957
+        },
+        "912": {
+            "total packets": 232,
+            "total times": 34.81936025619507,
+            "load time": 5.232605457305908
+        },
+        "960": {
+            "total packets": 193,
+            "total times": 29.246040105819702,
+            "load time": 0.4307749271392822
+        }
+    }
+}
